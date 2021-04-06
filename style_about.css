@@ -1,0 +1,190 @@
+
+@font-face{
+	font-family: 'Helvetica';
+	src: url(fonts/FaunaOne-Regular.ttf);
+}
+
+
+@font-face{
+	font-family: 'Aovel';
+	src: url(fonts/AovelSans-nXoO.ttf);
+}
+
+@font-face{
+	font-family: 'Equil';
+	src: url(fonts/equil.otf);
+}
+
+
+
+.topnav {
+  background-color: #edeae3;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: "Aovel";
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding-top: 23px;
+  background-color: #edeae3;
+  
+}
+
+.topnav a:hover {
+
+transform: scale(1.1);
+
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  transform: scale(1.1);
+  color: black;
+  
+}
+
+/* Add a color to the active/current link */
+.logo a {
+  float: left;
+  font-family: "Equil";
+  font-size: 30px;
+  text-decoration: none;
+   color: #000000;
+   background-color: #edeae3;
+
+}
+
+
+.navbar {
+border-bottom: 3px solid #e25c02;
+position: fixed; /* Set the navbar to fixed position */
+top: 0; /* Position the navbar at the top of the page */
+width: 100%; 
+background-color: #edeae3;
+}
+
+p {
+
+font-family: "Helvetica";
+font-size: 14px;
+
+
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+   color: black;
+   text-align: center;
+   border-top: 1px solid black;
+   position:fixed;
+   background-color: #edeae3;
+   
+}
+
+
+body {
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    background-color: #edeae3;
+}
+  
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
+}
+
+
+
+h3 {
+padding-bottom: 5%;
+font-family: "Equil";
+text-transform: uppercase;
+letter-spacing: 5px;
+font-size: 18px;
+font-weight: bolder;
+text-align: center;
+
+}
+
+
+
+img{
+  width: 55%;
+  
+}
+
+.column1 {
+  float: left;
+  padding: 2%;
+  width: 35%;
+  text-align: center;
+  
+}
+
+.column2 {
+  float: right;
+ padding: 2%;
+  width: 35%;
+ text-align: center;
+ 
+}
+
+.both{
+
+margin-top: 3%;
+margin-left: 12%;
+margin-right: 12%;
+
+
+}
+
+.bold {
+font-family: "Aovel";
+text-transform: uppercase;
+letter-spacing: 5px;
+
+}
+
+
+.od {
+font-family: "Aovel";
+text-transform: uppercase;
+letter-spacing: 5px;
+font-size: 30px;
+font-weight: bolder;
+color: #e25c02;
+}
+
+.jail {
+font-family: "Equil";
+  font-size: 15px;
+  text-decoration: none;
+   color: #000000;
+}
+
+.od2 {
+font-family: "Aovel";
+text-transform: uppercase;
+letter-spacing: 5px;
+font-size: 15px;
+font-weight: bolder;
+color: #e25c02;
+}
+
+
+

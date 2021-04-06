@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Index</title>
+
+<link rel="stylesheet" href="style_index.css">
+</head>
+<body>
+
+<h1 class="ml5">
+  <span class="text-wrapper">
+    <span class="line line1"></span>
+    <span class="letters letters-left">JAIL</span>
+    <span class="letters ampersand">|OD|</span>
+    <span class="letters letters-right">BREAK</span>
+    <span class="line line2"></span>
+  </span>
+</h1>
+<div class = "enter">
+<a href="homepage.html">Enter</a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+
+
+
+<script>
+anime.timeline({loop: false})
+  .add({
+    targets: '.ml5 .line',
+    opacity: [0.5,1],
+    scaleX: [0, 1],
+    easing: "easeInOutExpo",
+    duration: 1000
+  }).add({
+    targets: '.ml5 .line',
+    duration: 1000,
+    easing: "easeOutExpo",
+    translateY: (el, i) => (-0.625 + 0.625*2*i) + "em"
+  }).add({
+    targets: '.ml5 .ampersand',
+    opacity: [0,1],
+    scaleY: [0.5, 1],
+    easing: "easeOutExpo",
+    duration: 1000,
+    offset: '-=600'
+  }).add({
+    targets: '.ml5 .letters-left',
+    opacity: [0,1],
+    translateX: ["0.5em", 0],
+    easing: "easeOutExpo",
+    duration: 1000,
+    offset: '-=600'
+  }).add({
+    targets: '.ml5 .letters-right',
+    opacity: [0,1],
+    translateX: ["-0.5em", 0],
+    easing: "easeOutExpo",
+    duration: 1000,
+    offset: '-=600'
+  });
+</script>
+
+
+
+
+</body>
+</html>
+

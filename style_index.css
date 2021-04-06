@@ -1,0 +1,104 @@
+@font-face{
+	font-family: 'Helvetica';
+	src: url(fonts/FaunaOne-Regular.ttf);
+}
+
+
+@font-face{
+	font-family: 'Aovel';
+	src: url(fonts/AovelSans-nXoO.ttf);
+}
+
+@font-face{
+	font-family: 'Equil';
+	src: url(fonts/equil.otf);
+}
+
+
+body {
+
+background-color: #edeae3;}
+
+
+.ml5 {
+  position: relative;
+  text-align: center;
+  font-weight: 300;
+  margin-top: 220px;
+  font-size: 4.5em;
+  color: #402d2d;
+}
+
+.ml5 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-right: 0.05em;
+  padding-bottom: 0.15em;
+  line-height: 1em;
+}
+
+.ml5 .line {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 3px;
+  width: 100%;
+  background-color: #402d2d;
+  transform-origin: 0.5 0;
+}
+
+.ml5 .ampersand {
+  font-weight: 400;
+  width: 2.5em;
+  letter-spacing: 2px;
+  margin-right: -0.1em;
+  margin-left: -0.1em;
+  
+}
+
+.ampersand {
+color: #e25c02;
+font-family:"Aovel";!important }
+
+.ml5 .letters-right, .letters-left {
+  display: inline-block;
+  opacity: 0;
+  font-family:"Equil";
+  color: black;
+}
+
+.enter {
+
+text-align:center;
+font-family:"Aovel";
+text-transform: uppercase;
+letter-spacing: 5px;
+font-size: 20px;
+font-weight:bolder;
+
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/* mouse over link */
+
+a:hover {
+  color: #e25c02;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: black;
+  text-decoration: none;
+}
+
+a {
+
+text-decoration: none;}
