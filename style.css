@@ -133,7 +133,7 @@ width:50%}
 .intro_image {
 height:100%;
 margin:10%;
-overflow:scroll;
+overflow:hidden;
 background-color: #edeae3;
 
 }

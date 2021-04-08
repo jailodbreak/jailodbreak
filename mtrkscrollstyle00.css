@@ -1,0 +1,281 @@
+.mtrk-header {
+    position:fixed;
+    width:100%;
+    height:40px;
+    top:0;
+    border-bottom: 0.5px solid black;
+    color: black;
+    z-index: 3;
+    background-color: white;
+    }
+    
+    .mtrk-sidebar {
+    display: none;
+    position:fixed;
+    width:6%;
+    height: 100%;
+    top:0;
+    margin-left: 20px;
+    text-align: center;
+    animation-name: fadeInLeft;
+    animation-duration: 2s;
+    }
+    
+    #sideline {
+    margin-top: 100px;
+    width:50px; /* you can use % */
+    height: 85%;
+    }
+    
+    .mtrskimg {
+    position: relative;
+    top:-82%;
+    margin-bottom: 20px;
+    margin-left: 14px;
+    }
+    
+    #mtrsk1 {
+    width: 80%;
+    }
+    
+    #mtrsk2 {
+    width: 80%;
+    }
+    
+    #mtrsk3 {
+    width: 80%;
+    
+    }
+    
+    #mtrsk4 {
+    width: 80%;
+    
+    }
+    
+    #mtrsk5 {
+    width: 80%;
+    
+    }
+    
+    input {
+    border: none;
+    outline: none;
+    }
+    
+    
+    .intro {
+   
+    display: block;
+    margin-left: 15%;
+    margin-bottom: 35%;
+    width:80%;
+    color: black;
+    z-index: 1;
+    margin-top: 140px;
+    text-align: center;
+    text-justify: inter-word;
+    }
+    
+    #content01 {
+    /*opacity:0;*/
+    }
+    
+    .content {
+   
+    display: block;
+    opacity:1;
+    margin-left: 10%;
+    width:80%;
+    color: black;
+    z-index: 1;
+    text-align: justify;
+    text-justify: inter-word;
+    text-align:center;
+    padding-top: 40px;
+    }
+    
+    .intro p{
+    text-align:center;
+    
+    font-size: 40px;
+    margin-right:20%;
+    margin-left:7%;
+    }
+    
+    .intro p img{
+    margin: auto;
+    animation: blinker 2.5s linear infinite;
+    -webkit-animation: fade_move_down 4s ease-in-out infinite;
+    }
+    
+    .arrow {
+    width: 7%;
+    height: auto;
+    margin-right:20%;
+    margin-left:7%;
+    
+    }
+    
+    
+    
+    
+    @keyframes blinker {
+      50% {
+        opacity: 0;
+      }
+    }
+    
+    @-webkit-keyframes fade_move_down {
+      0%   { -webkit-transform:translate(0,-10px) rotate(0deg); opacity: 0;  }
+      50%  { opacity: 1;  }
+      100% { -webkit-transform:translate(0,10px) rotate(0deg); opacity: 0; }
+    }
+    
+    
+    @keyframes fadeInLeft {
+       0% {
+          opacity: 0;
+          transform: translateX(-50px);
+       }
+       100% {
+          opacity: 1;
+          transform: translateX(0);
+       }
+    }   
+    
+    @keyframes fadeOutLeft {
+       0% {
+          opacity: 1;
+          transform: translateX(0px);
+       }
+       100% {
+          opacity: 0;
+          transform: translateX(-50px);
+       }
+    } 
+    
+    
+    /* ----------------------------- 100 PICTOGRAMS CHART ----------------------------- */
+   
+    
+    /* ----------------------------- COUNTING NUMBER  ----------------------------- */
+    
+    
+    .content01 p {
+    text-align: center;
+        font-family: 'Maison Neue';
+        font-size: 30px;
+        margin-right: 7%;
+        margin-left: 7%;}
+    
+    .content02 p {
+    text-align: center;
+        font-family: 'Maison Neue';
+        font-size: 30px;
+        margin-right: 7%;
+        margin-left: 7%;}
+        
+    .count{
+      font-weight: bold;
+    
+    }
+    
+    /* ----------------------------- CHARTS  ----------------------------- */
+   
+    
+    /* ----------------------------- RESPONSIVE DESIGN  ----------------------------- */
+    
+    @media screen and (max-width: 800px) {
+    
+        .right-bar a {
+        font-size: 0.6rem;
+        margin-right: 25px;
+        letter-spacing: 0.24rem;
+        }
+    
+        
+        .mtrk-sidebar {
+        display: none;
+        position:fixed;
+        width:100%;
+        height: 9%;
+        bottom:0;
+        top:auto;
+        left:0;
+        margin-left: 0px;
+        text-align: cente1;
+        animation-name: fadeInLeft;
+        animation-duration: 2s;
+        background-color:white;
+        border-top: 1px solid black;
+        }
+    
+        
+        #sideline {
+        margin-top:0px;
+        width:50px; /* you can use % */
+        height: 70%;
+        display:none;
+        }
+    
+        .mtrskimg {
+        position: relative;
+        margin:0;
+        }
+    
+        #mtrsk1 {
+        height: 80%;
+        width:auto;
+        display: inline;
+        margin:0;
+        margin-right:10px;
+        margin-left:0px;
+        margin-top:45px;
+        }
+    
+        #mtrsk2 {
+        height: 70%;
+        width:auto;
+        display: inline;
+        margin:0;
+        margin-right:10px;
+        margin-left:10px;
+        margin-top:40px;
+        }
+    
+        #mtrsk3 {
+        height: 60%;
+        width:auto;
+        display: inline;
+        margin:0;
+        margin-right:10px;
+        margin-left:10px;
+        margin-top:40px;
+        }
+    
+        #mtrsk4 {
+        height: 50%;
+        width:auto;
+        display: inline;
+        margin:0;
+        margin-right:10px;
+        margin-left:10px;
+        margin-top:40px;
+        }
+    
+        #mtrsk5 {
+        height: 40%;
+        width:auto;
+        display: inline;
+        margin:0;
+        margin-left:10px;
+        margin-top:40px;
+        }
+    
+    
+    }
+    
+    @media screen and (max-width: 600px) {
+    
+        
+    }
