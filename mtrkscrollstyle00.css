@@ -1,3 +1,22 @@
+
+
+@font-face{
+	font-family: 'Helvetica';
+	src: url(fonts/FaunaOne-Regular.ttf);
+}
+
+
+@font-face{
+	font-family: 'Aovel';
+	src: url(fonts/AovelSans-nXoO.ttf);
+}
+
+@font-face{
+	font-family: 'Equil';
+	src: url(fonts/equil.otf);
+}
+
+
 .mtrk-header {
     position:fixed;
     width:100%;
@@ -64,7 +83,8 @@
     
     
     .intro {
-   
+   font-family: "Aovel";
+   font-size: 40px;
     display: block;
     margin-left: 15%;
     margin-bottom: 35%;
