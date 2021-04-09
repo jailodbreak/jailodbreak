@@ -15,20 +15,20 @@
 <body>
   
 <div class="mtrk-header" id="mtrk-header">
-    <div class="navbar">
-        <div class="logo">
-          <a href="homepage.html" class="active">Jail <span class = "od">|od|</span> Break</a>
-          </div>
-          <div class="topnav" id="myTopnav">
-             <a href="documentation.html">Documentation</a>
-            <a href="#metadata">Metadata</a>
-            <a href="visualization.html">Visualizations</a>
-            <a href="about.html">About</a> 
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-              <i class="fa fa-bars"></i>
-            </a>
-          </div>
-      </div>
+	<div class="navbar">
+		<div class="logo">
+		  <a href="homepage.html" class="active">Jail <span class = "od">|od|</span> Break</a>
+		</div>
+		<div class="topnav" id="myTopnav">
+			<a href="documentation.html">Documentation</a>
+		  <a href="#metadata">Metadata</a>
+		  <a href="visualization.html">Visualizations</a>
+		  <a href="about.html">About</a> 
+		  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+			<i class="fa fa-bars fa-2x"></i>
+		  </a>
+		</div>
+	  </div>
 </div>
 
 <div class="mtrk-sidebar fade" id="mtrk-sidebar">
@@ -94,6 +94,16 @@
 </div>
 
 <!---<script src="charts.js"></script>--->
+<script>
+	function myFunction() {
+	  var x = document.getElementById("myTopnav");
+	  if (x.className === "topnav") {
+		x.className += " responsive";
+	  } else {
+		x.className = "topnav";
+	  }
+	}
+  </script>
 
 </body>
 </html>

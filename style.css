@@ -197,6 +197,7 @@ color: #e25c02;
 
 .topnav .icon {
   display: none;
+  
 }
 
 @media screen and (max-width: 600px) {
@@ -214,6 +215,7 @@ color: #e25c02;
 
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
+  .topnav a:first-child{position:relative; margin-top:50px;}
   .topnav.responsive .icon {
     color: black;
     position: absolute;
