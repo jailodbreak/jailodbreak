@@ -83,8 +83,7 @@
     
     
     .intro {
-   font-family: "Aovel";
-   font-size: 40px;
+   
     display: block;
     margin-left: 15%;
     margin-bottom: 35%;
@@ -117,9 +116,13 @@
     .intro p{
     text-align:center;
     
-    font-size: 40px;
+    font-size: 30px;
     margin-right:20%;
     margin-left:7%;
+    }
+
+    .intro h1 {
+       text-aligh: center;
     }
     
     .intro p img{
