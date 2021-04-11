@@ -17,7 +17,7 @@
 
 
 .topnav {
-  background-color: #edeae3;
+  background-color:	#ececec;
   overflow: hidden;
 }
 
@@ -31,9 +31,9 @@
   font-size: 12px;
   font-family: "Aovel";
   text-transform: uppercase;
-  letter-spacing: 5px;
+  letter-spacing: 10px;
   padding-top: 23px;
-  background-color: #edeae3;
+  background-color: #ececec;
 
 }
 
@@ -56,7 +56,7 @@ transform: scale(1.1);
   font-size: 30px;
   text-decoration: none;
    color: #000000;
-   background-color: #edeae3;
+   background-color: #ececec;
 
 }
 
@@ -66,7 +66,7 @@ border-bottom: 3px solid #e25c02;
 position: fixed; /* Set the navbar to fixed position */
 top: 0; /* Position the navbar at the top of the page */
 width: 100%;
-background-color: #edeae3;
+background-color: #ececec;
 
 }
 
@@ -82,14 +82,15 @@ h1 {
 padding-bottom: 5%;
 font-family: "Aovel";
 text-transform: uppercase;
-letter-spacing: 5px;
-font-size: 20px;
+letter-spacing: 10px;
+line-height: 40px;
+font-size: 25px;
 text-align: left;
 
 }
 
 .introduction {
-background-color: #edeae3;
+background-color: #ececec;
 width:50%;
 text-align: justify;
 float: right;
@@ -113,7 +114,7 @@ width:50%}
 height:100%;
 margin:10%;
 overflow:hidden;
-background-color: #edeae3;
+background-color: #ececec;
 
 }
 
@@ -127,7 +128,7 @@ left: 0;
    text-align: center;
    border-top: 1px solid black;
    position:fixed;
-   background-color: #edeae3;
+   background-color: #ececec;
 
 }
 
@@ -136,7 +137,7 @@ body {
     /*animation: fadeInAnimation ease 3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;*/
-    background-color: #edeae3;
+    background-color: #ececec;
 }
 
 @keyframes fadeInAnimation {
