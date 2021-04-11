@@ -1,27 +1,6 @@
-
-@font-face{
-	font-family: 'Hackney';
-	src: url(fonts/Hackney.ttf);
-}
-
-@font-face{
-	font-family: 'Ailerons';
-	src: url(fonts/Ailerons-Regular.otf);
-}
-
-@font-face{
-	font-family: 'Helvetica';
-	src: url(fonts/FaunaOne-Regular.ttf);
-}
-
-@font-face{
-	font-family: 'PlayfairDisplay-VariableFont_wght';
-	src: url(fonts/PlayfairDisplay-VariableFont_wght.ttf);
-}
-
 @font-face{
 	font-family: 'Aovel';
-	src: url(fonts/AovelSans-nXoO.ttf);
+	src: url(fonts/maison-neue-light.ttf);
 }
 
 @font-face{
@@ -88,7 +67,7 @@ position: fixed; /* Set the navbar to fixed position */
 top: 0; /* Position the navbar at the top of the page */
 width: 100%;
 background-color: #edeae3;
-overflow: scroll;
+
 }
 
 p {
@@ -104,8 +83,7 @@ padding-bottom: 5%;
 font-family: "Aovel";
 text-transform: uppercase;
 letter-spacing: 5px;
-font-size: 30px;
-
+font-size: 20px;
 text-align: left;
 
 }
