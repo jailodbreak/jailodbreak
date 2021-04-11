@@ -3,21 +3,26 @@
 <head>
 <title>Documentation</title>
 <link rel="stylesheet" href="style_documentation.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
 
-<div class="navbar">
-<div class="logo">
-<a class="active" href="homepage.html">Jail <span class = "od">|od|</span> Break</a>
-</div>
-<div class="topnav"> 
-  <a href="documentation.html">Documentation</a>
-  <a href="#metadata">Metadata</a>
-  <a href="visualization.html">Visualizations</a>
-  <a href="about.html">About</a> 
-</div>
-</div>
+  <div class="navbar">
+    <div class="logo">
+      <a href="homepage.html" class="active">Jail <span class = "od">|od|</span> Break</a>
+    </div>
+    <div class="topnav" id="myTopnav">
+        <a href="documentation.html">Documentation</a>
+      <a href="#metadata">Metadata</a>
+      <a href="visualization.html">Visualizations</a>
+      <a href="about.html">About</a> 
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars fa-2x"></i>
+      </a>
+    </div>
+  </div>
 
 <div class = "general">
 <div class = "text">
@@ -124,6 +129,17 @@
 
 
 </div>
+
+<script>
+  function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+</script>
 
 
 </body>

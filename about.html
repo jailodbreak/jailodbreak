@@ -3,32 +3,43 @@
 <head>
 <title>About</title>
 <link rel="stylesheet" href="style_about.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 
 <body>
 
-<div class="navbar">
-<div class="logo">
-<a href="homepage.html" class="active">Jail <span class = "od">|od|</span> Break</a>
-</div>
-<div class="topnav"> 
-  <a href="documentation.html">Documentation</a>
-  <a href="#metadata">Metadata</a>
-  <a href="visualization.html">Visualizations</a>
-  <a href="about.html">About</a> 
-</div>
-</div>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+      AOS.init();
+  </script>
+
+  <div class="navbar">
+    <div class="logo">
+      <a href="homepage.html" class="active">Jail <span class = "od">|od|</span> Break</a>
+    </div>
+    <div class="topnav" id="myTopnav">
+        <a href="documentation.html">Documentation</a>
+      <a href="#metadata">Metadata</a>
+      <a href="visualization.html">Visualizations</a>
+      <a href="about.html">About</a> 
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars fa-2x"></i>
+      </a>
+    </div>
+  </div>
 
 
 <div class="both">
-<div class="column1">
+<div data-aos="fade-right" data-aos-duration="700" class="column1">
                 <img src="./images/francesca.svg">
                 <h3>Francesca <br> Genovese</h3>
                 <p>Graduated in Communication Science at the University of Bologna. I'm currently attending the Digital Humanities and Digital Knowledge Master Degree course at the same University.</p>
                 <p><span class = "bold">Contacts:</span> francesca.genovese2@studio.unibo.it</p>
 </div>
 
-           <div class="column2">
+           <div data-aos="fade-left" data-aos-duration="700" class="column2">
                 <img src="./images/giulia.svg">
                 <h3>Giulia <br> Manganelli</h3>
                 <p>Graduated in Humanities at the University of Bologna. I'm currently attending the Digital Humanities and Digital Knowledge Master Degree course at the same University.</p>
@@ -44,6 +55,17 @@
 
 
 </div>
+
+<script>
+  function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+</script>
 
 
 </body>
