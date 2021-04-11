@@ -20,7 +20,7 @@
 
 @font-face{
 	font-family: 'Aovel';
-	src: url(fonts/AovelSans-nXoO.ttf);
+	src: url(fonts/maison-neue-light.ttf);
 }
 
 @font-face{
@@ -29,8 +29,8 @@
 }
 
 @font-face{
-	font-family: 'Audrey-Normal';
-	src: url(fonts/Audrey-Normal.otf);
+	font-family: 'text';
+	src: url(fonts/Butler_Light.otf);
 }
 
 
@@ -38,7 +38,7 @@
 .topnav {
   background-color: #edeae3;
   overflow: hidden;
- 
+
 }
 
 /* Style the links inside the navigation bar */
@@ -54,7 +54,7 @@
   letter-spacing: 5px;
   padding-top: 23px;
   background-color: #edeae3;
-  
+
 }
 
 .topnav a:hover {
@@ -66,7 +66,7 @@ transform: scale(1.1);
 .topnav a:hover {
   transform: scale(1.1);
   color: black;
-  
+
 }
 
 /* Add a color to the active/current link */
@@ -85,14 +85,15 @@ transform: scale(1.1);
 border-bottom: 3px solid #e25c02;
 position: fixed; /* Set the navbar to fixed position */
 top: 0; /* Position the navbar at the top of the page */
-width: 100%; 
+width: 100%;
 background-color: #edeae3;
 }
 
 p {
 
-font-family: "Helvetica";
-font-size: 15px;
+font-family: "text";
+font-size: 18px;
+letter-spacing: 1.5px;
 
 
 }
@@ -101,9 +102,9 @@ h1 {
 padding-bottom: 5%;
 font-family: "Aovel";
 text-transform: uppercase;
-letter-spacing: 5px;
+letter-spacing: 10px;
 font-size: 30px;
-font-weight: bolder;
+
 text-align: left;
 
 }
@@ -115,7 +116,8 @@ font-family: "Aovel";
 text-transform: uppercase;
 letter-spacing: 5px;
 font-size: 20px;
-font-weight: bolder;
+
+
 text-align: left;
 
 }
@@ -138,7 +140,7 @@ overflow:scroll;
 .quote {
 
 font-style: italic;
-font-weight: bolder;
+
 }
 
 
@@ -153,7 +155,7 @@ left: 0;
    border-top: 1px solid black;
    position:fixed;
    background-color: #edeae3;
-   
+
 }
 
 
@@ -164,7 +166,7 @@ body {
     animation-fill-mode: forwards;
     background-color: #edeae3;
 }
-  
+
 @keyframes fadeInAnimation {
     0% {
         opacity: 0;
@@ -202,9 +204,9 @@ color: #e25c02;
 
 li {
 
-font-family: "Helvetica";
-font-size: 15px;
-
+font-family: "text";
+font-size: 18px;
+letter-spacing:1.5px;
 }
 
 ul {
@@ -226,6 +228,7 @@ letter-spacing: 5px;
 font-size: 18px;
 font-weight: bolder;
 text-align: left;
+line-height: 25px;
 
 }
 
@@ -258,14 +261,14 @@ background-color: #edeae3;
 
 .topnav .icon {
   display: none;
-  
+
 }
 
 @media screen and (max-width: 600px) {
   .topnav a{
   display: none;
   float:right;
-  
+
   }
   .topnav a.icon {
     float: right;
@@ -284,9 +287,9 @@ background-color: #edeae3;
     top: 0;
   }
   .topnav.responsive a {
-    
+
     display: block;
     text-align: right;
-    
+
   }
 }

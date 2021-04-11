@@ -15,6 +15,10 @@
 	src: url(fonts/equil.otf);
 }
 
+@font-face{
+	font-family: 'text';
+	src: url(fonts/Butler_Light.otf);
+}
 
 
 .topnav {
@@ -35,7 +39,7 @@
   letter-spacing: 5px;
   padding-top: 23px;
   background-color: #edeae3;
-  
+
 }
 
 .topnav a:hover {
@@ -47,7 +51,7 @@ transform: scale(1.1);
 .topnav a:hover {
   transform: scale(1.1);
   color: black;
-  
+
 }
 
 /* Add a color to the active/current link */
@@ -66,14 +70,15 @@ transform: scale(1.1);
 border-bottom: 3px solid #e25c02;
 position: fixed; /* Set the navbar to fixed position */
 top: 0; /* Position the navbar at the top of the page */
-width: 100%; 
+width: 100%;
 background-color: #edeae3;
 }
 
 p {
 
-font-family: "Helvetica";
-font-size: 14px;
+font-family: "text";
+font-size: 16px;
+letter-spacing: 1.5px;
 
 
 }
@@ -88,7 +93,7 @@ font-size: 14px;
    border-top: 1px solid black;
    position:fixed;
    background-color: #edeae3;
-   
+
 }
 
 
@@ -98,7 +103,7 @@ body {
     animation-fill-mode: forwards;*/
     background-color: #edeae3;
 }
-  
+
 @keyframes fadeInAnimation {
     0% {
         opacity: 0;
@@ -116,7 +121,7 @@ font-family: "Equil";
 text-transform: uppercase;
 letter-spacing: 5px;
 font-size: 18px;
-font-weight: bolder;
+
 text-align: center;
 
 }
@@ -125,7 +130,7 @@ text-align: center;
 
 img{
   width: 55%;
-  
+
 }
 
 .column1 {
@@ -133,7 +138,7 @@ img{
   padding: 2%;
   width: 35%;
   text-align: center;
-  
+
 }
 
 .column2 {
@@ -141,7 +146,7 @@ img{
  padding: 2%;
   width: 35%;
  text-align: center;
- 
+
 }
 
 .both{
@@ -188,14 +193,14 @@ color: #e25c02;
 
 .topnav .icon {
   display: none;
-  
+
 }
 
 @media screen and (max-width: 600px) {
   .topnav a{
   display: none;
   float:right;
-  
+
   }
   .topnav a.icon {
     float: right;
@@ -214,12 +219,9 @@ color: #e25c02;
     top: 0;
   }
   .topnav.responsive a {
-    
+
     display: block;
     text-align: right;
-    
+
   }
 }
-
-
-
