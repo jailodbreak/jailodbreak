@@ -37,15 +37,10 @@
 
 }
 
-.topnav a:hover {
-
-transform: scale(1.1);
-
-}
 /* Change the color of links on hover */
 .topnav a:hover {
-  transform: scale(1.1);
-  color: black;
+  /*transform: scale(1.1);*/
+  color: #e25c02;
 
 }
 

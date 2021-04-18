@@ -51,21 +51,16 @@
   font-size: 12px;
   font-family: "Aovel";
   text-transform: uppercase;
-  letter-spacing: 5px;
+  letter-spacing: 10px;
   padding-top: 23px;
   background-color: #ececec;
 
 }
 
-.topnav a:hover {
-
-transform: scale(1.1);
-
-}
 /* Change the color of links on hover */
 .topnav a:hover {
-  transform: scale(1.1);
-  color: black;
+  /*transform: scale(1.1);*/
+  color: #e25c02;
 
 }
 
@@ -75,8 +70,8 @@ transform: scale(1.1);
   font-family: "Equil";
   font-size: 30px;
   text-decoration: none;
-   color: #000000;
-   background-color: #ececec;
+  color: #000000;
+  background-color: #ececec;
 
 }
 
@@ -87,6 +82,18 @@ position: fixed; /* Set the navbar to fixed position */
 top: 0; /* Position the navbar at the top of the page */
 width: 100%;
 background-color: #ececec;
+}
+
+.circle{
+  content: "";
+  margin:auto;
+  border-radius: 50%;
+  left: 0;
+  width: 8px;
+  height: 8px;
+  background-color: #e25c02;
+  top: 10px;
+  display:block
 }
 
 p {
