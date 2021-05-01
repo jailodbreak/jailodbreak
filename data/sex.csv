@@ -1,0 +1,807 @@
+Region,Sub-region,country_name,Indicator,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+Africa,Eastern Africa,Burundi,Adults Male,,,,"7,621","7,641","9,194","10,172","9,148","9,608","5,947","7,202","6,993",,,
+Africa,Eastern Africa,Burundi,Adults Female,,,,237,241,257,288,329,432,146,363,375,,,
+Africa,Eastern Africa,Burundi,Total Adults,,,,"7,858","7,882","9,451","10,460","9,477","10,040","6,093","7,565","7,368",,,
+Africa,Eastern Africa,Burundi,Juveniles Male,,,,,,,,,,200,201,153,,,
+Africa,Eastern Africa,Burundi,Juveniles Female,,,,,,,,,,76,18,6,,,
+Africa,Eastern Africa,Burundi,Total Juveniles,,,,419,461,476,356,346,392,276,219,159,,,
+Africa,Eastern Africa,Burundi,Total persons held,,,,"8,277","8,343","9,927","10,816","9,823","10,432","6,369","7,784","7,527",,,
+Africa,Eastern Africa,Kenya,Adults Male,,,,,,"27,646","26,630","29,457","29,691","23,980","29,712","29,394","30,478","27,119","29,704"
+Africa,Eastern Africa,Kenya,Adults Female,,,,,,"1,203","1,430","1,629","1,625",799,"1,756","1,474","2,257","1,307","1,432"
+Africa,Eastern Africa,Kenya,Total Adults,,,,,,"28,849","28,050","31,086","31,316","24,779","31,468","30,868","32,735","28,426","31,136"
+Africa,Eastern Africa,Kenya,Juveniles Male,,,,,,680,680,629,664,585,600,595,590,648,576
+Africa,Eastern Africa,Kenya,Juveniles Female,,,,,,87,66,47,57,64,49,20,35,16,37
+Africa,Eastern Africa,Kenya,Total Juveniles,,,,,,767,746,676,721,649,649,615,625,664,613
+Africa,Eastern Africa,Kenya,Total persons held,,,,,,"49,092","48,122","48,153","51,068","44,522","53,430","53,537","54,225","48,500","51,021"
+Africa,Eastern Africa,Madagascar,Adults Male,,,,,,,,"17,223","17,275","17,769","18,483","18,956","19,024",,
+Africa,Eastern Africa,Madagascar,Adults Female,,,,,,,,692,817,834,793,812,866,,
+Africa,Eastern Africa,Madagascar,Total Adults,,,,,,,,"17,915","18,092","18,603","19,276","19,768","19,890",,
+Africa,Eastern Africa,Madagascar,Juveniles Male,,,,,,,,421,460,519,496,550,655,,
+Africa,Eastern Africa,Madagascar,Juveniles Female,,,,,,,,19,26,28,32,35,50,,
+Africa,Eastern Africa,Madagascar,Total Juveniles,,,,,,,,440,486,547,528,585,705,,
+Africa,Eastern Africa,Madagascar,Total persons held,,,,,,,,"18,355","18,578","19,150","19,804","20,353","20,595",,
+Africa,Eastern Africa,Mauritius,Adults Male,,"2,376","2,350","2,060","2,102","2,027","2,187","2,264","2,485","2,533",,,,,
+Africa,Eastern Africa,Mauritius,Adults Female,125,124,141,126,120,117,137,132,156,147,,,,,
+Africa,Eastern Africa,Mauritius,Total Adults,"2,511","2,500","2,491","2,186","2,222","2,144","2,324","2,396","2,641","2,680",,,,,
+Africa,Eastern Africa,Mauritius,Juveniles Male,,47,36,32,29,33,41,32,40,54,,,,,
+Africa,Eastern Africa,Mauritius,Juveniles Female,34,25,20,20,21,23,19,21,25,26,,,,,
+Africa,Eastern Africa,Mauritius,Total Juveniles,94,72,56,52,50,56,60,53,65,80,,,,,
+Africa,Eastern Africa,Mauritius,Total persons held,"2,605","2,572","2,547","2,238","2,272","2,200","2,384","2,449","2,706","2,760",,,,,
+Africa,Eastern Africa,Mozambique,Adults Male,,"13,303","15,143","15,564","15,349","22,429","29,482",,,,,,,,
+Africa,Eastern Africa,Mozambique,Adults Female,,485,577,613,470,642,807,,,,,,,,
+Africa,Eastern Africa,Mozambique,Total Adults,,"13,788","15,720","16,177","15,819","23,071","30,289",,,,,,,,
+Africa,Eastern Africa,Mozambique,Juveniles Male,,"1,543","2,008","1,789","2,015","4,744","4,882",,,,,,,,
+Africa,Eastern Africa,Mozambique,Juveniles Female,,28,41,47,24,74,64,,,,,,,,
+Africa,Eastern Africa,Mozambique,Total Juveniles,,"1,571","2,049","1,836","2,039","4,818","4,946",,,,,,,,
+Africa,Eastern Africa,Mozambique,Total persons held,,"15,359","17,769","18,013","17,858","27,889","35,235",,,,,,,,
+Africa,Eastern Africa,Seychelles,Adults Female,7,10,5,10,12,16,,,,,,,,,
+Africa,Eastern Africa,Seychelles,Total Adults,156,,137,56,172,297,,,,,,,,,
+Africa,Eastern Africa,Seychelles,Juveniles Female,,,,,0,0,,,,,,,,,
+Africa,Eastern Africa,Seychelles,Total Juveniles,,,,,0,0,,,,,,,,,
+Africa,Eastern Africa,Seychelles,Total persons held,172,147,162,174,172,297,,,,,,,,,
+Africa,Eastern Africa,Uganda,Adults Male,,,"18,341","18,474","18,465","27,385","30,005","29,934","30,749","33,861","37,934","40,482","43,075","49,051",
+Africa,Eastern Africa,Uganda,Adults Female,813,701,707,751,714,"1,070","1,168","1,296","1,272","1,351","1,634","1,848","1,877","2,196",
+Africa,Eastern Africa,Uganda,Total Adults,"17,139","17,848","19,048","19,225","19,179","28,337","31,173","31,230","32,021","35,212","39,568","42,330","44,952","51,247",
+Africa,Eastern Africa,Uganda,Total persons held,"17,952","18,549","19,048","19,225","19,247","28,775","31,173","31,230","32,021","35,212","39,568","42,330","45,527","51,354","48,894"
+Africa,Eastern Africa,Zimbabwe,Adults Female,723,648,570,706,653,458,,,,,,,,,
+Africa,Eastern Africa,Zimbabwe,Total Adults,"20,704","19,540","17,670","17,720","16,149","13,810",,,,,,,,,
+Africa,Eastern Africa,Zimbabwe,Juveniles Female,62,35,27,44,37,29,,,,,,,,,
+Africa,Eastern Africa,Zimbabwe,Total Juveniles,421,348,327,361,280,217,,,,,,,,,
+Africa,Eastern Africa,Zimbabwe,Total persons held,"21,125","19,888","17,997","18,081","16,429","14,029",,,,,,,,,
+Africa,Middle Africa,Cameroon,Adults Male,,,"12,642",,,"17,033","22,038","22,691","21,403","23,957","24,345","24,561","25,089","27,717","28,596"
+Africa,Middle Africa,Cameroon,Adults Female,,,375,,,399,467,488,493,515,548,554,697,739,742
+Africa,Middle Africa,Cameroon,Total Adults,,,"13,017",,,"17,432","22,505","23,179","21,896","24,472","24,893","25,121","25,355",,"29,338"
+Africa,Middle Africa,Cameroon,Juveniles Male,,,571,,,669,842,,,888,850,781,,,880
+Africa,Middle Africa,Cameroon,Juveniles Female,,,12,,,7,21,,,9,15,12,,,30
+Africa,Middle Africa,Cameroon,Total Juveniles,,,583,,,676,863,587,916,897,865,793,823,885,910
+Africa,Middle Africa,Cameroon,Total persons held,,,,,,,"23,368","23,766","22,812","22,891","25,314","25,908","28,120","29,341","31,836"
+Africa,Northern Africa,Algeria,Adults Male,,,,,,,,"47,475","48,633","48,621","58,712","59,533","60,707",,
+Africa,Northern Africa,Algeria,Adults Female,,,,600,895,971,,"1,031",949,946,"1,032","1,060",915,,
+Africa,Northern Africa,Algeria,Total Adults,,,"39,544","53,580","54,374","54,838",,"48,506","49,582","49,567","59,744","60,593","61,622",,
+Africa,Northern Africa,Algeria,Juveniles Male,,,,,,,,491,414,529,471,404,525,,
+Africa,Northern Africa,Algeria,Juveniles Female,3,6,5,7,9,13,,3,4,4,5,3,3,,
+Africa,Northern Africa,Algeria,Total Juveniles,,,728,675,745,760,,494,418,533,476,407,528,,
+Africa,Northern Africa,Algeria,Total persons held,"39,806","44,231","43,797","54,117","55,119","55,598",,"49,000","50,000","50,100","60,220","61,000","62,150",,
+Africa,Northern Africa,Morocco,Adults Male,,,,,,,"55,114","62,086","62,333","67,629","68,904","71,737","70,720","75,447","80,097"
+Africa,Northern Africa,Morocco,Adults Female,,,393,602,"1,545","1,734","1,399","1,723","1,603","1,706","1,664","1,686","1,714","1,824","1,929"
+Africa,Northern Africa,Morocco,Total Adults,,,"22,425","26,232","49,179","54,256","56,513","63,809","63,936","69,335","70,568","73,423","72,434","77,271","82,026"
+Africa,Northern Africa,Morocco,Juveniles Male,,,,,,,997,"1,040",878,"1,389","1,402","1,485","1,568","1,380","1,044"
+Africa,Northern Africa,Morocco,Juveniles Female,,,40,62,149,152,53,28,19,34,35,33,37,65,32
+Africa,Northern Africa,Morocco,Total Juveniles,,,"1,577","2,165","5,481","4,956","1,050","1,068",897,"1,423","1,437","1,518","1,605","1,445","1,076"
+Africa,Northern Africa,Morocco,Total persons held,"54,542","59,069","50,933","53,580","54,660","59,212","57,563","64,877","64,833","70,758","72,005","74,941","74,039","78,716","83,102"
+Africa,Northern Africa,Tunisia,Adults Male,,,,,,,,,,,,"23,166","24,908","22,992","21,637"
+Africa,Northern Africa,Tunisia,Adults Female,,,,,,,,,,,,663,722,671,611
+Africa,Northern Africa,Tunisia,Total Adults,,,,,,,,,,,,"23,829","25,630","23,663","22,248"
+Africa,Southern Africa,Botswana,Adults Male,,"5,370","4,221","4,246","3,209","3,976","2,714","5,927","4,340",,"3,485","3,629",,,
+Africa,Southern Africa,Botswana,Adults Female,,538,458,370,284,236,266,751,126,,88,71,,,
+Africa,Southern Africa,Botswana,Total Adults,,"5,908","4,679","4,616","3,493","4,212","2,980","6,678","4,466",,"3,573","3,700",,,
+Africa,Southern Africa,Botswana,Juveniles Male,,449,212,271,439,301,236,313,244,,248,427,,,
+Africa,Southern Africa,Botswana,Juveniles Female,,59,0,4,99,45,13,14,2,,5,4,,,
+Africa,Southern Africa,Botswana,Total Juveniles,,508,212,275,538,346,249,327,246,,253,431,,,
+Africa,Southern Africa,Botswana,Total persons held,,"10,911","9,778","9,788","8,912","8,865","8,706","7,005","4,712",,"3,826","4,131",,,
+Africa,Southern Africa,Eswatini,Adults Female,62,54,104,102,,,,,,,,,,,
+Africa,Southern Africa,Eswatini,Total Adults,"1,747","1,436","2,648","2,625",,,,,,,,,,,
+Africa,Southern Africa,Eswatini,Juveniles Female,7,9,0,0,,,,,,,,,,,
+Africa,Southern Africa,Eswatini,Total Juveniles,,,19,23,,,,,,,,,,,
+Africa,Southern Africa,Eswatini,Total persons held,"3,169","2,719","2,667","2,648",,,,,,,,,,,
+Africa,Southern Africa,Lesotho,Adults Male,,,,,,,"2,415",,,,,,,,
+Africa,Southern Africa,Lesotho,Adults Female,,,,,70,70,70,,,,,,,,
+Africa,Southern Africa,Lesotho,Total Adults,,,,,"2,711","2,459","2,485",,,,,,,,
+Africa,Southern Africa,Lesotho,Juveniles Male,,,,,,,58,,,,,,,,
+Africa,Southern Africa,Lesotho,Juveniles Female,,,,,7,4,12,,,,,,,,
+Africa,Southern Africa,Lesotho,Total Juveniles,,,,,64,61,70,,,,,,,,
+Africa,Southern Africa,Lesotho,Total persons held,,,,,"2,852","2,594","2,555",,,,,,,,
+Africa,Western Africa,Benin,Adults Male,,,,,,,,,,,,,,,"7,413"
+Africa,Western Africa,Benin,Adults Female,,,,,,,,,,,,,,,248
+Africa,Western Africa,Benin,Total Adults,,,,,,,,,,,,,,,"7,661"
+Africa,Western Africa,Benin,Juveniles Male,,,,,,,,,,,,,,,133
+Africa,Western Africa,Benin,Juveniles Female,,,,,,,,,,,,,,,7
+Africa,Western Africa,Benin,Total Juveniles,,,,,,,,,,,,,,,140
+Africa,Western Africa,Benin,Total persons held,,,,,,,,,,,,,,,"7,801"
+Africa,Western Africa,Burkina Faso,Adults Male,,,,,,,,,"4,862",,,,,,
+Africa,Western Africa,Burkina Faso,Adults Female,,,,,74,,,,68,,,,,,
+Africa,Western Africa,Burkina Faso,Total Adults,,,,,"4,100",,,,"4,930",,,,,,
+Africa,Western Africa,Burkina Faso,Juveniles Male,,,,,,,,,105,,,,,,
+Africa,Western Africa,Burkina Faso,Juveniles Female,,,,,,,,,4,,,,,,
+Africa,Western Africa,Burkina Faso,Total Juveniles,,,,,107,,,,109,,,,,,
+Africa,Western Africa,Burkina Faso,Total persons held,,,,,"4,207",,,,"5,039",,,,,,
+Africa,Western Africa,Guinea,Adults Female,,,,,112,133,,,,,,,,,
+Africa,Western Africa,Guinea,Total Juveniles,,,,,182,193,,,,,,,,,
+Africa,Western Africa,Guinea,Total persons held,,,,,"2,539","2,780",,,,,,,,,
+Africa,Western Africa,Guinea-Bissau,Adults Male,,,,,,,,,,,,465,,735,
+Africa,Western Africa,Guinea-Bissau,Adults Female,,,,,,,,,,,,61,,130,
+Africa,Western Africa,Guinea-Bissau,Total Adults,,,,,,,,,,,,526,,865,
+Africa,Western Africa,Guinea-Bissau,Total persons held,,,,,,,,,,,,526,,865,596
+Africa,Western Africa,Nigeria,Adults Male,,,,,,"39,821","41,280","45,333","46,944",,"53,230",,,,
+Africa,Western Africa,Nigeria,Adults Female,,,,,,765,789,882,921,,"1,022",,,,
+Africa,Western Africa,Nigeria,Total Adults,,,,,,"40,586","42,069","46,215","47,865",,"54,252",,,,
+Africa,Western Africa,Nigeria,Juveniles Male,,,,,,557,616,857,793,,921,,,,
+Africa,Western Africa,Nigeria,Total Juveniles,,,,,,557,616,857,793,,921,,,,
+Africa,Western Africa,Nigeria,Total persons held,,,,,,"41,143","42,685","47,072","48,658",,"55,173",,,,
+Africa,Western Africa,Senegal,Adults Male,,,"6,183","6,145","6,275",,"7,125","6,747",,,,,,"8,776",
+Africa,Western Africa,Senegal,Adults Female,,156,234,218,212,256,280,279,,,,,,345,
+Africa,Western Africa,Senegal,Total Adults,,"6,339","6,417","6,363","6,487","6,753","7,405","7,026",,,,,,"9,121",
+Africa,Western Africa,Senegal,Juveniles Male,,,,,125,138,141,149,,,,,,,
+Africa,Western Africa,Senegal,Juveniles Female,,0,0,,0,0,4,4,,,,,,,
+Africa,Western Africa,Senegal,Total Juveniles,,139,176,152,125,138,145,153,,,,,,189,
+Africa,Western Africa,Senegal,Total persons held,,,"25,372","31,319","30,340","31,904","32,608","29,609",,,,,,"9,310",
+Africa,Western Africa,Sierra Leone,Adults Female,,,41,35,66,60,,,,,,,,,
+Africa,Western Africa,Sierra Leone,Total Adults,,,787,840,"1,862","1,777",,,,,,,,,
+Africa,Western Africa,Sierra Leone,Total persons held,,,,,"1,978","1,886",,,,,,,,,
+Africa,Western Africa,Togo,Adults Male,,,,,,,,,,"4,059",,,,,
+Africa,Western Africa,Togo,Adults Female,,,,,,,,,,105,,,,,
+Africa,Western Africa,Togo,Total Adults,,,,,,,,,,"4,186",,,,,
+Africa,Western Africa,Togo,Juveniles Male,,,,,,,,,,26,,,,,
+Africa,Western Africa,Togo,Juveniles Female,,,,,,,,,,2,,,,,
+Africa,Western Africa,Togo,Total Juveniles,,,,,,,,,,28,,,,,
+Africa,Western Africa,Togo,Total persons held,,,,,,,,,,"4,214",,,,,
+Americas,Caribbean,Bahamas,Adults Male,,,,,,,,,,"1,353",,,,,
+Americas,Caribbean,Bahamas,Adults Female,,,,,,,,,,45,,,,,
+Americas,Caribbean,Bahamas,Total Adults,,,,,,,,,,"1,396",,,,,
+Americas,Caribbean,Bahamas,Juveniles Male,,,,,,,,,,34,,,,,
+Americas,Caribbean,Bahamas,Juveniles Female,,,,,,,,,,1,,,,,
+Americas,Caribbean,Bahamas,Total Juveniles,,,,,,,,,,35,,,,,
+Americas,Caribbean,Bahamas,Total persons held,,"2,829","2,897","2,416","1,325","1,321","1,250","1,278","1,360","1,433",,,,,
+Americas,Caribbean,Barbados,Adults Male,,,,,970,"1,017",879,865,"1,022","1,014",879,829,886,879,859
+Americas,Caribbean,Barbados,Adults Female,,,,,40,29,38,45,38,38,29,35,68,34,26
+Americas,Caribbean,Barbados,Total Adults,,,,,"1,010","1,046",917,910,"1,060","1,045",908,864,954,913,885
+Americas,Caribbean,Barbados,Juveniles Male,,,,,,,45,,,,,35,,,
+Americas,Caribbean,Barbados,Juveniles Female,,,,,,,22,,,,,26,,,
+Americas,Caribbean,Barbados,Total Juveniles,,,,,,,67,,,,,61,,,
+Americas,Caribbean,Barbados,Total persons held,,,,,"1,010","1,046",898,910,"1,060","1,045",908,864,954,,
+Americas,Caribbean,Dominican Republic,Adults Male,,,,,,,,,"21,384",,,,,"16,584",
+Americas,Caribbean,Dominican Republic,Adults Female,,,,470,,,,,491,,,,,166,
+Americas,Caribbean,Dominican Republic,Total Adults,,,"12,657","13,752",,,,,"21,875",,,,,"16,750",
+Americas,Caribbean,Dominican Republic,Juveniles Female,,,,13,,,,,,,,,,,
+Americas,Caribbean,Dominican Republic,Total Juveniles,,,,360,,,,,,,,,,,
+Americas,Caribbean,Dominican Republic,Total persons held,,,"12,657","13,752",,,,,"21,875",,,,,"16,750",
+Americas,Caribbean,Grenada,Adults Male,,,,,,,388,403,431,477,470,512,495,451,436
+Americas,Caribbean,Grenada,Adults Female,,,,,,,7,11,8,5,6,1,7,6,6
+Americas,Caribbean,Grenada,Total Adults,,,,,,,395,414,439,476,470,513,502,457,442
+Americas,Caribbean,Grenada,Juveniles Male,,,,,,,14,23,16,12,10,4,11,9,0
+Americas,Caribbean,Grenada,Juveniles Female,,,,,,,1,1,2,1,0,1,1,1,0
+Americas,Caribbean,Grenada,Total Juveniles,,,,,,,14,24,18,13,10,5,12,10,0
+Americas,Caribbean,Grenada,Total persons held,,,,,,,409,438,457,489,480,513,502,457,442
+Americas,Caribbean,Jamaica,Adults Male,,,"4,343","4,375","4,067","4,025","4,113",,"3,837","3,831","3,673","3,665","3,476","3,465","3,525"
+Americas,Caribbean,Jamaica,Adults Female,,,,,,,154,,186,195,156,140,136,140,132
+Americas,Caribbean,Jamaica,Total Adults,,,,,,,"4,267",,"4,023","4,026","3,829","3,795","3,614",,"3,657"
+Americas,Caribbean,Jamaica,Juveniles Male,,,239,266,232,261,245,,335,248,233,203,213,160,163
+Americas,Caribbean,Jamaica,Juveniles Female,,,,,,,63,,99,90,50,36,27,34,38
+Americas,Caribbean,Jamaica,Total Juveniles,,,,,,,308,,434,338,283,239,240,,200
+Americas,Caribbean,Jamaica,Total persons held,,,,,,,"5,163",,"4,457","4,364","4,112","4,034","3,854","3,799","3,857"
+Americas,Caribbean,Puerto Rico,Adults Male,,,,,,"11,730","10,927","10,566","11,094","11,812","11,842","11,842","10,995","10,162","9,532"
+Americas,Caribbean,Puerto Rico,Adults Female,,,,,,400,331,328,376,432,404,404,369,371,334
+Americas,Caribbean,Puerto Rico,Total Adults,,,,,,"12,130","11,258","10,894","11,470","12,244","12,246","12,246","11,364","10,533","9,866"
+Americas,Caribbean,Puerto Rico,Juveniles Male,,,,,,,,,,,,,,184,162
+Americas,Caribbean,Puerto Rico,Juveniles Female,,,,,,,,,,,,,,10,11
+Americas,Caribbean,Puerto Rico,Total Juveniles,,,,,,,,,,,,,,194,173
+Americas,Caribbean,Puerto Rico,Total persons held,,,,,,"12,130","11,258","10,894","11,470","12,244","12,246","12,246","11,364","10,727","10,039"
+Americas,Caribbean,St. Kitts and Nevis,Total persons held,,,,,,,254,282,346,,,,,,
+Americas,Caribbean,St. Vincent and the Grenadines,Adults Male,,"1,369",,"1,035","1,021","1,154","1,038","1,027","1,245",,,,,,
+Americas,Caribbean,St. Vincent and the Grenadines,Adults Female,,35,,50,50,22,37,12,23,,,,,,
+Americas,Caribbean,St. Vincent and the Grenadines,Total Adults,,"1,404",,"1,085","1,071","1,176","1,075","1,039","1,268",,,,,,
+Americas,Caribbean,St. Vincent and the Grenadines,Total persons held,,"1,404",,"1,085","1,071","1,176","1,075","1,039","1,268",,,,,,
+Americas,Caribbean,Trinidad and Tobago,Adults Male,,"3,580","3,450","2,839","3,296","3,181","2,680","2,804","3,951","3,413","3,337","3,139","6,902",,
+Americas,Caribbean,Trinidad and Tobago,Adults Female,,120,116,99,122,123,184,123,123,118,110,89,397,,
+Americas,Caribbean,Trinidad and Tobago,Total Adults,,"3,700","3,566","2,938","3,418","3,304","2,864","2,927","4,074","3,531","3,447","3,228","7,299",,
+Americas,Caribbean,Trinidad and Tobago,Juveniles Male,,224,205,192,181,180,189,198,213,179,168,151,130,,
+Americas,Caribbean,Trinidad and Tobago,Juveniles Female,,0,0,0,0,0,0,0,0,0,0,0,18,,
+Americas,Caribbean,Trinidad and Tobago,Total Juveniles,,224,205,192,181,180,189,198,213,179,168,151,148,,
+Americas,Caribbean,Trinidad and Tobago,Total persons held,,"3,924","3,771","3,700","3,599","3,863","3,719","3,691","4,287","3,710","3,615","3,379","7,447",,
+Americas,Central America,Belize,Adults Male,,,,,,,"2,476","2,103","2,012","2,230","2,264","2,283",,"1,687",
+Americas,Central America,Belize,Adults Female,,,33,26,,,73,50,101,129,181,160,,96,
+Americas,Central America,Belize,Total Adults,,,"1,306","1,418",,,"2,549","2,153","2,113","2,359","2,445","2,443",,"1,898",
+Americas,Central America,Belize,Juveniles Male,,,,,,,218,162,161,181,178,160,,115,
+Americas,Central America,Belize,Juveniles Female,,,,,,,14,7,14,6,9,3,,,
+Americas,Central America,Belize,Total Juveniles,,,56,45,,,232,169,175,187,187,163,,115,
+Americas,Central America,Belize,Total persons held,,,"1,380","1,338",,,"2,781","2,322","2,288","2,546","2,632","2,606",,"1,898",
+Americas,Central America,Costa Rica,Adults Male,,,"7,645","7,209","7,061","7,754","8,873","9,893","11,396","13,792","12,725","12,865","12,604","12,593","13,438"
+Americas,Central America,Costa Rica,Adults Female,,,626,503,439,471,558,648,758,"1,036",732,755,564,492,545
+Americas,Central America,Costa Rica,Total Adults,,,"8,271","7,712","7,500","8,225","9,431","10,541","12,154","13,257","13,457","13,620","13,168","13,085","13,983"
+Americas,Central America,Costa Rica,Juveniles Male,,,,26,24,33,48,55,68,84,87,220,219,242,230
+Americas,Central America,Costa Rica,Juveniles Female,,,8,0,0,0,2,4,4,4,5,14,12,11,11
+Americas,Central America,Costa Rica,Total Juveniles,,,26,26,24,33,50,59,72,88,92,234,231,253,241
+Americas,Central America,Costa Rica,Total persons held,,"9,056","8,818","7,712","7,500","8,225","9,431","10,541","12,154","13,407","13,647","13,854","13,999","13,338","14,224"
+Americas,Central America,El Salvador,Adults Male,,,"11,940","13,944","16,762","18,269","20,164","22,269","22,932","24,386","24,352","25,620","29,469",,"36,509"
+Americas,Central America,El Salvador,Adults Female,,,585,827,"1,105","1,545","1,937","2,393","2,431","2,647","2,523","2,714","3,176",,"3,210"
+Americas,Central America,El Salvador,Total Adults,,,"12,525","14,771","17,867","19,814","22,101","24,662","25,367","27,033","26,848","28,334","32,645",,"39,719"
+Americas,Central America,El Salvador,Juveniles Male,,,359,475,568,584,"1,393","1,411","1,482","1,244","1,198","1,221",536,,
+Americas,Central America,El Salvador,Juveniles Female,,,17,32,37,37,137,141,124,141,142,139,77,,
+Americas,Central America,El Salvador,Total Juveniles,,,376,507,605,621,"1,530","1,552","1,606","1,385","1,340","1,360",613,,
+Americas,Central America,El Salvador,Total persons held,,,"12,525","14,771","17,867","19,814","22,101","24,662","25,367","28,383","26,848","28,334","32,645",,"39,719"
+Americas,Central America,Guatemala,Adults Male,,,,,,,,,,"13,764",,,,,
+Americas,Central America,Guatemala,Adults Female,,,,,,,,,,"1,249",,,,,
+Americas,Central America,Guatemala,Total Adults,,,,,,,,,,"15,013",,,,,
+Americas,Central America,Guatemala,Total persons held,,,,,,,,,,"15,013",,,,,
+Americas,Central America,Honduras,Adults Male,,,,,,,,"11,357","11,613","11,657","12,653","14,223","15,404","16,598","18,314"
+Americas,Central America,Honduras,Adults Female,,,,,,,,413,393,438,531,659,754,896,"1,021"
+Americas,Central America,Honduras,Total Adults,,,,,,,,"11,770","12,006","12,095","13,184","14,882","16,158","17,494","19,335"
+Americas,Central America,Honduras,Juveniles Male,,,,,,,,,248,,,,,,
+Americas,Central America,Honduras,Juveniles Female,,,,,,,,,26,,,,,,
+Americas,Central America,Honduras,Total Juveniles,,,,,,,,,274,,,,,,
+Americas,Central America,Honduras,Total persons held,,,,,,,,"11,770","12,006","12,095","13,184","14,882","16,158","17,494","19,335"
+Americas,Central America,Mexico,Adults Male,,"94,129","195,248","199,455","201,953","208,784","213,650","209,188","220,324","214,449","202,617","211,731","206,223","178,635","171,287"
+Americas,Central America,Mexico,Adults Female,"8,755","9,540","10,373","10,685","10,888","10,970","11,099","9,839","10,619","10,430","11,065","11,925","11,372","9,627","9,088"
+Americas,Central America,Mexico,Total Adults,"112,530","103,669","205,621","210,140","212,841","219,754","224,749","219,027","230,943","224,969","213,682","223,656","217,595","188,262","180,375"
+Americas,Central America,Mexico,Juveniles Male,,"2,541","2,339","1,130",801,,"11,087","10,498","10,848","9,888","4,395","4,102","3,606","1,782","1,521"
+Americas,Central America,Mexico,Juveniles Female,137,117,112,38,40,,641,741,836,695,296,263,238,131,103
+Americas,Central America,Mexico,Total Juveniles,"3,078","2,658","2,451","1,168",841,,"11,728","11,239","11,684","10,583","4,691","4,365","3,844","1,913","1,624"
+Americas,Central America,Mexico,Total persons held,"185,606","196,577","208,072","211,308","213,682",,"236,477","230,266","242,627","235,552","218,373","228,021","221,439","190,175","181,999"
+Americas,Central America,Nicaragua,Adults Male,,,"5,101","5,574","6,119","5,546","5,419","6,443",,,,,,,
+Americas,Central America,Nicaragua,Adults Female,,,370,385,486,323,335,270,,,,,,,
+Americas,Central America,Nicaragua,Total Adults,,,"5,471","5,969","6,605","5,869","5,754","6,713",,,,,,,
+Americas,Central America,Nicaragua,Juveniles Male,,,65,60,58,56,51,74,,,,,,,
+Americas,Central America,Nicaragua,Juveniles Female,,,0,0,0,0,2,2,,,,,,,
+Americas,Central America,Nicaragua,Total Juveniles,,,65,60,58,56,53,76,,,,,,,
+Americas,Central America,Nicaragua,Total persons held,,,"5,536","6,029","6,663","5,925","5,807","6,789",,,,,,,
+Americas,Central America,Panama,Adults Male,,"10,542","10,810","10,827","10,826","9,047","9,585","11,662","12,301","13,472","13,454","13,825","16,741","15,754","15,281"
+Americas,Central America,Panama,Adults Female,,,761,748,762,604,633,880,906,"1,009","1,013","1,051","1,070",829,874
+Americas,Central America,Panama,Total Adults,,"11,400","11,571","11,575","11,588","9,651","10,218","12,542","13,207","14,481","14,467","15,690","16,824","16,583","16,155"
+Americas,Central America,Panama,Juveniles Male,,560,642,542,383,551,646,,985,894,"1,257",,,,
+Americas,Central America,Panama,Juveniles Female,,55,49,72,94,15,14,,8,9,8,,,,
+Americas,Central America,Panama,Total Juveniles,,615,691,614,477,566,660,,993,903,"1,265",,,,
+Americas,Central America,Panama,Total persons held,,"12,015","12,262","12,189","12,065","10,217","10,878","12,542","13,207","14,481","14,467","15,690","16,824","16,583","16,155"
+Americas,Northern America,Bermuda,Total persons held,325,364,,,,,,,,,,,,,200
+Americas,Northern America,Canada,Total Adults,"23,795","31,616","33,017","35,434","36,411","37,152","37,301","37,769","38,773","39,347","36,845","39,623","40,147","39,873",
+Americas,Northern America,Canada,Total Juveniles,"2,406","2,233","2,014","2,018","2,008","1,898","1,810","1,721","1,457","1,370","1,019","1,040","1,022",897,
+Americas,Northern America,Canada,Total persons held,"34,153","33,849","35,032","37,452","38,419","39,050","38,804","39,489","40,229","40,718","37,864","40,663","41,169","40,770",
+Americas,Northern America,United States of America,Adults Male,,"1,955,100","1,986,200","2,038,900","2,064,500","2,082,800","2,081,800","2,071,800","2,048,200","2,033,200","2,011,300","2,006,700","1,962,100","1,948,500",
+Americas,Northern America,United States of America,Adults Female,,"184,500","193,400","203,100","206,600","206,700","200,100","197,400","196,600","191,500","205,200","213,100","205,900","209,000",
+Americas,Northern America,United States of America,Total Adults,"2,071,969","2,139,600","2,179,600","2,242,000","2,271,100","2,289,500","2,281,900","2,269,200","2,244,800","2,224,700","2,216,500","2,219,800","2,168,100","2,157,500",
+Americas,Northern America,United States of America,Juveniles Male,,,,,,,"9,334","9,300","7,100","6,200","5,500","5,000","4,300","4,500",
+Americas,Northern America,United States of America,Juveniles Female,,,,,,,664,600,600,500,500,300,500,400,
+Americas,Northern America,United States of America,Total Juveniles,,"9,568","8,967","8,466","9,472","10,420","9,998","9,900","7,700","6,700","6,000","5,300","4,800","4,900",
+Americas,Northern America,United States of America,Total persons held,"2,152,951","2,155,883","2,195,900","2,258,800","2,298,000","2,308,400","2,291,900","2,279,100","2,252,500","2,231,400","2,222,500","2,225,100","2,172,800","2,162,400",
+Americas,South America,Argentina,Adults Male,,,"41,517","47,637","48,176","50,641","52,125","56,198","57,195","58,338","61,270","65,418","68,468","73,014","81,553"
+Americas,South America,Argentina,Adults Female,,,"2,172","2,791","2,804","2,807","2,633","2,719","2,911","2,854","2,839","2,989","2,963","3,184","3,602"
+Americas,South America,Argentina,Total Adults,,,"43,689","50,428","50,980","53,448","54,758","58,917","60,106","61,192","64,109","68,407","71,464","76,198","85,155"
+Americas,South America,Argentina,Juveniles Male,,,,,,,,,,851,898,"1,116","1,104","1,202",
+Americas,South America,Argentina,Juveniles Female,,,,,,,,,,22,37,26,25,22,
+Americas,South America,Argentina,Total Juveniles,,,,,,,,,,"1,027","1,115","1,142","1,129","1,224",
+Americas,South America,Argentina,Total persons held,,,"55,423","54,000","52,457","54,537","57,403","59,227","60,789","62,263","64,288","69,060","72,693","76,261","85,283"
+Americas,South America,Bolivia (Plurinational State of),Total Adults,,,"7,310","7,031",,,,,,,,,,,
+Americas,South America,Bolivia (Plurinational State of),Juveniles Male,,,,,,,,,,"1,733",,,,,
+Americas,South America,Bolivia (Plurinational State of),Juveniles Female,,,,,,,,,,141,,,,,
+Americas,South America,Bolivia (Plurinational State of),Total Juveniles,,,559,725,,,,,,"1,874",,,,,
+Americas,South America,Bolivia (Plurinational State of),Total persons held,,,"7,310","7,358","7,588","7,433","8,087","8,930","11,195","14,272","14,004","14,220","13,672","16,038",
+Americas,South America,Brazil,Adults Male,,,,"378,171","396,760","422,565","442,225","461,444","480,524","514,563","547,383","542,401","641,283","665,482",
+Americas,South America,Brazil,Adults Female,,,,"23,065","25,830","28,654","31,401","34,807","34,058","35,223","35,100","37,380","38,685","42,355",
+Americas,South America,Brazil,Total Adults,,,,"401,236","422,590","451,219","473,626","496,251","514,582","549,786","582,483",,"698,618","726,712",
+Americas,South America,Brazil,Juveniles Male,,,,,,,"17,124","16,815","19,063","19,505","22,683",,,,
+Americas,South America,Brazil,Juveniles Female,,,,,,,732,888,960,"1,027","1,042",,,,
+Americas,South America,Brazil,Total Juveniles,,,,,,,"17,856","17,703","20,023","20,532","23,725",,,,
+Americas,South America,Brazil,Total persons held,,,,"401,236","422,590","451,219","491,482","513,954","534,605","570,318","606,208","607,731","698,618","726,712",
+Americas,South America,Chile,Adults Male,"35,373","35,548","36,258","39,633","44,709","49,553","53,406","55,077","54,089","51,476","47,196","44,076","42,768","42,114","40,765"
+Americas,South America,Chile,Adults Female,"2,275","2,265","2,328","2,626","3,228","3,986","4,638","5,071","5,172","4,896","4,148","3,607","3,467","3,574","3,810"
+Americas,South America,Chile,Total Adults,"37,648","37,813","38,586","42,259","47,937","53,539","58,044","60,148","59,261","56,372","51,344","47,683","46,235","45,688","44,575"
+Americas,South America,Chile,Juveniles Male,,,258,267,"1,228","1,498","1,664","1,170","1,614","1,794","1,633","1,494","1,457","1,530","1,257"
+Americas,South America,Chile,Juveniles Female,,,5,6,57,74,86,74,76,88,73,81,80,87,78
+Americas,South America,Chile,Total Juveniles,,,263,273,"1,285","1,572","1,750","1,844","1,690","1,882","1,706","1,575","1,537","1,617","1,335"
+Americas,South America,Chile,Total persons held,"38,086","38,064","38,849","42,532","48,090","53,541","58,044","60,148","59,261","56,372","53,050","47,683","46,235","47,305","45,910"
+Americas,South America,Colombia,Adults Male,"58,098","63,385","62,707","56,626","59,971","65,786","71,204","78,760","92,968","105,387","111,046","105,675","112,188","110,753","107,136"
+Americas,South America,Colombia,Adults Female,"4,179","4,635","4,122","3,395","3,632","4,193","4,788","5,684","7,483","8,497","8,986","7,948","8,256","7,779","7,614"
+Americas,South America,Colombia,Total Adults,"62,277","68,020","66,829","60,021","63,603","69,979","75,992","84,444","100,451","113,884","120,032","113,623","120,444","118,532","114,750"
+Americas,South America,Colombia,Juveniles Male,,,,,,425,"1,121","1,510",,,,,,,
+Americas,South America,Colombia,Juveniles Female,,,,,,37,98,74,,,,,,,
+Americas,South America,Colombia,Total Juveniles,,,,,,462,"1,219","1,584",,,"1,795",,,,
+Americas,South America,Colombia,Total persons held,"62,277","68,020","66,829","60,021","63,603","69,979","75,992","84,444","100,451","113,884","120,032","113,623","120,444","118,532","114,750"
+Americas,South America,Ecuador,Adults Male,"8,862","10,229",,,,,"10,649","13,479","15,356","19,081","22,757","21,905","26,033","31,606","33,747"
+Americas,South America,Ecuador,Adults Female,"1,004","1,129",,,,,868,"1,071","1,348","1,745","2,106","1,626","1,733","2,462","2,914"
+Americas,South America,Ecuador,Total Adults,"9,866","11,358",,,,,"11,517","14,550","16,704","20,826","24,863","23,531","27,766","34,068","36,661"
+Americas,South America,Ecuador,Juveniles Male,,,,,,,,,,431,594,482,587,546,600
+Americas,South America,Ecuador,Juveniles Female,,,,,,,,,,48,37,23,26,51,55
+Americas,South America,Ecuador,Total Juveniles,,,,,,,,,,479,631,505,613,597,655
+Americas,South America,Ecuador,Total persons held,"9,866","11,358",,,,,,,,"21,305","25,494","24,036","28,379","34,665","37,316"
+Americas,South America,Guyana,Adults Male,,"1,204","1,385","1,758","2,042","1,994","2,065","2,045","1,932","1,880","1,928",,"1,931","2,092","2,158"
+Americas,South America,Guyana,Adults Female,,51,54,81,101,89,84,97,87,106,70,,67,100,68
+Americas,South America,Guyana,Total Adults,,"1,255","1,439","1,839","2,143","2,083","2,149","2,160","2,019","1,986","1,998",,"1,998","2,192","2,226"
+Americas,South America,Guyana,Juveniles Male,,23,19,21,26,,,15,16,76,,,12,,
+Americas,South America,Guyana,Juveniles Female,,2,3,1,2,,,1,0,0,,,0,,
+Americas,South America,Guyana,Total Juveniles,,25,22,22,28,34,30,16,16,76,,,12,,
+Americas,South America,Guyana,Total persons held,,"1,280","1,461","1,861","2,171","2,117","2,179","2,160","2,035","2,032","1,998",,"1,998","2,192","2,226"
+Americas,South America,Paraguay,Adults Male,,,,"5,730","5,541","5,535","6,318","5,869","6,714","7,374","8,581","10,069","12,070","12,240","12,940"
+Americas,South America,Paraguay,Adults Female,,,265,276,286,289,313,328,447,542,652,778,826,808,833
+Americas,South America,Paraguay,Total Adults,,,"6,281","6,006","5,827","5,824","6,631","6,197","7,161","7,916","9,233","10,847","12,896","13,048","13,773"
+Americas,South America,Paraguay,Juveniles Male,,,,,,,185,210,215,268,281,309,,289,278
+Americas,South America,Paraguay,Juveniles Female,,,,,,,13,10,6,10,12,10,,8,10
+Americas,South America,Paraguay,Total Juveniles,,,,,,,198,220,221,278,293,319,,297,288
+Americas,South America,Paraguay,Total persons held,,,"6,281","6,006","5,827","5,824","6,631","6,197","7,161","8,194","9,233","10,847","12,896","13,345","14,061"
+Americas,South America,Peru,Adults Male,,,,,,,,,,"57,511","63,360","67,589","72,697","77,256","80,895"
+Americas,South America,Peru,Adults Female,,,"2,318","2,485","2,759","2,951",,,,"3,879","4,237","4,372","4,545","4,767","4,916"
+Americas,South America,Peru,Total Adults,,,"33,010","35,835","39,684","43,286",,,,"61,390","67,597","71,961","77,242","82,023","85,811"
+Americas,South America,Peru,Juveniles Male,,,,,,,,,,,,,,"2,074",
+Americas,South America,Peru,Juveniles Female,,,,,,,,,,,,,,94,
+Americas,South America,Peru,Total Juveniles,,,,,,,,,,,"1,756","1,885","1,943","2,168",
+Americas,South America,Peru,Total persons held,"28,836","31,311","33,010","35,835","39,684","43,286","44,406","45,464","49,206","61,390","69,353","73,846","79,185","84,191",
+Americas,South America,Suriname,Adults Male,,,,,,,,,,,"11,204","9,973","9,674","9,587",
+Americas,South America,Suriname,Adults Female,,,,,,,,,,,243,199,162,145,
+Americas,South America,Suriname,Total Adults,,,,,,,,,,,"11,447","10,172","9,816","9,732",
+Americas,South America,Suriname,Juveniles Male,,,,,,,,,,,489,423,417,384,
+Americas,South America,Suriname,Juveniles Female,,,,,,,,,,,0,0,0,0,
+Americas,South America,Suriname,Total Juveniles,,,,,,,,,,,489,423,417,384,
+Americas,South America,Uruguay,Adults Male,,,,,,,,"8,012","8,434","8,794","8,793","8,977",,,
+Americas,South America,Uruguay,Adults Female,280,287,,,,,,688,636,624,655,565,,,
+Americas,South America,Uruguay,Total Adults,,,,,,,,"8,700","9,070","9,418","9,448","9,542",,,
+Americas,South America,Uruguay,Total Juveniles,50,42,,,,,,,,,,,,,
+Americas,South America,Uruguay,Total persons held,"6,523","6,396",,,,,,"8,700","9,070","9,418","9,448","9,542",,,
+Asia,Central Asia,Kazakhstan,Adults Male,,,,,,"44,965","46,886","51,770","45,995","42,223","38,987","40,085","39,044",,"33,529"
+Asia,Central Asia,Kazakhstan,Adults Female,,,"2,432","2,581",,"2,871","3,129","2,922","3,158","2,949","2,945","3,010","2,975",,"2,721"
+Asia,Central Asia,Kazakhstan,Total Adults,,,"43,572","42,770",,"47,836","50,015","54,692","49,153","45,172","41,932","43,095","42,019",,"36,250"
+Asia,Central Asia,Kazakhstan,Juveniles Male,,,,,,411,457,427,240,155,114,123,91,,92
+Asia,Central Asia,Kazakhstan,Juveniles Female,,,19,25,,23,23,21,8,8,6,2,4,,1
+Asia,Central Asia,Kazakhstan,Total Juveniles,,,504,468,,434,480,448,248,163,120,125,95,,93
+Asia,Central Asia,Kazakhstan,Total persons held,,,"52,203","51,544",,"48,270","50,495","55,140","49,401","45,335","42,052","43,220","42,114",,"36,343"
+Asia,Central Asia,Kyrgyzstan,Adults Male,,,,,,,,,,,"7,986","7,365","7,702","8,079",
+Asia,Central Asia,Kyrgyzstan,Adults Female,666,608,520,510,330,218,,,,,317,287,287,282,
+Asia,Central Asia,Kyrgyzstan,Total Adults,"16,724","16,472","15,678","15,026","11,351","9,553",,,,,"8,303","7,652","7,989","8,361",
+Asia,Central Asia,Kyrgyzstan,Juveniles Male,,,,,,,,,,,27,21,10,16,
+Asia,Central Asia,Kyrgyzstan,Juveniles Female,12,12,2,2,2,3,,,,,0,0,,3,
+Asia,Central Asia,Kyrgyzstan,Total Juveniles,210,190,80,101,57,57,,,,,27,21,10,19,
+Asia,Central Asia,Kyrgyzstan,Total persons held,"16,934","16,620","15,758","15,127","14,408","9,607",,,,,"9,997","9,581","10,147","10,328",
+Asia,Central Asia,Turkmenistan,Adults Female,"1,497","1,554","1,549","1,351",,,,,,,,,,,
+Asia,Central Asia,Turkmenistan,Total Adults,"15,351","13,888","13,353","10,875",,,,,,,,,,,
+Asia,Central Asia,Turkmenistan,Juveniles Female,10,9,2,,,,,,,,,,,,
+Asia,Central Asia,Turkmenistan,Total Juveniles,109,127,109,78,,,,,,,,,,,
+Asia,Central Asia,Turkmenistan,Total persons held,"15,460","14,015","13,462","10,953",,,,,,,,,,,
+Asia,Eastern Asia,China,Adults Male,,,,,,,,,,"1,547,059",,"1,532,070","1,491,663","1,437,568",
+Asia,Eastern Asia,China,Adults Female,,,,,,,,,,"95,476",,"106,880","112,731","116,891",
+Asia,Eastern Asia,China,Total Adults,,,,,,,,"1,630,000","1,624,000","1,635,000","1,667,000","1,638,950","1,604,394","1,554,459",
+Asia,Eastern Asia,China,Juveniles Male,,,,,,,,,,"15,134",,"10,603","8,178",,
+Asia,Eastern Asia,China,Juveniles Female,,,,,,,,,,294,,251,194,,
+Asia,Eastern Asia,China,Total Juveniles,,,,,,,,"18,450","16,000","15,000","13,000","10,854","8,372","6,672",
+Asia,Eastern Asia,China,Total persons held,,,,,,,,"1,650,000","1,640,000","1,650,000","1,680,000","1,649,804","1,604,394","1,561,086",
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Adults Male,,"9,031","8,343","8,388","7,920","7,320","7,086","7,127","6,689","6,745","6,463",,,,
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Adults Female,"2,300","2,355","2,029","2,018","2,006","2,044","1,745","1,832","1,467","1,675","1,658",,,,
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Total Adults,"10,457","11,386","10,372","10,406","9,926","9,364","8,831","8,959","8,156","8,420","8,121",,,,
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Juveniles Male,,987,817,894,"1,005","1,084",998,960,930,907,912,,,,
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Juveniles Female,295,308,341,340,289,290,289,240,208,141,159,,,,
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Total Juveniles,"1,114","1,295","1,158","1,234","1,294","1,374","1,287","1,200","1,138","1,048","1,071",,,,
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Total persons held,"13,012","12,558","11,530","11,640","11,220","10,738","10,118","10,159","9,294","9,468","9,192",,,,
+Asia,Eastern Asia,Japan,Adults Male,,"71,806","74,158","76,060","74,540","71,624","70,001","67,615","64,510","61,710","57,890","55,415","53,596","51,267",
+Asia,Eastern Asia,Japan,Adults Female,"4,288","4,543","4,834","5,156","5,239","5,217","5,211","5,343","5,344","5,282","5,057","5,044","4,872","4,681",
+Asia,Eastern Asia,Japan,Total Adults,"73,682","76,349","78,992","81,216","79,779","76,841","75,212","72,958","69,854","66,992","62,947","60,459","58,468","55,948",
+Asia,Eastern Asia,Japan,Juveniles Male,,62,58,38,29,38,37,17,21,16,22,25,26,17,
+Asia,Eastern Asia,Japan,Juveniles Female,0,2,5,1,1,2,1,0,1,0,2,2,3,2,
+Asia,Eastern Asia,Japan,Total Juveniles,52,64,63,39,30,40,38,17,22,16,24,27,29,19,
+Asia,Eastern Asia,Japan,Total persons held,"73,734","76,413","79,055","81,255","79,809","76,881","75,250","72,975","69,876","67,008","62,971","60,486","58,497","55,967",
+Asia,Eastern Asia,Macao Special Administrative Region of China,Adults Male,,,,,,791,797,783,868,924,955,993,"1,067","1,083","1,103"
+Asia,Eastern Asia,Macao Special Administrative Region of China,Adults Female,,,,,,104,127,140,158,178,194,211,212,186,179
+Asia,Eastern Asia,Macao Special Administrative Region of China,Total Adults,,,,,,895,924,923,"1,026","1,102","1,149","1,204","1,279","1,269","1,282"
+Asia,Eastern Asia,Macao Special Administrative Region of China,Juveniles Male,,,,,,13,6,5,4,9,4,1,1,2,2
+Asia,Eastern Asia,Macao Special Administrative Region of China,Juveniles Female,,,,,,4,0,1,0,1,1,0,0,0,0
+Asia,Eastern Asia,Macao Special Administrative Region of China,Total Juveniles,,,,,,17,6,6,4,10,5,1,1,2,2
+Asia,Eastern Asia,Macao Special Administrative Region of China,Total persons held,,,,,,912,930,929,"1,030","1,112","1,154","1,205","1,280","1,271","1,284"
+Asia,Eastern Asia,Mongolia,Adults Male,,"5,881","6,624","6,296","7,367","7,467","6,057","6,891","7,439","7,574","7,662","7,224","5,185","5,462","3,653"
+Asia,Eastern Asia,Mongolia,Adults Female,249,270,324,332,371,491,407,453,490,484,342,395,270,208,175
+Asia,Eastern Asia,Mongolia,Total Adults,"5,868","6,153","6,948","6,628","7,738","7,958","6,464","7,344","7,929","8,058","8,004","7,619","5,455","5,670","3,828"
+Asia,Eastern Asia,Mongolia,Juveniles Male,,126,104,112,179,127,13,74,78,64,30,71,16,21,41
+Asia,Eastern Asia,Mongolia,Juveniles Female,,9,6,0,6,13,55,3,4,1,0,1,0,1,0
+Asia,Eastern Asia,Mongolia,Total Juveniles,,135,110,112,185,140,68,77,82,65,30,71,16,22,41
+Asia,Eastern Asia,Mongolia,Total persons held,,"8,124","8,906","6,740","7,923","8,098","6,532","7,421","8,011","8,145","8,068","7,690","5,471","5,692","3,869"
+Asia,Eastern Asia,Republic of Korea,Adults Male,,,,,,,"46,249","42,908","42,189","43,563","45,404","48,411","50,720","53,306","51,106"
+Asia,Eastern Asia,Republic of Korea,Adults Female,"3,566","3,417","2,561","2,311","2,395","2,498","1,507","2,343","2,393","2,545","2,898","2,923","3,493","3,906","3,733"
+Asia,Eastern Asia,Republic of Korea,Total Adults,"55,156","53,147","46,204","45,092","44,617","47,446","47,756","45,251","44,582","46,108","48,302","51,334","54,213","57,212","54,839"
+Asia,Eastern Asia,Republic of Korea,Juveniles Male,"2,123","1,612","1,079",535,999,484,,398,420,563,497,296,428,432,319
+Asia,Eastern Asia,Republic of Korea,Juveniles Female,57,37,28,24,31,36,,32,36,37,25,131,26,31,40
+Asia,Eastern Asia,Republic of Korea,Total Juveniles,"2,180","1,649","1,107",559,"1,030",520,472,430,456,600,522,427,454,463,359
+Asia,Eastern Asia,Republic of Korea,Total persons held,"57,336","54,796","47,311","45,651","45,647","47,966","48,228","45,681","45,038","46,708","48,824","51,761","54,667","57,675","55,198"
+Asia,South-Eastern Asia,Brunei Darussalam,Adults Female,37,31,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Brunei Darussalam,Total Adults,455,440,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Brunei Darussalam,Juveniles Female,0,2,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Brunei Darussalam,Total Juveniles,2,3,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Brunei Darussalam,Total persons held,457,443,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Indonesia,Adults Male,,,,,,,,,,"144,379","146,898","147,845","161,372","188,445","215,957"
+Asia,South-Eastern Asia,Indonesia,Adults Female,,,,,,,,,,"7,714","8,087","8,381","9,414","10,963","12,645"
+Asia,South-Eastern Asia,Indonesia,Total Adults,,,,,,,,,,"152,093","154,985","156,226","170,786","199,048","228,602"
+Asia,South-Eastern Asia,Indonesia,Juveniles Male,,,,,,,,,,"4,228","4,969","3,662","2,732","3,148","3,404"
+Asia,South-Eastern Asia,Indonesia,Juveniles Female,,,,,,,,,,125,107,76,54,65,75
+Asia,South-Eastern Asia,Indonesia,Total Juveniles,,,,,,,,,,"4,353","5,076","3,738","2,786","3,213","3,479"
+Asia,South-Eastern Asia,Indonesia,Total persons held,,,,,,,,,,"156,446","160,061","159,964","173,572","202,621","232,081"
+Asia,South-Eastern Asia,Philippines,Adults Male,,,,,"53,486","51,934","51,874","53,204","57,911","62,649","65,066","70,963","85,576",,
+Asia,South-Eastern Asia,Philippines,Adults Female,,"5,018","5,674","5,753","5,633","5,494","5,443","5,673","5,905","6,299","6,669","7,892","9,054",,
+Asia,South-Eastern Asia,Philippines,Total Adults,,"53,829","59,448","56,449","59,119","57,428","57,317","58,877","63,816","68,948","71,735","123,036","137,834","168,765",
+Asia,South-Eastern Asia,Philippines,Juveniles Male,,,,,553,369,286,400,463,409,412,"1,370","1,501","1,636","1,938"
+Asia,South-Eastern Asia,Philippines,Juveniles Female,,99,92,48,32,12,16,12,16,15,25,144,134,142,158
+Asia,South-Eastern Asia,Philippines,Total Juveniles,,"2,014","1,803","1,232",585,381,302,412,479,424,439,"1,514","1,635","1,778","2,096"
+Asia,South-Eastern Asia,Philippines,Total persons held,,"55,919","61,331","60,732","60,205","61,370","58,711","95,390","100,590","106,623","111,411","124,550","139,469","170,543",
+Asia,South-Eastern Asia,Singapore,Adults Male,,,,"10,660","10,436","10,723","11,423","11,588","11,268","11,191","11,552","11,117","10,958","10,860","10,284"
+Asia,South-Eastern Asia,Singapore,Adults Female,"1,510","1,500","1,810","1,436","1,042","1,084","1,159","1,194","1,137","1,170","1,253","1,232","1,238","1,285","1,210"
+Asia,South-Eastern Asia,Singapore,Total Adults,"14,244","13,530","14,453","12,096","11,478","11,807","12,582","12,782","12,405","12,361","12,805","12,349","12,196","12,145","11,494"
+Asia,South-Eastern Asia,Singapore,Juveniles Female,158,130,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Singapore,Total Juveniles,"1,143",981,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Singapore,Total persons held,"17,375","15,623","14,453","12,761","12,410","12,500","13,428","13,604","13,164","12,975","13,334","12,794","12,640","12,454","11,931"
+Asia,South-Eastern Asia,Thailand,Adults Male,,,"135,102","128,007",,,"182,941",,,,,"208,534","220,256","281,806",
+Asia,South-Eastern Asia,Thailand,Adults Female,,,"27,187","23,579",,,"30,153",,,,,"35,979","36,851","43,421",
+Asia,South-Eastern Asia,Thailand,Total Adults,,,"162,293","151,586",,,"213,094",,,,,"244,513","257,107","325,227",
+Asia,South-Eastern Asia,Thailand,Juveniles Male,,,,,,,,,,,,"5,721","5,849",66,
+Asia,South-Eastern Asia,Thailand,Juveniles Female,,,,,,,,,,,,391,385,5,
+Asia,South-Eastern Asia,Thailand,Total Juveniles,,,,,,,,,,,,"6,112","6,234",71,
+Asia,South-Eastern Asia,Thailand,Total persons held,,,"162,293","151,586",,,"213,094",,,,,"317,980","323,473","325,298",
+Asia,Southern Asia,Bangladesh,Adults Female,,,"2,216","2,158",,,,,,,,,,,
+Asia,Southern Asia,Bangladesh,Total Adults,,,"72,141","67,732",,,,,,,,,,,
+Asia,Southern Asia,Bangladesh,Juveniles Female,,,72,64,,,,,,,,,,,
+Asia,Southern Asia,Bangladesh,Total Juveniles,,,695,546,,,,,,,,,,,
+Asia,Southern Asia,Bangladesh,Total persons held,,,"72,268","66,200",,,,,,,,,,,
+Asia,Southern Asia,Bhutan,Adults Male,,,,,,,,,,"1,006","1,000",,,,
+Asia,Southern Asia,Bhutan,Adults Female,,,,,,,,,,40,47,,,,
+Asia,Southern Asia,Bhutan,Juveniles Male,,,,,,,,,,41,37,,,,
+Asia,Southern Asia,Bhutan,Juveniles Female,,,,,,,,,,0,0,,,,
+Asia,Southern Asia,Bhutan,Total Juveniles,,,,,,,,,,41,37,,,,
+Asia,Southern Asia,Bhutan,Total persons held,,,,,,,,,,"1,087","1,084",,,,
+Asia,Southern Asia,India,Adults Male,,"318,421","344,382","358,614","360,995","368,824",,"353,961","356,902","368,184","393,804",,,,
+Asia,Southern Asia,India,Adults Female,,"12,970","13,986","14,657","15,401","15,929","15,406","15,037","16,024","16,951","18,188",,,,
+Asia,Southern Asia,India,Total Adults,,"331,391","358,368","373,271","376,396","384,753","376,969","368,998","372,926","385,135","411,992",,,,
+Asia,Southern Asia,India,Total persons held,,"331,391","358,368","373,271","376,396","384,753","376,969","368,998","372,926","385,135","411,992",,,,
+Asia,Southern Asia,Maldives,Adults Female,,209,,,,,,,,,,,,,
+Asia,Southern Asia,Maldives,Total Adults,,900,,,,,,,,,,,,,
+Asia,Southern Asia,Maldives,Juveniles Female,28,34,,,,,,,,,,,,,
+Asia,Southern Asia,Maldives,Total Juveniles,279,225,,,,,,,,,,,,,
+Asia,Southern Asia,Sri Lanka,Adults Female,746,785,,,,,,,,,,,,,
+Asia,Southern Asia,Sri Lanka,Total Adults,"27,681","26,898",,,,,,,,,,,,,
+Asia,Southern Asia,Sri Lanka,Total persons held,,,,,"26,349","28,582","27,151","26,025","23,213","23,215",,,,,
+Asia,Western Asia,Armenia,Adults Male,,"2,765","1,822","2,747","2,942","3,365","3,762","4,214","4,904","4,535","3,705","3,684","3,691","3,669","3,407"
+Asia,Western Asia,Armenia,Adults Female,,59,78,85,106,123,148,157,205,197,198,181,172,151,125
+Asia,Western Asia,Armenia,Total Adults,,"2,824","1,900","2,832","3,048","3,488","3,910","4,271","5,109","4,732","3,903","3,865","3,863","3,820","3,532"
+Asia,Western Asia,Armenia,Juveniles Male,,,,,,,54,41,33,23,19,15,10,12,4
+Asia,Western Asia,Armenia,Juveniles Female,3,3,,,,,1,1,0,1,1,0,,1,0
+Asia,Western Asia,Armenia,Total Juveniles,,32,42,41,35,51,55,42,33,24,20,15,10,13,4
+Asia,Western Asia,Armenia,Total persons held,,"2,856","2,710","2,873","3,083","3,539","3,965","4,313","5,142","4,756","3,923","3,880","3,873","3,833","3,536"
+Asia,Western Asia,Azerbaijan,Adults Male,,"17,970","17,561","18,158","19,061","18,352","17,582","18,792","17,184","17,406","20,040","21,806",,"22,509","22,575"
+Asia,Western Asia,Azerbaijan,Adults Female,,267,242,249,249,341,359,367,403,415,559,632,,730,669
+Asia,Western Asia,Azerbaijan,Total Adults,,"18,237","17,803","18,407","19,310","18,693","17,941","19,159","17,587","17,821","20,599","22,438",,"23,239","23,244"
+Asia,Western Asia,Azerbaijan,Juveniles Male,,53,59,59,59,39,45,32,29,27,70,88,,72,75
+Asia,Western Asia,Azerbaijan,Juveniles Female,1,2,1,0,0,0,0,0,0,0,0,0,,0,0
+Asia,Western Asia,Azerbaijan,Total Juveniles,,55,60,59,59,39,45,32,29,27,70,88,,72,75
+Asia,Western Asia,Azerbaijan,Total persons held,,"18,504","17,845","18,656","19,559","20,986","20,651","21,971","20,546","20,782","20,669","22,526",,"23,311","23,319"
+Asia,Western Asia,Bahrain,Adults Female,,,103,209,898,857,,,,,,,,,
+Asia,Western Asia,Bahrain,Total Adults,,,,,"3,567","3,103",,,,,,,,,
+Asia,Western Asia,Bahrain,Juveniles Female,7,5,,,2,1,,,,,,,,,
+Asia,Western Asia,Bahrain,Total Juveniles,,,,,5,1,,,,,,,,,
+Asia,Western Asia,Bahrain,Total persons held,437,701,513,522,"3,567","3,103",,,,,,,,,
+Asia,Western Asia,Cyprus,Adults Male,271,318,445,512,504,582,519,577,571,609,491,479,492,530,538
+Asia,Western Asia,Cyprus,Adults Female,11,20,16,19,21,42,31,45,35,43,25,30,31,41,33
+Asia,Western Asia,Cyprus,Total Adults,282,338,461,531,525,624,550,622,606,652,516,509,523,571,571
+Asia,Western Asia,Cyprus,Juveniles Male,,,41,45,20,26,27,14,14,24,32,23,23,15,20
+Asia,Western Asia,Cyprus,Juveniles Female,,,0,2,0,2,1,0,2,2,5,0,1,0,1
+Asia,Western Asia,Cyprus,Total Juveniles,,33,41,47,20,28,28,14,16,26,37,23,24,15,21
+Asia,Western Asia,Cyprus,Total persons held,359,454,502,578,547,652,578,636,622,678,553,532,547,586,592
+Asia,Western Asia,Georgia,Adults Male,,,"8,749","14,480",,"17,609","20,021","22,307","22,724","18,301","8,768","10,008",,"9,054",
+Asia,Western Asia,Georgia,Adults Female,,,253,660,,770,962,"1,171","1,213",925,250,281,,264,
+Asia,Western Asia,Georgia,Total Adults,,,"9,002","15,140",,"18,379","20,983","23,478","23,937","19,226","9,018","10,289",,"9,318",
+Asia,Western Asia,Georgia,Juveniles Male,,,141,321,,179,251,203,175,122,75,83,,15,
+Asia,Western Asia,Georgia,Juveniles Female,,,1,3,,1,5,3,2,1,0,0,,1,
+Asia,Western Asia,Georgia,Total Juveniles,,,142,324,,280,256,206,177,123,75,83,,16,
+Asia,Western Asia,Georgia,Total persons held,"6,119","7,867","9,144","15,464",,"18,659","21,239","23,684","24,114","19,349","9,093","10,372",,"9,334",
+Asia,Western Asia,Israel,Adults Male,,,,,,,,"17,223","16,034","16,542","16,646","17,008",,,
+Asia,Western Asia,Israel,Adults Female,166,197,345,349,471,478,,237,240,222,210,207,,,
+Asia,Western Asia,Israel,Total Adults,"9,472","10,335","15,603","20,017","21,265","21,225",,"17,460","16,269","16,764","16,856","17,215",,,
+Asia,Western Asia,Israel,Juveniles Male,74,106,444,597,614,632,,433,379,443,410,383,,,
+Asia,Western Asia,Israel,Juveniles Female,4,4,8,3,41,19,,5,5,4,2,8,,,
+Asia,Western Asia,Israel,Total Juveniles,78,110,452,600,655,651,,438,384,447,412,391,,,
+Asia,Western Asia,Israel,Total persons held,"12,228","13,909","16,055","20,617","21,949","21,905",,"20,191","18,967","20,291","18,610","20,781",,,
+Asia,Western Asia,Jordan,Adults Male,,,,"5,998","6,472","6,471","7,012","8,307",,"57,352",,,,,
+Asia,Western Asia,Jordan,Adults Female,,,185,172,181,162,194,127,,"1,968",,,,,
+Asia,Western Asia,Jordan,Total Adults,,,"6,378","6,168","8,533","7,077","7,206","6,434",,"59,320",,,,,
+Asia,Western Asia,Jordan,Total persons held,,,"6,378","6,166","6,633","7,077","7,206","8,434",,"7,714",,,,,
+Asia,Western Asia,Lebanon,Adults Male,,,"6,535","5,704",,,"4,630","5,737","4,810","4,717","5,076","6,002","5,921","5,827","5,962"
+Asia,Western Asia,Lebanon,Adults Female,,,222,227,,,161,195,270,245,232,256,269,254,302
+Asia,Western Asia,Lebanon,Total Adults,,,"6,757","5,931",,,"4,791","4,932","5,080","4,962","5,308",,"6,172",,
+Asia,Western Asia,Lebanon,Juveniles Male,,,161,164,,,103,122,83,98,80,98,132,133,180
+Asia,Western Asia,Lebanon,Juveniles Female,,,3,6,,,7,6,6,6,5,9,3,3,14
+Asia,Western Asia,Lebanon,Total Juveniles,,,,,,,110,128,89,104,85,,146,,
+Asia,Western Asia,Lebanon,Total persons held,,,"6,921","6,101",,,"4,901","5,060","5,169","5,060","5,393","6,365","6,325","6,217","6,458"
+Asia,Western Asia,Qatar,Adults Female,22,5,103,88,,81,,,,,,,,,
+Asia,Western Asia,Qatar,Total Adults,586,461,522,805,,551,,,,,,,,,
+Asia,Western Asia,Qatar,Total persons held,569,564,522,805,449,551,,,,,,,,,
+Asia,Western Asia,Saudi Arabia,Adults Male,,,,,,,,,,,,,,,"66,787"
+Asia,Western Asia,Saudi Arabia,Adults Female,,,,,,,,,,,,,,,"1,269"
+Asia,Western Asia,Saudi Arabia,Total Adults,,,,,,,,,,,,,,,"68,056"
+Asia,Western Asia,Saudi Arabia,Total persons held,,,,,,,,,,,,,,,"68,056"
+Asia,Western Asia,State of Palestine,Adults Male,,,,,"4,224","8,985","10,472","12,251","12,391","12,770",,,,,
+Asia,Western Asia,State of Palestine,Adults Female,,,,,35,166,177,267,269,199,,,,,
+Asia,Western Asia,State of Palestine,Total Adults,,,,,"4,259","9,151","10,649","12,518","12,660","12,969",,,,,
+Asia,Western Asia,State of Palestine,Juveniles Male,,,,,,,,,474,614,,,,,
+Asia,Western Asia,State of Palestine,Juveniles Female,,,,,,,,,6,5,,,,,
+Asia,Western Asia,State of Palestine,Total Juveniles,,,,,,293,512,495,480,619,,,,,
+Asia,Western Asia,State of Palestine,Total persons held,,,,,"4,259","9,151","10,649","12,518","12,660","12,969",,,,,
+Asia,Western Asia,Syrian Arab Republic,Adults Female,398,380,,,,,,,,,,,,,
+Asia,Western Asia,Syrian Arab Republic,Total Adults,"4,050","3,208",,,,,,,,,,,,,
+Asia,Western Asia,Syrian Arab Republic,Total persons held,"11,829","10,599",,,,,,,,,,,,,
+Asia,Western Asia,Turkey,Adults Male,,,,,"87,127","96,890","109,648","114,551","121,731","129,181","138,420","151,656","169,501","190,031",
+Asia,Western Asia,Turkey,Adults Female,"2,193","1,951","1,834","2,444","3,179","3,599","4,013","4,150","4,539","4,538","5,169","5,755","6,435","8,294",
+Asia,Western Asia,Turkey,Total Adults,"63,140","57,382","55,293","69,328","90,306","100,489","113,661","118,701","126,270","134,019","143,589","157,411","175,936","198,325",
+Asia,Western Asia,Turkey,Juveniles Male,,,,,,,"2,501","2,045","2,262","1,946","1,829","1,923","2,247","2,323",
+Asia,Western Asia,Turkey,Juveniles Female,,,,,,,61,68,72,55,50,63,74,79,
+Asia,Western Asia,Turkey,Total Juveniles,,,,,,"2,746","2,679","2,113","2,334","2,001","1,879","1,986","2,321","2,402",
+Asia,Western Asia,Turkey,Total persons held,"63,796","58,016","55,966","70,524","90,732","103,235","116,340","120,814","128,604","136,020","145,468","159,397","178,257","200,727",
+Asia,Western Asia,United Arab Emirates,Adults Male,,,,,,,,,,"8,570","8,795","8,629",,,
+Asia,Western Asia,United Arab Emirates,Adults Female,,,"1,363","1,229",,,,,,"1,175","1,173","1,137",,,
+Asia,Western Asia,United Arab Emirates,Total Adults,,,"9,936","11,193",,,,,,"9,745","9,898","9,766",,,
+Asia,Western Asia,United Arab Emirates,Juveniles Male,,,,,,,,,,289,169,187,,,
+Asia,Western Asia,United Arab Emirates,Juveniles Female,,,30,20,,,,,,6,9,11,,,
+Asia,Western Asia,United Arab Emirates,Total Juveniles,81,60,115,66,,,,,,295,178,198,,,
+Asia,Western Asia,United Arab Emirates,Total persons held,,,"9,936","11,193",,,,,,"9,824","9,959","9,826",,,
+Asia,Western Asia,Yemen,Adults Male,,"6,817","5,824","4,806","5,625","6,149","6,346",,,,,,,,
+Asia,Western Asia,Yemen,Adults Female,,502,170,116,127,122,142,,,,,,,,
+Asia,Western Asia,Yemen,Total Adults,,"7,319","5,994","4,922","5,625","6,271","6,488",,,,,,,,
+Asia,Western Asia,Yemen,Total Juveniles,,,,88,65,72,75,,,,,,,,
+Asia,Western Asia,Yemen,Total persons held,,"7,319","5,994","5,189","5,947","6,574","6,894",,,,,,,,
+Europe,Eastern Europe,Belarus,Adults Male,"35,103","39,958","38,772","42,305","43,144","41,033","37,016","36,465","33,865","26,827","26,409","27,460",,,
+Europe,Eastern Europe,Belarus,Adults Female,"2,504","2,279","2,241","2,551","3,039","2,980","2,901","2,984","2,656","1,937","1,984","2,228",,,
+Europe,Eastern Europe,Belarus,Total Adults,"37,607","42,237","41,013","44,856","46,183","44,013","39,917","39,449","36,521","28,764","28,393","29,688",,,
+Europe,Eastern Europe,Belarus,Juveniles Male,686,530,491,518,570,366,261,174,117,74,76,84,,,
+Europe,Eastern Europe,Belarus,Juveniles Female,36,39,34,42,34,20,8,4,14,3,2,4,,,
+Europe,Eastern Europe,Belarus,Total Juveniles,722,569,525,560,604,386,269,178,131,77,78,88,,,
+Europe,Eastern Europe,Belarus,Total persons held,"48,593","42,806","41,538","45,416","46,787","44,399","40,186","39,627","36,652","28,841","28,471","29,776",,,
+Europe,Eastern Europe,Bulgaria,Adults Male,,"10,370","10,918","10,583","9,844","9,043","8,708","9,015","9,507","9,111","8,493","7,549","7,117","7,090","6,740"
+Europe,Eastern Europe,Bulgaria,Adults Female,294,349,387,371,333,290,240,291,289,307,263,258,245,228,218
+Europe,Eastern Europe,Bulgaria,Total Adults,"9,931","10,719","11,305","10,954","10,177","9,333","8,948","9,306","9,796","9,418","8,756","7,807","7,362","7,318","6,958"
+Europe,Eastern Europe,Bulgaria,Juveniles Male,,149,128,97,89,73,57,73,89,73,77,62,45,27,29
+Europe,Eastern Europe,Bulgaria,Juveniles Female,3,3,3,7,5,2,1,0,0,2,1,1,1,0,1
+Europe,Eastern Europe,Bulgaria,Total Juveniles,138,152,131,104,94,75,58,73,89,75,78,63,46,27,30
+Europe,Eastern Europe,Bulgaria,Total persons held,"10,066","10,871","11,436","11,058","10,271","9,408","9,006","9,379","9,885","9,493","8,834","7,870","7,408","7,345","6,988"
+Europe,Eastern Europe,Czech Republic,Adults Male,,,,,,,,"20,410","21,485","20,994","15,578","17,387","19,338","20,761","20,375"
+Europe,Eastern Europe,Czech Republic,Adults Female,,822,904,925,999,"1,079",999,"1,282","1,480","1,446",954,"1,164","1,430","1,635","1,631"
+Europe,Eastern Europe,Czech Republic,Total Adults,,"18,162","18,749","18,308","18,733","20,289","21,688","21,692","22,965","22,440","16,532","18,551","20,768","22,396","22,085"
+Europe,Eastern Europe,Czech Republic,Juveniles Male,,,,,,,,197,193,163,108,101,95,77,67
+Europe,Eastern Europe,Czech Republic,Juveniles Female,,12,5,3,2,7,7,11,12,9,5,6,3,8,7
+Europe,Eastern Europe,Czech Republic,Total Juveniles,,181,188,170,168,213,165,208,205,172,113,107,98,85,74
+Europe,Eastern Europe,Czech Republic,Total persons held,,"18,343","18,937","18,578","18,901","20,502","21,853","21,900","23,170","22,644","16,645","18,658","20,866","22,481","22,159"
+Europe,Eastern Europe,Hungary,Adults Male,,"15,119","14,292","13,412","13,010","13,289","13,931","14,758","15,470","15,440","16,027","16,134","15,862","16,071","15,838"
+Europe,Eastern Europe,Hungary,Adults Female,989,979,980,942,899,923,989,"1,009","1,216","1,225","1,336","1,332","1,235","1,280","1,268"
+Europe,Eastern Europe,Hungary,Total Adults,"15,977","16,098","15,272","14,354","13,909","14,212","14,920","15,767","16,686","16,665","17,363","17,466","17,097","17,351","17,106"
+Europe,Eastern Europe,Hungary,Juveniles Male,,435,465,448,422,507,495,540,501,498,458,407,337,290,229
+Europe,Eastern Europe,Hungary,Juveniles Female,44,13,18,20,22,24,17,21,23,16,20,17,15,17,8
+Europe,Eastern Europe,Hungary,Total Juveniles,,448,483,468,444,531,512,561,524,514,478,424,352,307,237
+Europe,Eastern Europe,Hungary,Total persons held,"16,860","16,546","15,755","14,822","14,353","14,743","15,432","16,328","17,210","17,179","17,841","17,890","17,449","17,658","17,343"
+Europe,Eastern Europe,Poland,Adults Male,,"60,069","75,372","80,773","80,630","76,764","77,745","75,007","76,011","78,668","74,005","72,858","66,962","67,506","69,528"
+Europe,Eastern Europe,Poland,Adults Female,"1,260","1,486","2,235","2,550","2,501","2,455","2,434","2,515","2,456","2,638","2,591","2,484","2,336","2,535","2,825"
+Europe,Eastern Europe,Poland,Total Adults,"57,175","61,555","77,607","83,323","83,131","79,219","80,179","77,522","78,467","81,306","76,596","75,342","69,298","70,041","72,353"
+Europe,Eastern Europe,Poland,Juveniles Male,"3,541","3,365","6,970","6,910","6,232","5,484","5,307","4,586","4,129","3,944","3,391","3,716","3,154","2,061","1,969"
+Europe,Eastern Europe,Poland,Juveniles Female,57,55,298,296,285,275,263,264,236,209,178,287,243,107,158
+Europe,Eastern Europe,Poland,Total Juveniles,"3,598","3,420","7,268","7,206","6,517","5,759","5,570","4,850","4,365","4,153","3,569","4,003","3,397","2,168","2,127"
+Europe,Eastern Europe,Poland,Total persons held,"79,281","80,368","84,875","90,529","89,648","84,978","85,749","82,372","82,832","85,459","80,165","79,345","72,695","72,209","74,480"
+Europe,Eastern Europe,Republic of Moldova,Adults Male,,"6,606","8,255","5,559","7,297","6,332","6,043","5,840","5,979","6,083","6,349","6,800",,,
+Europe,Eastern Europe,Republic of Moldova,Adults Female,,277,411,436,446,415,401,387,403,451,429,458,,,
+Europe,Eastern Europe,Republic of Moldova,Total Adults,,"6,883","8,666","5,995","7,743","6,747","6,444","6,227","6,382","6,498","6,778","7,258",,,
+Europe,Eastern Europe,Republic of Moldova,Juveniles Male,,,202,142,141,77,85,92,92,81,73,58,,,
+Europe,Eastern Europe,Republic of Moldova,Juveniles Female,,2,8,72,11,6,6,5,6,4,2,1,,,
+Europe,Eastern Europe,Republic of Moldova,Total Juveniles,,,210,214,152,83,91,97,98,85,75,59,,,
+Europe,Eastern Europe,Republic of Moldova,Total persons held,,"9,377","8,876","9,042","7,895","6,830","6,535","6,324","6,480","6,583","6,853","7,317",,,
+Europe,Eastern Europe,Romania,Adults Male,,"30,973","34,910","31,773","27,472","24,570","25,052","26,538","28,889","29,968","31,383","28,323","26,591","25,657","21,955"
+Europe,Eastern Europe,Romania,Adults Female,"1,503","1,466","1,595","1,509","1,380","1,211","1,194","1,247","1,355","1,405","1,539","1,517","1,427","1,391","1,100"
+Europe,Eastern Europe,Romania,Total Adults,"35,453","32,439","36,505","33,282","28,852","25,781","26,246","27,785","30,244","31,373","32,922","29,840","28,018","27,048","23,055"
+Europe,Eastern Europe,Romania,Juveniles Male,626,540,779,723,521,416,451,435,429,427,492,296,300,387,375
+Europe,Eastern Europe,Romania,Juveniles Female,29,28,85,33,17,15,19,24,21,17,20,20,16,20,20
+Europe,Eastern Europe,Romania,Total Juveniles,655,568,864,756,538,431,470,459,450,444,512,316,316,407,395
+Europe,Eastern Europe,Romania,Total persons held,"42,815","39,031","36,700","34,038","29,390","26,212","26,716","28,244","30,694","31,817","33,434","30,156","28,334","27,455","23,450"
+Europe,Eastern Europe,Russian Federation,Adults Male,,,,,,,,"745,717","689,441","640,265","618,175","613,723","590,321","578,107","551,064"
+Europe,Eastern Europe,Russian Federation,Adults Female,,"34,979","40,839","47,591","51,236","55,341",,"66,564","61,768","57,748","55,755","54,702","52,703","49,242","48,683"
+Europe,Eastern Europe,Russian Federation,Total Adults,,"744,184","804,489","855,574","869,027","876,015","856,081","812,281","751,209","698,013","673,930","668,425","643,024","627,349","599,747"
+Europe,Eastern Europe,Russian Federation,Juveniles Male,,,,,,,,"5,472","4,239","3,783","3,247","3,126","2,968","2,687","2,366"
+Europe,Eastern Europe,Russian Federation,Juveniles Female,,"1,015","1,040",835,744,581,,284,200,113,110,98,93,119,63
+Europe,Eastern Europe,Russian Federation,Total Juveniles,,"18,578","18,907","15,786","14,141","11,486","7,819","5,756","4,439","3,896","3,357","3,224","3,061","2,806","2,429"
+Europe,Eastern Europe,Russian Federation,Total persons held,,"762,762","823,396","871,360","883,168","887,501","863,899","818,037","755,648","701,909","677,287","671,649","646,085","630,155","602,176"
+Europe,Eastern Europe,Slovakia,Adults Male,,,,,,,"8,671","9,340","9,775","10,067","9,071","9,316","9,196","9,246","9,240"
+Europe,Eastern Europe,Slovakia,Adults Female,231,369,378,378,369,408,488,551,618,646,583,611,628,673,716
+Europe,Eastern Europe,Slovakia,Total Adults,"5,877","9,220","8,658","8,067","7,793","7,999","9,159","9,891","10,393","10,713","9,654","9,927","9,824","9,919","9,956"
+Europe,Eastern Europe,Slovakia,Juveniles Male,,,,,,,154,139,128,132,93,90,86,76,72
+Europe,Eastern Europe,Slovakia,Juveniles Female,1,5,3,3,3,2,3,1,4,5,6,3,3,0,0
+Europe,Eastern Europe,Slovakia,Total Juveniles,106,202,239,182,193,167,157,140,132,137,99,93,89,76,72
+Europe,Eastern Europe,Slovakia,Total persons held,"8,873","9,422","8,897","8,249","7,986","8,166","9,316","10,031","10,525","10,850","9,753","10,020","9,913","9,995","10,028"
+Europe,Eastern Europe,Ukraine,Adults Male,,,,,,,,"106,499","108,206",,,,,,"54,100"
+Europe,Eastern Europe,Ukraine,Adults Female,"9,124","9,297","8,479","7,620","6,925","6,421","6,361","6,731","6,862",,,,,,"2,854"
+Europe,Eastern Europe,Ukraine,Total Adults,"188,838","189,528","168,802","159,084","148,434","144,893","146,789","113,230","115,068",,,,,,"56,954"
+Europe,Eastern Europe,Ukraine,Juveniles Male,,,,,,,,"1,336",826,,,,,,136
+Europe,Eastern Europe,Ukraine,Juveniles Female,106,122,120,97,61,62,44,98,42,,,,,,8
+Europe,Eastern Europe,Ukraine,Total Juveniles,"2,403","2,519","2,121","1,641","1,256","1,053",927,"1,434",868,,,,,,146
+Europe,Eastern Europe,Ukraine,Total persons held,"191,241","192,047","170,923","160,725","149,690","145,946","147,716","154,027","154,029",,,,,,"57,100"
+Europe,Northern Europe,Denmark,Adults Male,,,,,,,"3,523","3,743","3,774","3,673","3,890","3,429","3,079","3,242","3,274"
+Europe,Northern Europe,Denmark,Adults Female,105,174,176,183,175,155,178,183,164,149,189,145,118,150,135
+Europe,Northern Europe,Denmark,Total Adults,,,"4,021","3,914","3,599","3,442","3,701","3,926","3,938","3,822","4,079","3,574","3,197","3,392","3,409"
+Europe,Northern Europe,Denmark,Juveniles Male,8,7,,,21,9,20,15,9,6,12,9,6,16,8
+Europe,Northern Europe,Denmark,Juveniles Female,0,0,,,4,0,0,2,0,1,0,0,0,0,1
+Europe,Northern Europe,Denmark,Total Juveniles,8,7,20,18,25,9,20,17,9,7,12,9,6,16,9
+Europe,Northern Europe,Denmark,Total persons held,"3,641","3,767","4,041","3,932","3,624","3,451","3,721","3,944","3,947","3,829","4,091","3,583","3,203","3,408","3,418"
+Europe,Northern Europe,Estonia,Adults Male,,,,,"3,073","3,224","3,371","3,157","3,190","3,088","2,936",,"2,646",,"2,563"
+Europe,Northern Europe,Estonia,Adults Female,131,150,141,137,156,190,149,193,181,162,154,,153,,140
+Europe,Northern Europe,Estonia,Total Adults,"3,175","3,414","3,349","3,224","3,229","3,414","3,520","3,350","3,371","3,250","3,090","3,001","2,644",,"2,703"
+Europe,Northern Europe,Estonia,Juveniles Male,,,,,71,51,33,42,25,34,31,31,22,,19
+Europe,Northern Europe,Estonia,Juveniles Female,2,5,0,0,0,1,1,1,4,2,2,2,2,,1
+Europe,Northern Europe,Estonia,Total Juveniles,46,55,37,41,71,52,34,43,29,36,33,33,24,,20
+Europe,Northern Europe,Estonia,Total persons held,"4,576","4,565","4,410","4,310","3,456","3,656","3,555","3,393","3,400","3,286","3,112","3,034","2,823",,"2,723"
+Europe,Northern Europe,Finland,Adults Male,"2,726","2,844","3,540","3,512","3,306","3,219","3,249","3,046","2,969","3,000","2,960","2,810","2,818","2,848","2,756"
+Europe,Northern Europe,Finland,Adults Female,148,167,235,242,241,218,238,245,228,219,253,237,228,215,228
+Europe,Northern Europe,Finland,Total Adults,"2,874","3,011","3,775","3,754","3,547","3,437","3,487","3,291","3,197","3,219","3,213","3,047","3,046","3,063","2,984"
+Europe,Northern Europe,Finland,Juveniles Male,100,92,91,95,73,87,99,72,68,85,79,98,80,82,92
+Europe,Northern Europe,Finland,Juveniles Female,1,4,1,2,5,6,3,1,3,2,3,3,9,11,6
+Europe,Northern Europe,Finland,Total Juveniles,101,96,92,97,78,93,102,73,71,87,82,101,89,93,98
+Europe,Northern Europe,Finland,Total persons held,"3,641","3,704","3,867","3,851","3,625","3,530","3,589","3,364","3,268","3,306","3,295","3,148","3,135","3,156","3,082"
+Europe,Northern Europe,Iceland,Adults Male,,108,110,112,106,129,136,159,140,139,141,151,140,116,123
+Europe,Northern Europe,Iceland,Adults Female,5,7,7,6,8,9,7,8,8,13,6,3,6,8,8
+Europe,Northern Europe,Iceland,Total Adults,101,115,117,118,114,138,146,167,148,152,147,154,146,124,131
+Europe,Northern Europe,Iceland,Juveniles Male,,0,2,1,1,1,2,0,2,1,0,0,0,0,0
+Europe,Northern Europe,Iceland,Juveniles Female,,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Europe,Northern Europe,Iceland,Total Juveniles,,0,2,1,1,2,2,0,2,1,0,0,0,0,0
+Europe,Northern Europe,Iceland,Total persons held,109,115,119,119,115,140,148,167,150,153,147,154,146,124,131
+Europe,Northern Europe,Ireland,Adults Male,"2,455","2,533",,,"3,076","3,313","3,690","4,122","4,054","4,118","3,588","3,084","3,035","2,969",
+Europe,Northern Europe,Ireland,Adults Female,71,68,,,98,111,123,147,138,155,122,120,115,94,
+Europe,Northern Europe,Ireland,Total Adults,"2,526","2,601",,,"3,174","3,424","3,813","4,269","4,192","4,273","3,710","3,204","3,150","3,063",
+Europe,Northern Europe,Ireland,Juveniles Male,43,58,,,56,46,55,49,34,23,8,12,59,13,
+Europe,Northern Europe,Ireland,Juveniles Female,0,1,,,0,0,0,0,0,0,0,0,1,1,
+Europe,Northern Europe,Ireland,Total Juveniles,43,59,,,56,46,55,49,34,23,8,12,60,14,
+Europe,Northern Europe,Ireland,Total persons held,"3,234","3,162","3,022","3,080","3,253","3,484","3,868","4,318","4,216","4,287","4,088","3,777","3,755","3,716","3,680"
+Europe,Northern Europe,Latvia,Adults Male,,,"7,045","6,416","6,032","5,969","6,504","6,271","6,077","5,646","4,743","4,364","4,012","3,851","3,434"
+Europe,Northern Europe,Latvia,Adults Female,,,297,326,325,380,402,421,416,416,347,343,355,349,290
+Europe,Northern Europe,Latvia,Total Adults,"7,932","7,911","7,342","6,724","6,357","6,349","6,906","6,692","6,493","6,062","5,090","4,707","4,367","4,200","3,724"
+Europe,Northern Europe,Latvia,Juveniles Male,370,318,296,231,244,240,168,83,65,52,46,36,39,43,40
+Europe,Northern Europe,Latvia,Juveniles Female,3,2,8,10,10,8,21,5,3,3,0,2,3,0,1
+Europe,Northern Europe,Latvia,Total Juveniles,373,320,304,241,254,248,189,88,68,55,46,38,42,43,41
+Europe,Northern Europe,Latvia,Total persons held,"8,305","8,231","7,646","6,965","6,548","6,548","7,055","6,780","6,561","6,117","5,136","4,745","4,409","4,243","3,765"
+Europe,Northern Europe,Lithuania,Adults Male,,"7,679","7,650","7,594","7,337","7,445","8,100","8,567","9,373","9,182","8,744","8,175","6,975","6,436","6,218"
+Europe,Northern Europe,Lithuania,Adults Female,195,262,308,314,337,355,367,414,417,435,428,377,295,321,330
+Europe,Northern Europe,Lithuania,Total Adults,"6,582","7,941","7,958","7,908","7,674","7,800","8,467","8,981","9,790","9,617","9,172","8,552","7,270","6,757","6,548"
+Europe,Northern Europe,Lithuania,Juveniles Male,,184,177,164,186,197,183,151,125,105,87,81,84,57,50
+Europe,Northern Europe,Lithuania,Juveniles Female,2,0,2,7,6,3,5,7,5,7,2,3,1,1,1
+Europe,Northern Europe,Lithuania,Total Juveniles,119,184,179,171,192,200,188,158,130,112,89,84,85,58,51
+Europe,Northern Europe,Lithuania,Total persons held,"8,063","8,125","8,137","8,079","7,866","8,000","8,655","9,139","9,920","9,729","9,261","8,636","7,355","6,815","6,599"
+Europe,Northern Europe,Norway,Adults Male,,"2,689","2,914","3,061","3,212","3,222","3,043","3,270","3,556","3,720","3,628","3,841","3,777","3,873",
+Europe,Northern Europe,Norway,Adults Female,166,175,178,207,183,192,211,221,252,248,200,204,212,243,
+Europe,Northern Europe,Norway,Total Adults,"2,785","2,864","3,092","3,268","3,395","3,414","3,254","3,491","3,808","3,968","3,828","4,045","3,989","4,116",
+Europe,Northern Europe,Norway,Juveniles Male,,9,11,7,7,5,7,8,10,15,8,3,5,2,
+Europe,Northern Europe,Norway,Juveniles Female,1,1,0,0,0,0,1,0,0,1,0,0,0,1,
+Europe,Northern Europe,Norway,Total Juveniles,11,10,11,7,7,5,8,8,10,16,8,3,5,3,
+Europe,Northern Europe,Norway,Total persons held,"2,822","2,899","3,170","3,355","3,446","3,477","3,340","3,564","3,866","4,052","3,869","4,103","4,056","4,192",
+Europe,Northern Europe,Sweden,Adults Male,,,,,,,,"6,437","6,272","5,922","5,383","5,463","5,346","5,299","5,341"
+Europe,Northern Europe,Sweden,Adults Female,272,320,375,399,385,392,374,394,390,362,330,332,327,346,348
+Europe,Northern Europe,Sweden,Total Adults,"5,148","5,490","7,364","7,383","6,966","7,058","7,280","6,831","6,662","6,284","5,713","5,795","5,673","5,645","5,689"
+Europe,Northern Europe,Sweden,Juveniles Male,,,,,,,,15,7,12,10,11,18,13,24
+Europe,Northern Europe,Sweden,Juveniles Female,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+Europe,Northern Europe,Sweden,Total Juveniles,2,1,13,14,11,15,6,15,7,12,10,12,18,13,24
+Europe,Northern Europe,Sweden,Total persons held,"6,755","7,332","7,377","7,397","6,977","7,073","7,286","6,846","6,669","6,296","5,723","5,807","5,691","5,658","5,713"
+Europe,Southern Europe,Albania,Adults Male,,"2,240","2,510","2,750","2,695","2,910","4,466","4,461","4,454","4,439","4,802","5,493","5,771","5,875","5,541"
+Europe,Southern Europe,Albania,Adults Female,80,59,66,79,84,101,113,96,84,82,89,109,121,97,93
+Europe,Southern Europe,Albania,Total Adults,"2,524","2,299","2,576","2,829","2,779","4,832","4,579","4,557","4,538","4,521","4,891","5,602","5,892","5,972","5,634"
+Europe,Southern Europe,Albania,Juveniles Male,,22,16,28,11,55,85,98,121,97,107,87,89,58,40
+Europe,Southern Europe,Albania,Juveniles Female,,0,0,0,0,32,3,2,0,0,0,0,0,1,0
+Europe,Southern Europe,Albania,Total Juveniles,37,22,16,28,11,87,88,100,121,97,107,87,89,59,40
+Europe,Southern Europe,Albania,Total persons held,"2,561","2,321","2,592","2,857","2,790","4,916","4,667","4,657","4,659","4,618","4,998","5,689","5,981","6,031","5,674"
+Europe,Southern Europe,Andorra,Total persons held,,,,,71,73,55,44,49,36,43,53,41,,
+Europe,Southern Europe,Bosnia and Herzegovina,Adults Male,,,,,,,,"2,161","2,193",,"2,465","2,477","2,212","2,166","2,287"
+Europe,Southern Europe,Bosnia and Herzegovina,Adults Female,,,,,,,,60,38,,56,60,86,48,74
+Europe,Southern Europe,Bosnia and Herzegovina,Total Adults,,,,,,,,"2,221","2,231",,"2,521","2,537","2,298","2,214","2,361"
+Europe,Southern Europe,Bosnia and Herzegovina,Juveniles Male,,,,,,,,,,,,,,,23
+Europe,Southern Europe,Bosnia and Herzegovina,Juveniles Female,,,,,,,,,,,,,,,1
+Europe,Southern Europe,Bosnia and Herzegovina,Total Juveniles,,,,,,,,31,30,,39,28,21,11,24
+Europe,Southern Europe,Bosnia and Herzegovina,Total persons held,,,,,,,,"2,743","2,757",,"2,898","2,825","2,730","2,832","2,820"
+Europe,Southern Europe,Croatia,Adults Male,,,,,,,,"4,929","4,814","4,534","4,081","3,511","3,130","2,947","2,947"
+Europe,Southern Europe,Croatia,Adults Female,63,98,133,185,188,209,218,236,250,207,188,182,160,116,116
+Europe,Southern Europe,Croatia,Total Adults,,,"3,242","3,622","4,055","4,484","4,827","5,165","5,064","4,741","4,269","3,693","3,290","3,063","3,063"
+Europe,Southern Europe,Croatia,Juveniles Male,,,,,,,,31,50,63,77,62,47,38,38
+Europe,Southern Europe,Croatia,Juveniles Female,14,12,7,1,2,0,7,8,5,5,6,8,4,7,7
+Europe,Southern Europe,Croatia,Total Juveniles,128,113,110,26,47,41,64,39,55,68,83,70,51,45,45
+Europe,Southern Europe,Croatia,Total persons held,"2,805","3,029","3,485","3,833","4,290","4,734","4,891","5,165","5,084","4,741","4,352","3,763","3,341","3,108","3,108"
+Europe,Southern Europe,Greece,Adults Male,,,"9,186","9,605","10,228","11,040","10,300","11,204","11,330","11,318","11,593","11,206","9,116","9,023","9,455"
+Europe,Southern Europe,Greece,Adults Female,,,604,597,593,744,554,577,562,557,648,561,482,515,543
+Europe,Southern Europe,Greece,Total Adults,,,"9,790","10,202","10,821","11,784","10,854","11,781","11,892","11,875","12,241","11,767","9,598","9,538","9,998"
+Europe,Southern Europe,Greece,Juveniles Male,,,,,406,501,485,541,571,587,440,20,9,12,5
+Europe,Southern Europe,Greece,Juveniles Female,,,,,28,30,25,27,16,13,12,11,4,10,8
+Europe,Southern Europe,Greece,Total Juveniles,,,,,434,531,510,568,587,600,452,31,13,22,13
+Europe,Southern Europe,Greece,Total persons held,,,"9,871","10,280","11,255","12,315","11,364","12,349","12,479","12,475","12,693","11,798","9,611","9,560","10,011"
+Europe,Southern Europe,Italy,Adults Male,,,,"37,335","46,518","55,601","62,040","65,031","64,089","62,897","59,842","51,319","50,057","52,368","55,187"
+Europe,Southern Europe,Italy,Adults Female,"2,493","2,589","2,804","1,670","2,175","2,526","2,751","2,930","2,808","2,804","2,694","2,304","2,107","2,285","2,421"
+Europe,Southern Europe,Italy,Total Adults,"54,237","56,068","59,523","39,005","48,693","58,127","64,791","67,961","66,897","65,701","62,536","53,623","52,164","54,653","57,608"
+Europe,Southern Europe,Italy,Juveniles Male,,,,703,905,"1,082","1,126","1,213","1,325","1,312","1,221","1,052","1,146","1,231","1,335"
+Europe,Southern Europe,Italy,Juveniles Female,79,74,103,86,99,75,81,89,103,89,91,70,100,94,95
+Europe,Southern Europe,Italy,Total Juveniles,756,835,892,789,"1,004","1,157","1,207","1,302","1,428","1,401","1,312","1,122","1,246","1,325","1,430"
+Europe,Southern Europe,Italy,Total persons held,"54,993","56,903","60,415","39,794","49,697","59,284","65,598","69,263","68,325","67,102","63,848","54,745","53,410","55,978","59,038"
+Europe,Southern Europe,Malta,Adults Male,177,192,261,334,477,572,437,516,521,506,558,530,525,,
+Europe,Southern Europe,Malta,Adults Female,11,15,15,18,28,29,28,34,35,47,44,37,39,,
+Europe,Southern Europe,Malta,Total Adults,188,207,276,352,505,601,465,550,556,553,602,567,564,,
+Europe,Southern Europe,Malta,Juveniles Male,1,4,18,23,23,31,29,34,28,32,13,14,15,,
+Europe,Southern Europe,Malta,Juveniles Female,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+Europe,Southern Europe,Malta,Total Juveniles,1,4,18,23,23,31,29,34,28,32,13,14,15,,
+Europe,Southern Europe,Malta,Total persons held,,298,294,375,528,662,494,584,584,585,615,581,565,,
+Europe,Southern Europe,Montenegro,Adults Male,724,789,830,833,938,"1,189","1,451","1,391","1,282","1,269","1,043","1,087","1,091","1,083","1,081"
+Europe,Southern Europe,Montenegro,Adults Female,15,7,15,17,16,18,39,59,37,53,19,31,35,36,26
+Europe,Southern Europe,Montenegro,Total Adults,739,796,845,850,954,"1,207","1,490","1,450","1,319","1,322","1,062","1,118","1,126","1,119","1,107"
+Europe,Southern Europe,Montenegro,Juveniles Male,,2,3,,,7,7,6,8,8,2,5,5,4,12
+Europe,Southern Europe,Montenegro,Juveniles Female,,1,1,,,2,2,1,1,1,0,0,0,0,0
+Europe,Southern Europe,Montenegro,Total Juveniles,2,3,4,1,3,9,9,7,9,9,2,5,5,4,12
+Europe,Southern Europe,Montenegro,Total persons held,741,799,894,851,957,"1,216","1,499","1,457","1,328","1,331","1,064","1,123","1,131","1,123","1,119"
+Europe,Southern Europe,North Macedonia,Adults Male,,,,,,,"2,160","2,160","2,162",,,,,"3,111","2,680"
+Europe,Southern Europe,North Macedonia,Adults Female,30,31,42,39,,,55,55,50,,,,,102,71
+Europe,Southern Europe,North Macedonia,Total Adults,"1,285","1,490","1,978","2,088",,,"2,215","2,157","2,212",,,,,"3,213","2,751"
+Europe,Southern Europe,North Macedonia,Juveniles Male,,,,,,62,70,65,63,,,,,18,30
+Europe,Southern Europe,North Macedonia,Juveniles Female,,,1,0,,,,,,,,,,0,
+Europe,Southern Europe,North Macedonia,Total Juveniles,17,17,55,49,,62,70,65,63,,,,,18,30
+Europe,Southern Europe,North Macedonia,Total persons held,"1,608","1,782","2,132","2,038",,,,,,,,,,"3,231","3,031"
+Europe,Southern Europe,Portugal,Adults Male,,"12,213","12,014","11,751","10,790","10,160","10,486","10,986","11,970","12,856","13,143","12,925","13,152","12,724","12,402"
+Europe,Southern Europe,Portugal,Adults Female,572,939,875,885,797,647,613,627,711,758,839,835,855,864,849
+Europe,Southern Europe,Portugal,Total Adults,"9,664","13,152","12,889","12,636","11,587","10,807","10,766","11,192","12,321","13,262","13,982","13,760","14,007","13,588","13,251"
+Europe,Southern Europe,Portugal,Juveniles Female,13,8,20,26,,,,,,,,,,,
+Europe,Southern Europe,Portugal,Total Juveniles,479,525,529,507,,,521,547,634,613,553,438,366,329,336
+Europe,Southern Europe,Portugal,Total persons held,"13,835","13,152","12,889","12,636","11,587","10,807","11,287","11,839","12,955","13,875","14,535","14,198","14,373","13,917","13,587"
+Europe,Southern Europe,Serbia,Adults Male,,,,,"8,534","9,128","10,297","10,535","10,371","9,754","9,389","9,676","9,479","10,028","10,211"
+Europe,Southern Europe,Serbia,Adults Female,,,,,308,321,402,427,423,240,402,360,357,405,384
+Europe,Southern Europe,Serbia,Total Adults,,,,,"8,842","9,449","10,699","10,962","10,794","9,994","9,791","10,036","9,836","10,433","10,595"
+Europe,Southern Europe,Serbia,Juveniles Male,,,,,184,225,246,238,257,223,228,240,219,227,206
+Europe,Southern Europe,Serbia,Juveniles Female,,,,,17,27,30,11,19,9,12,12,9,12,6
+Europe,Southern Europe,Serbia,Total Juveniles,,,,,201,252,276,249,276,232,240,252,228,239,212
+Europe,Southern Europe,Serbia,Total persons held,,,,,"9,043","9,701","10,975","11,211","11,070","10,226","10,031","10,288","10,064","10,672","10,807"
+Europe,Southern Europe,Slovenia,Adults Male,,,,,,"1,200","1,297","1,291","1,207","1,306","1,285","1,428","1,315","1,196","1,197"
+Europe,Southern Europe,Slovenia,Adults Female,27,34,47,53,60,59,64,53,57,70,64,89,81,103,96
+Europe,Southern Europe,Slovenia,Total Adults,,,"1,125","1,294","1,276","1,259","1,361","1,344","1,264","1,376","1,349","1,517","1,396","1,299","1,293"
+Europe,Southern Europe,Slovenia,Juveniles Male,,,6,7,9,12,4,7,9,1,11,5,3,8,22
+Europe,Southern Europe,Slovenia,Juveniles Female,0,2,1,0,0,0,0,0,0,0,0,0,0,1,1
+Europe,Southern Europe,Slovenia,Total Juveniles,,,7,7,9,12,4,7,9,1,11,5,3,9,23
+Europe,Southern Europe,Slovenia,Total persons held,"1,070","1,085","1,132","1,301","1,336","1,318","1,365","1,351","1,273","1,377","1,360","1,522","1,399","1,308","1,316"
+Europe,Southern Europe,Spain,Adults Male,"48,342","54,805","56,291","58,912","61,508","67,608","70,003","65,951","63,108","60,827","59,513","58,099","55,103","53,362","52,604"
+Europe,Southern Europe,Spain,Adults Female,"4,302","4,570","4,763","5,109","5,592","5,950","6,076","5,652","5,157","5,068","4,925","4,874","4,623","4,349","4,269"
+Europe,Southern Europe,Spain,Total Adults,"52,644","55,701","61,054","64,021","67,100","73,558","76,079","71,603","68,265","65,895","64,438","62,973","59,726","57,711","56,873"
+Europe,Southern Europe,Spain,Juveniles Male,"1,474","1,442",,,,,,"1,402","1,255","1,082",891,699,634,609,580
+Europe,Southern Europe,Spain,Juveniles Female,94,87,,,,,,83,68,70,66,37,35,41,35
+Europe,Southern Europe,Spain,Total Juveniles,"1,568","1,529",,,,,,"1,485","1,323","1,152",957,736,669,650,615
+Europe,Southern Europe,Spain,Total persons held,"56,061","59,375","61,054","64,021","67,100","73,558","76,079","73,929","70,472","68,597","66,765","65,017","61,614","59,589","58,814"
+Europe,Western Europe,Austria,Adults Male,,,"7,605","7,676","7,511","6,853","7,453","7,599","7,734","8,113","8,221","8,111",,"8,022","8,202"
+Europe,Western Europe,Austria,Adults Female,,,424,430,423,396,460,511,538,568,538,501,,481,508
+Europe,Western Europe,Austria,Total Adults,,,"8,029","8,106","7,934","7,249","7,913","8,110","8,272","8,681","8,759","8,612",,"8,503","8,710"
+Europe,Western Europe,Austria,Juveniles Male,,,166,210,137,158,172,153,148,113,97,74,,105,132
+Europe,Western Europe,Austria,Juveniles Female,,,15,11,5,12,14,20,15,11,6,6,,11,10
+Europe,Western Europe,Austria,Total Juveniles,,,181,221,142,170,186,173,163,124,103,80,,116,142
+Europe,Western Europe,Austria,Total persons held,,,"8,956","9,005","9,012","8,248","8,708","8,813","8,954","8,805","8,862","8,692",,"8,619","8,852"
+Europe,Western Europe,Belgium,Adults Male,,,,,,,,,,,,,"10,345",,
+Europe,Western Europe,Belgium,Adults Female,,,,,,,,,,,,,525,,
+Europe,Western Europe,Belgium,Total Adults,,,,,,,,,,,,,"10,870",,
+Europe,Western Europe,Belgium,Juveniles Male,,,,,,,,,,,,,10,,
+Europe,Western Europe,Belgium,Juveniles Female,,,,,,,,,,,,,4,,
+Europe,Western Europe,Belgium,Total Juveniles,,,,,,,,,,,,,14,,
+Europe,Western Europe,Belgium,Total persons held,,,,,,,,,,,,,"10,994",,
+Europe,Western Europe,France,Adults Male,,,,"56,250","58,106","59,484","58,288","57,929","61,908","63,668","64,213","63,493","63,851","65,442","65,839"
+Europe,Western Europe,France,Adults Female,,,,"2,152","2,246","2,093","2,021","1,927","2,167","2,180","2,131","2,073","2,119","2,232","2,363"
+Europe,Western Europe,France,Total Adults,,,,"58,402","60,352","61,577","60,309","59,856","64,075","65,848","66,344","65,566","65,970","67,674","68,202"
+Europe,Western Europe,France,Juveniles Male,,,,,700,651,647,671,679,689,701,669,680,725,742
+Europe,Western Europe,France,Juveniles Female,,,,,24,24,22,17,33,35,30,35,28,33,30
+Europe,Western Europe,France,Total Juveniles,,,,,724,675,669,692,712,724,731,704,708,758,772
+Europe,Western Europe,France,Total persons held,,,,"58,402","61,076","62,252","60,978","60,544","64,787","66,572","67,075","66,270","66,678","68,432","68,974"
+Europe,Western Europe,Germany,Adults Male,,,,,,"69,863","68,438","66,982","65,616","64,590","62,424","59,589","59,411",,
+Europe,Western Europe,Germany,Adults Female,,,,,,"3,930","3,857","3,845","3,927","3,943","3,797","3,639","3,609",,
+Europe,Western Europe,Germany,Total Adults,,,,,,"73,793","72,295","70,827","69,543","68,533","66,221","63,228","63,020",,
+Europe,Western Europe,Germany,Total persons held,"80,829","80,933","80,201","78,063","75,153","73,793","72,295","70,827","69,543","68,533","66,221","63,228","63,020","64,291","65,841"
+Europe,Western Europe,Liechtenstein,Total persons held,,,130,98,26,78,149,76,71,60,68,53,53,72,73
+Europe,Western Europe,Luxembourg,Adults Male,,,,695,701,725,659,651,594,634,621,597,649,681,645
+Europe,Western Europe,Luxembourg,Adults Female,,,,32,34,32,38,23,36,31,31,25,40,36,37
+Europe,Western Europe,Luxembourg,Total Adults,,,,727,735,757,697,674,630,665,652,622,689,717,682
+Europe,Western Europe,Luxembourg,Juveniles Male,,,,8,4,3,4,6,6,1,2,3,2,7,2
+Europe,Western Europe,Luxembourg,Juveniles Female,,,,0,2,2,1,1,1,0,2,1,0,0,0
+Europe,Western Europe,Luxembourg,Total Juveniles,,,,8,6,5,5,7,7,1,4,4,2,7,2
+Europe,Western Europe,Luxembourg,Total persons held,,,,735,741,762,702,681,637,666,656,626,691,724,684
+Europe,Western Europe,Monaco,Total persons held,28,34,31,37,36,34,23,12,32,33,29,,34,31,
+Europe,Western Europe,Netherlands,Adults Male,,,"14,338","12,850","11,956","12,877","12,794","12,841","12,631","12,216","11,575","10,811","9,950","9,614","9,876"
+Europe,Western Europe,Netherlands,Adults Female,,,868,868,813,940,896,872,789,712,673,662,489,566,578
+Europe,Western Europe,Netherlands,Total Adults,,,"15,206","13,718","12,769","13,817","13,690","13,713","13,420","12,928","12,248","11,473","10,439","10,180","10,454"
+Europe,Western Europe,Netherlands,Juveniles Male,,,,,,763,646,631,524,527,456,452,401,407,402
+Europe,Western Europe,Netherlands,Juveniles Female,,,,,,30,28,24,25,18,17,9,10,14,18
+Europe,Western Europe,Netherlands,Total Juveniles,,,,,,793,674,655,549,545,473,461,411,421,420
+Europe,Western Europe,Netherlands,Total persons held,"16,184","18,766","17,560","16,091","15,151","14,610","14,364","14,368","13,969","13,473","12,721","11,934","10,850","10,601","10,874"
+Europe,Western Europe,Switzerland,Adults Male,,,,"5,210","4,941","4,941","5,206","5,405","5,298","5,743","6,275","6,179","6,124","6,151","6,156"
+Europe,Western Europe,Switzerland,Adults Female,289,357,327,305,280,298,345,319,301,306,347,315,355,371,371
+Europe,Western Europe,Switzerland,Total Adults,"5,127","5,893","6,065","5,515","5,224","5,241","5,551","5,724","5,599","6,049","6,622","6,494","6,479","6,523","6,527"
+Europe,Western Europe,Switzerland,Juveniles Male,,,,45,51,66,53,39,26,50,27,23,18,19,37
+Europe,Western Europe,Switzerland,Juveniles Female,,,5,7,3,4,1,6,3,4,3,2,1,0,0
+Europe,Western Europe,Switzerland,Total Juveniles,,,72,52,54,72,54,45,29,54,30,25,19,19,37
+Europe,Western Europe,Switzerland,Total persons held,"5,223","5,983","6,137","5,567","5,278","5,303","5,605","5,765","5,626","6,102","6,652","6,519","6,498","6,541","6,564"
+Oceania,Australia and New Zealand,Australia,Adults Male,,"22,499","23,619","23,963","25,240","25,658","27,192","27,472","27,078","27,182","28,423","31,201","33,256","35,745","37,905"
+Oceania,Australia and New Zealand,Australia,Adults Female,"1,198","1,277",,,"1,984","1,957","2,125","2,228","2,028","2,199","2,346","2,589","2,876","3,094","3,299"
+Oceania,Australia and New Zealand,Australia,Total Adults,"18,738","23,776",,,"27,224","27,615","29,317","29,700","29,106","29,381","30,773","33,789","36,134","38,845","41,202"
+Oceania,Australia and New Zealand,Australia,Juveniles Male,,,,,691,706,751,716,,,906,862,808,840,835
+Oceania,Australia and New Zealand,Australia,Juveniles Female,,,,,69,73,64,74,,,93,93,83,85,79
+Oceania,Australia and New Zealand,Australia,Total Juveniles,,,,,760,779,815,790,,,"1,000",955,890,924,913
+Oceania,Australia and New Zealand,Australia,Total persons held,"23,555","24,171",,,"27,224","27,615","29,317","29,700","29,106","29,381","30,773","33,789","36,134","38,845","41,202"
+Oceania,Australia and New Zealand,New Zealand,Adults Male,,,"6,869","7,033","7,012","7,347","7,679","7,927","7,876","7,918","7,746","8,018","8,476","9,207",
+Oceania,Australia and New Zealand,New Zealand,Adults Female,,,455,441,426,418,484,527,494,491,421,553,599,684,
+Oceania,Australia and New Zealand,New Zealand,Total Adults,,,"7,324","7,474","7,438","7,765","8,163","8,454","8,370","8,409","8,167","8,571","9,075","9,891",
+Oceania,Australia and New Zealand,New Zealand,Juveniles Male,,,105,110,89,88,72,82,58,55,46,67,42,43,
+Oceania,Australia and New Zealand,New Zealand,Juveniles Female,,,1,4,7,6,8,9,5,1,9,3,4,4,
+Oceania,Australia and New Zealand,New Zealand,Total Juveniles,,,106,114,96,94,80,91,63,56,55,70,46,47,
+Oceania,Australia and New Zealand,New Zealand,Total persons held,,,"7,430","7,588","7,534","7,860","8,244","8,546","8,435","8,467","8,223","8,641","9,121","9,938",

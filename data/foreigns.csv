@@ -1,0 +1,356 @@
+Region,Sub-region,country_name,Indicator,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+Africa,Eastern Africa,Burundi,Foreign ,,,,133,121,114,,119,115,,,,,,
+Africa,Eastern Africa,Burundi,Total persons held,,,,"8,277","8,343","9,927","10,816","9,823","10,432","6,369","7,784","7,527",,,
+Africa,Eastern Africa,Djibouti,Foreign ,,,,,,,,,,,,,,83,
+Africa,Eastern Africa,Djibouti,National ,,,,,,,,,,,,,,241,
+Africa,Eastern Africa,Kenya,Foreign ,,,,,,300,312,297,312,270,320,402,380,626,622
+Africa,Eastern Africa,Kenya,National ,,,,,,"48,792","47,810","47,856","50,756","44,252","53,110","53,135","53,845","47,874","50,399"
+Africa,Eastern Africa,Kenya,Total persons held,,,,,,"49,092","48,122","48,153","51,068","44,522","53,430","53,537","54,225","48,500","51,021"
+Africa,Eastern Africa,Madagascar,Foreign ,,,,,,,,17,15,40,35,48,32,,
+Africa,Eastern Africa,Madagascar,National ,,,,,,,,"18,338","18,563","19,110","19,769","20,305","20,563",,
+Africa,Eastern Africa,Madagascar,Total persons held,,,,,,,,"18,355","18,578","19,150","19,804","20,353","20,595",,
+Africa,Eastern Africa,Mauritius,Foreign ,86,92,111,88,96,109,116,129,127,178,,,,,
+Africa,Eastern Africa,Mauritius,National ,"2,519","2,480","2,435","2,150","2,176","2,091","2,268","2,320","2,579","2,642",,,,,
+Africa,Eastern Africa,Mauritius,Total persons held,"2,605","2,572","2,547","2,238","2,272","2,200","2,384","2,449","2,706","2,760",,,,,
+Africa,Eastern Africa,Mozambique,Total persons held,,"15,359","17,769","18,013","17,858","27,889","35,235",,,,,,,,
+Africa,Eastern Africa,Seychelles,Foreign ,,,,,,16,,,,,,,,,
+Africa,Eastern Africa,Seychelles,National ,,,,,,281,,,,,,,,,
+Africa,Eastern Africa,Seychelles,Total persons held,172,147,162,174,172,297,,,,,,,,,
+Africa,Eastern Africa,Uganda,Foreign ,131,69,64,44,219,59,71,125,,201,260,225,794,800,"1,140"
+Africa,Eastern Africa,Uganda,National ,"17,821","18,480","18,984","19,273","19,028","28,775","31,102","31,105",,"35,011","39,308","42,105","44,158","50,447","47,754"
+Africa,Eastern Africa,Uganda,Total persons held,"17,952","18,549","19,048","19,225","19,247","28,775","31,173","31,230","32,021","35,212","39,568","42,330","45,527","51,354","48,894"
+Africa,Eastern Africa,Zimbabwe,Foreign ,150,145,115,113,100,101,,,,,,,,,
+Africa,Eastern Africa,Zimbabwe,Total persons held,"21,125","19,888","17,997","18,081","16,429","14,029",,,,,,,,,
+Africa,Middle Africa,Cameroon,Foreign ,,,,,,,,,,,518,814,"1,511",,"1,588"
+Africa,Middle Africa,Cameroon,National ,,,,,,"17,476",,,,,"24,796","25,095","26,178",,"30,240"
+Africa,Middle Africa,Cameroon,Total persons held,,,,,,,"23,368","23,766","22,812","22,891","25,314","25,908","28,120","29,341","31,836"
+Africa,Northern Africa,Algeria,Foreign ,,,214,537,603,943,,831,820,927,"1,149","1,962","2,355",,
+Africa,Northern Africa,Algeria,National ,,,,,"54,516","54,655",,"48,169","49,180","49,173","59,071","59,038","59,795",,
+Africa,Northern Africa,Algeria,Total persons held,"39,806","44,231","43,797","54,117","55,119","55,598",,"49,000","50,000","50,100","60,220","61,000","62,150",,
+Africa,Northern Africa,Morocco,Foreign ,,,440,613,815,"1,101",837,"1,041","1,099","1,200",912,"1,026",968,939,"1,001"
+Africa,Northern Africa,Morocco,National ,,,"50,493","52,967","53,845","58,111","56,726","63,686","63,734","69,558","71,093","73,915","73,071","77,777","82,101"
+Africa,Northern Africa,Morocco,Total persons held,"54,542","59,069","50,933","53,580","54,660","59,212","57,563","64,877","64,833","70,758","72,005","74,941","74,039","78,716","83,102"
+Africa,Western Africa,Benin,Foreign ,,,,,,,,,,,,,,,683
+Africa,Western Africa,Benin,National ,,,,,,,,,,,,,,,"7,118"
+Africa,Western Africa,Benin,Total persons held,,,,,,,,,,,,,,,"7,801"
+Africa,Western Africa,Burkina Faso,Total persons held,,,,,"4,207",,,,"5,039",,,,,,
+Africa,Western Africa,Guinea,Foreign ,,,,,88,96,,,,,,,,,
+Africa,Western Africa,Guinea,Total persons held,,,,,"2,539","2,780",,,,,,,,,
+Africa,Western Africa,Guinea-Bissau,Foreign ,,,,,,,,,,,,24,,25,
+Africa,Western Africa,Guinea-Bissau,National ,,,,,,,,,,,,502,,840,
+Africa,Western Africa,Guinea-Bissau,Total persons held,,,,,,,,,,,,526,,865,596
+Africa,Western Africa,Nigeria,Foreign ,,,,,,,,207,178,,328,,,,
+Africa,Western Africa,Nigeria,National ,,,,,,"41,143","42,685","46,865","48,480",,"54,845",,,,
+Africa,Western Africa,Nigeria,Total persons held,,,,,,"41,143","42,685","47,072","48,658",,"55,173",,,,
+Africa,Western Africa,Senegal,Foreign ,,,413,459,537,708,854,841,,,,,,955,
+Africa,Western Africa,Senegal,National ,,,"6,004","5,904","5,950","6,497","6,696","6,338",,,,,,"8,355",
+Africa,Western Africa,Senegal,Total persons held,,,"25,372","31,319","30,340","31,904","32,608","29,609",,,,,,"9,310",
+Africa,Western Africa,Sierra Leone,Foreign ,,,31,32,30,28,,,,,,,,,
+Africa,Western Africa,Sierra Leone,National ,,,809,885,"1,948","1,858",,,,,,,,,
+Africa,Western Africa,Sierra Leone,Total persons held,,,,,"1,978","1,886",,,,,,,,,
+Africa,Western Africa,Togo,Foreign ,,,,,,,,,,218,,,,,
+Africa,Western Africa,Togo,National ,,,,,,,,,,"3,996",,,,,
+Africa,Western Africa,Togo,Total persons held,,,,,,,,,,"4,214",,,,,
+Americas,Caribbean,Bahamas,Foreign ,,,,,,,,,,30,,,,,
+Americas,Caribbean,Bahamas,National ,,,,,,,,,,"1,403",,,,,
+Americas,Caribbean,Bahamas,Total persons held,,"2,829","2,897","2,416","1,325","1,321","1,250","1,278","1,360","1,433",,,,,
+Americas,Caribbean,Barbados,Foreign ,,,,,184,169,142,160,177,182,145,133,133,127,86
+Americas,Caribbean,Barbados,National ,,,,,826,877,756,750,883,863,763,731,821,786,831
+Americas,Caribbean,Barbados,Total persons held,,,,,"1,010","1,046",898,910,"1,060","1,045",908,864,954,,
+Americas,Caribbean,Dominica,Foreign ,,,,,,,,,,,,0,0,0,0
+Americas,Caribbean,Dominica,National ,,,,,,,,,,,,0,0,0,0
+Americas,Caribbean,Dominica,Total persons held,,,,,,,,,,,,187,181,203,190
+Americas,Caribbean,Dominican Republic,Foreign ,,,"1,405",835,,,,,"1,451",,,,,950,
+Americas,Caribbean,Dominican Republic,National ,,,,,,,,,"20,424",,,,,"15,800",
+Americas,Caribbean,Dominican Republic,Total persons held,,,"12,657","13,752",,,,,"21,875",,,,,"16,750",
+Americas,Caribbean,Grenada,Foreign ,,,,,,,20,30,15,16,20,16,24,22,18
+Americas,Caribbean,Grenada,National ,,,,,,,389,408,442,473,460,497,478,435,424
+Americas,Caribbean,Grenada,Total persons held,,,,,,,409,438,457,489,480,513,502,457,442
+Americas,Caribbean,Jamaica,Foreign ,,,,,,,110,,74,82,46,48,36,43,31
+Americas,Caribbean,Jamaica,National ,,,,"1,995","1,735","1,752","1,819",,"4,383","4,282","4,066","3,986","3,816","3,756","3,826"
+Americas,Caribbean,Jamaica,Total persons held,,,,,,,"5,163",,"4,457","4,364","4,112","4,034","3,854","3,799","3,857"
+Americas,Caribbean,Puerto Rico,Total persons held,,,,,,"12,130","11,258","10,894","11,470","12,244","12,246","12,246","11,364","10,727","10,039"
+Americas,Caribbean,St. Kitts and Nevis,Foreign ,,,,,,,4,18,15,,,,,,
+Americas,Caribbean,St. Kitts and Nevis,National ,,,,,,,250,264,331,,,,,,
+Americas,Caribbean,St. Kitts and Nevis,Total persons held,,,,,,,254,282,346,,,,,,
+Americas,Caribbean,St. Vincent and the Grenadines,Foreign ,,18,43,51,53,86,49,38,34,,,,,,
+Americas,Caribbean,St. Vincent and the Grenadines,National ,,"1,386","1,196","1,034","1,018","1,090","1,026","1,001","1,234",,,,,,
+Americas,Caribbean,St. Vincent and the Grenadines,Total persons held,,"1,404",,"1,085","1,071","1,176","1,075","1,039","1,268",,,,,,
+Americas,Caribbean,Trinidad and Tobago,Foreign ,,164,198,155,100,238,278,138,,,,,59,,
+Americas,Caribbean,Trinidad and Tobago,National ,,"3,760","3,573","3,545","3,499","3,625","3,441","3,226",,,"3,571",,"7,388",,
+Americas,Caribbean,Trinidad and Tobago,Total persons held,,"3,924","3,771","3,700","3,599","3,863","3,719","3,691","4,287","3,710","3,615","3,379","7,447",,
+Americas,Central America,Belize,Foreign ,,,176,129,,,96,222,256,231,416,435,,422,
+Americas,Central America,Belize,National ,,,,,,,"2,685","2,100","2,032","2,315","2,216","2,171",,"1,476",
+Americas,Central America,Belize,Total persons held,,,"1,380","1,338",,,"2,781","2,322","2,288","2,546","2,632","2,606",,"1,898",
+Americas,Central America,Costa Rica,Foreign ,,"1,070","1,149","1,179","1,009","1,812","1,975","1,622","1,916",,"1,989",,"2,119","1,985","2,074"
+Americas,Central America,Costa Rica,National ,,,,,,,,"8,919","10,238",,"11,750",,"11,280","11,100","12,150"
+Americas,Central America,Costa Rica,Total persons held,,"9,056","8,818","7,712","7,500","8,225","9,431","10,541","12,154","13,407","13,647","13,854","13,999","13,338","14,224"
+Americas,Central America,El Salvador,Foreign ,,,134,155,242,270,307,315,,427,444,435,459,,551
+Americas,Central America,El Salvador,National ,,,,,"17,625","19,544","21,794","24,307",,"27,735","26,404","27,899","32,799",,"39,168"
+Americas,Central America,El Salvador,Total persons held,,,"12,525","14,771","17,867","19,814","22,101","24,662","25,367","28,383","26,848","28,334","32,645",,"39,719"
+Americas,Central America,Guatemala,Foreign ,,,,,,,,,,526,,,,,
+Americas,Central America,Guatemala,National ,,,,,,,,,,"14,487",,,,,
+Americas,Central America,Guatemala,Total persons held,,,,,,,,,,"15,013",,,,,
+Americas,Central America,Honduras,Foreign ,,,,,,,,,156,,,,,195,126
+Americas,Central America,Honduras,National ,,,,,,,,,"12,153",,,,,"17,299","19,209"
+Americas,Central America,Honduras,Total persons held,,,,,,,,"11,770","12,006","12,095","13,184","14,882","16,158","17,494","19,335"
+Americas,Central America,Mexico,Foreign ,,,,,"1,873","1,923","1,987",,,"2,931","2,318","2,271","2,380","1,787","1,866"
+Americas,Central America,Mexico,National ,,,,,,"221,686","222,762","222,794","242,627","222,036","211,348","225,750","219,059","188,388","180,133"
+Americas,Central America,Mexico,Total persons held,"185,606","196,577","208,072","211,308","213,682",,"236,477","230,266","242,627","235,552","218,373","228,021","221,439","190,175","181,999"
+Americas,Central America,Nicaragua,Foreign ,,,126,181,227,234,230,,,,,,,,
+Americas,Central America,Nicaragua,National ,,,"5,410",,,,,,,,,,,,
+Americas,Central America,Nicaragua,Total persons held,,,"5,536","6,029","6,663","5,925","5,807","6,789",,,,,,,
+Americas,Central America,Panama,Foreign ,,,,,,720,860,"1,200","1,288","1,439",,,"2,307","1,658","1,616"
+Americas,Central America,Panama,National ,,,,,,,,,,,,,"15,504","14,925","14,539"
+Americas,Central America,Panama,Total persons held,,"12,015","12,262","12,189","12,065","10,217","10,878","12,542","13,207","14,481","14,467","15,690","16,824","16,583","16,155"
+Americas,Northern America,Bermuda,Foreign ,43,59,,,,,,,,,,,,,15
+Americas,Northern America,Bermuda,National ,,,,,,,,,,,,,,,185
+Americas,Northern America,Bermuda,Total persons held,325,364,,,,,,,,,,,,,200
+Americas,Northern America,Canada,Total persons held,"34,153","33,849","35,032","37,452","38,419","39,050","38,804","39,489","40,229","40,718","37,864","40,663","41,169","40,770",
+Americas,Northern America,United States of America,Foreign ,"123,908","127,773","121,171","124,900","126,100","141,600","139,500","140,000","146,900","137,200","125,700","122,300","119,300","140,100",
+Americas,Northern America,United States of America,National ,,,,"2,133,900","2,171,900","2,166,800","2,152,400","2,139,100","2,105,600","2,094,200","2,098,600","2,106,500","2,057,100","2,025,600",
+Americas,Northern America,United States of America,Total persons held,"2,152,951","2,155,883","2,195,900","2,258,800","2,298,000","2,308,400","2,291,900","2,279,100","2,252,500","2,231,400","2,222,500","2,225,100","2,172,800","2,162,400",
+Americas,South America,Argentina,Foreign ,,,"2,540","2,693","3,051","3,034","3,143","3,247","3,348","3,534","3,436","3,823","4,307","4,246","4,943"
+Americas,South America,Argentina,National ,,,"40,950","47,272","47,166","49,306","51,289","55,483","56,413","57,505","60,571","64,465","67,015","71,960","80,175"
+Americas,South America,Argentina,Total persons held,,,"55,423","54,000","52,457","54,537","57,403","59,227","60,789","62,263","64,288","69,060","72,693","76,261","85,283"
+Americas,South America,Bolivia (Plurinational State of),Foreign ,,,433,479,,,,,,817,,,,,
+Americas,South America,Bolivia (Plurinational State of),National ,,,,,,,,,,"13,455",,,,,
+Americas,South America,Bolivia (Plurinational State of),Total persons held,,,"7,310","7,358","7,588","7,433","8,087","8,930","11,195","14,272","14,004","14,220","13,672","16,038",
+Americas,South America,Brazil,Foreign ,,,,,,"2,704","3,155","3,397","3,362","3,284","3,191","2,778","2,454","2,606",
+Americas,South America,Brazil,National ,,,,,,"383,141","404,146","419,820","452,786","483,790","491,345","505,491","696,164","724,106",
+Americas,South America,Brazil,Total persons held,,,,"401,236","422,590","451,219","491,482","513,954","534,605","570,318","606,208","607,731","698,618","726,712",
+Americas,South America,Chile,Foreign ,998,"1,260","1,169","1,311","1,585","1,949","2,391","2,517","2,403","1,453","1,661","1,884","2,035","2,683","2,948"
+Americas,South America,Chile,National ,"37,086","36,804","37,680","41,221","46,505","51,592","55,653","57,631","56,858","56,801","51,389","47,374","45,756","43,005","42,962"
+Americas,South America,Chile,Total persons held,"38,086","38,064","38,849","42,532","48,090","53,541","58,044","60,148","59,261","56,372","53,050","47,683","46,235","47,305","45,910"
+Americas,South America,Colombia,Foreign ,341,381,303,272,325,386,512,593,798,880,831,703,744,826,923
+Americas,South America,Colombia,National ,,,"66,526","59,749","63,278","69,593","75,479","83,851","99,653","113,004","119,201","112,920","119,700","117,706","113,827"
+Americas,South America,Colombia,Total persons held,"62,277","68,020","66,829","60,021","63,603","69,979","75,992","84,444","100,451","113,884","120,032","113,623","120,444","118,532","114,750"
+Americas,South America,Ecuador,Foreign ,"1,135","1,434",,,,,,,,"2,083","2,786","1,809","1,897","2,381","2,727"
+Americas,South America,Ecuador,National ,,,,,,,,,,"19,222","22,708","22,227","26,482","32,284","34,589"
+Americas,South America,Ecuador,Total persons held,"9,866","11,358",,,,,,,,"21,305","25,494","24,036","28,379","34,665","37,316"
+Americas,South America,Guyana,Foreign ,,37,48,20,17,41,51,53,53,2,29,,34,38,37
+Americas,South America,Guyana,National ,,"1,243","1,413","1,841","2,154","2,076","2,128","2,107","1,982","2,030","1,998",,"1,964","2,154","2,189"
+Americas,South America,Guyana,Total persons held,,"1,280","1,461","1,861","2,171","2,117","2,179","2,160","2,035","2,032","1,998",,"1,998","2,192","2,226"
+Americas,South America,Paraguay,Foreign ,,,365,390,424,310,283,286,344,403,407,457,528,553,594
+Americas,South America,Paraguay,National ,,,,"5,616","5,403","5,514","6,348","5,911","6,817","7,513","9,526","10,390","12,369","12,792","13,467"
+Americas,South America,Paraguay,Total persons held,,,"6,281","6,006","5,827","5,824","6,631","6,197","7,161","8,194","9,233","10,847","12,896","13,345","14,061"
+Americas,South America,Peru,Foreign ,111,168,723,837,949,"1,088",,,,"1,605","1,715","1,832","1,827","1,814","1,624"
+Americas,South America,Peru,National ,,,"33,010","35,835","39,684","43,286",,,,"59,785","65,882","70,129","75,415","80,209","84,187"
+Americas,South America,Peru,Total persons held,"28,836","31,311","33,010","35,835","39,684","43,286","44,406","45,464","49,206","61,390","69,353","73,846","79,185","84,191",
+Americas,South America,Suriname,Foreign ,,,,,,,,,,,"2,552","1,534","1,344","1,202",
+Americas,South America,Suriname,National ,,,,,,,,,,,"8,652","8,439","8,330","8,775",
+Americas,South America,Uruguay,Foreign ,7,9,,,,,,,,,,,,,
+Americas,South America,Uruguay,Total persons held,"6,523","6,396",,,,,,"8,700","9,070","9,418","9,448","9,542",,,
+Asia,Central Asia,Kazakhstan,Foreign ,,,"1,537","1,609",,,,"2,415","2,132","2,099","1,976","2,003","1,901",,"1,349"
+Asia,Central Asia,Kazakhstan,National ,,,,,,,,"52,725","47,266","43,236","40,076","41,217","40,213",,"34,994"
+Asia,Central Asia,Kazakhstan,Total persons held,,,"52,203","51,544",,"48,270","50,495","55,140","49,401","45,335","42,052","43,220","42,114",,"36,343"
+Asia,Central Asia,Kyrgyzstan,Foreign ,244,269,282,370,270,307,,,,,462,485,495,508,
+Asia,Central Asia,Kyrgyzstan,National ,"16,690","16,393","15,476","14,757","11,138","9,300",,,,,"9,535","9,096","7,504","7,872",
+Asia,Central Asia,Kyrgyzstan,Total persons held,"16,934","16,620","15,758","15,127","14,408","9,607",,,,,"9,997","9,581","10,147","10,328",
+Asia,Central Asia,Turkmenistan,Foreign ,243,190,124,78,,,,,,,,,,,
+Asia,Central Asia,Turkmenistan,Total persons held,"15,460","14,015","13,462","10,953",,,,,,,,,,,
+Asia,Eastern Asia,China,Foreign ,,,,,,,,"5,356","5,811","6,350","6,680","6,737",,,
+Asia,Eastern Asia,China,National ,,,,,,,,"1,643,000","1,634,000","1,640,000","1,670,000","1,643,067",,,
+Asia,Eastern Asia,China,Total persons held,,,,,,,,"1,650,000","1,640,000","1,650,000","1,680,000","1,649,804","1,604,394","1,561,086",
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Foreign ,"4,371","4,661","3,881","4,108","3,753","3,704","2,935","2,887","2,358","2,583","2,386",,,,
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,National ,,"7,897","7,429","7,254","7,192","6,781","6,945","7,100","6,709","6,714","6,653",,,,
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,Total persons held,"13,012","12,558","11,530","11,640","11,220","10,738","10,118","10,159","9,294","9,468","9,192",,,,
+Asia,Eastern Asia,Japan,Foreign ,"5,668","6,020","6,183","6,179","5,919","5,353","5,027","4,803","4,433","4,012","3,657","3,445","3,226","3,041",
+Asia,Eastern Asia,Japan,National ,"68,066","70,393","72,872","75,076","73,890","71,528","70,223","68,172","65,443","62,996","59,314","57,041","55,271","52,926",
+Asia,Eastern Asia,Japan,Total persons held,"73,734","76,413","79,055","81,255","79,809","76,881","75,250","72,975","69,876","67,008","62,971","60,486","58,497","55,967",
+Asia,Eastern Asia,Macao Special Administrative Region of China,Foreign ,,,,,,482,510,553,638,711,744,783,868,883,911
+Asia,Eastern Asia,Macao Special Administrative Region of China,National ,,,,,,430,420,396,392,401,410,422,412,388,373
+Asia,Eastern Asia,Macao Special Administrative Region of China,Total persons held,,,,,,912,930,929,"1,030","1,112","1,154","1,205","1,280","1,271","1,284"
+Asia,Eastern Asia,Mongolia,Foreign ,0,2,0,53,87,48,42,32,28,20,34,31,30,32,9
+Asia,Eastern Asia,Mongolia,National ,,"6,286","7,058","6,687","7,836","8,050","6,490","7,389","7,983","8,125","8,034","7,659","5,441","5,660","3,860"
+Asia,Eastern Asia,Mongolia,Total persons held,,"8,124","8,906","6,740","7,923","8,098","6,532","7,421","8,011","8,145","8,068","7,690","5,471","5,692","3,869"
+Asia,Eastern Asia,Republic of Korea,Foreign ,657,621,698,621,977,"1,407","1,611","1,250","1,198","1,132","1,222","1,271","1,884","2,001","2,096"
+Asia,Eastern Asia,Republic of Korea,National ,"56,679","54,175","46,613","45,030","44,670","46,559","46,617","44,431","43,840","45,576","47,602","50,490","52,783","55,674","53,112"
+Asia,Eastern Asia,Republic of Korea,Total persons held,"57,336","54,796","47,311","45,651","45,647","47,966","48,228","45,681","45,038","46,708","48,824","51,761","54,667","57,675","55,198"
+Asia,South-Eastern Asia,Brunei Darussalam,Foreign ,137,109,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Brunei Darussalam,Total persons held,457,443,,,,,,,,,,,,,
+Asia,South-Eastern Asia,Indonesia,Foreign ,,,,,,,,,,,,,,640,839
+Asia,South-Eastern Asia,Indonesia,National ,,,,,,,,,,,,,,"202,621","232,081"
+Asia,South-Eastern Asia,Indonesia,Total persons held,,,,,,,,,,"156,446","160,061","159,964","173,572","202,621","232,081"
+Asia,South-Eastern Asia,Philippines,Foreign ,,160,146,130,127,125,153,234,247,310,341,325,302,,
+Asia,South-Eastern Asia,Philippines,National ,,"55,759","61,183","60,602","56,802","57,258","58,558","60,202","65,076","69,998","72,694","78,530","94,694",,
+Asia,South-Eastern Asia,Philippines,Total persons held,,"55,919","61,331","60,732","60,205","61,370","58,711","95,390","100,590","106,623","111,411","124,550","139,469","170,543",
+Asia,South-Eastern Asia,Singapore,Foreign ,"2,313","2,519","3,340","3,275","2,310","2,180","1,956","1,957","1,429","1,349","1,360","1,344","1,253","1,225","1,166"
+Asia,South-Eastern Asia,Singapore,National ,"15,062","13,104","11,113","9,486","9,830","10,320","11,472","11,647","11,735","11,626","11,974","11,450","11,387","11,229","10,765"
+Asia,South-Eastern Asia,Singapore,Total persons held,"17,375","15,623","14,453","12,761","12,410","12,500","13,428","13,604","13,164","12,975","13,334","12,794","12,640","12,454","11,931"
+Asia,South-Eastern Asia,Thailand,Foreign ,,,"10,408","12,528",,,"10,225",,,,,,"10,027",0,
+Asia,South-Eastern Asia,Thailand,National ,,,,,,,"202,874",,,,,,"22,800","316,983",
+Asia,South-Eastern Asia,Thailand,Total persons held,,,"162,293","151,586",,,"213,094",,,,,"317,980","323,473","325,298",
+Asia,South-Eastern Asia,Timor-Leste,Total persons held,,,,,,,,,,,,,184,235,
+Asia,Western Asia,Armenia,Foreign ,,,,,,,,115,194,124,126,133,141,146,145
+Asia,Western Asia,Armenia,National ,,,,,,,,"4,193","4,948","4,632","3,797","3,747","3,732","3,687","3,391"
+Asia,Western Asia,Armenia,Total persons held,,"2,856","2,710","2,873","3,083","3,539","3,965","4,313","5,142","4,756","3,923","3,880","3,873","3,833","3,536"
+Asia,Western Asia,Azerbaijan,Foreign ,,376,364,422,533,500,492,525,493,474,518,576,,548,443
+Asia,Western Asia,Azerbaijan,National ,,"18,126","17,461","18,234","19,026","18,232","17,494","18,666","17,123","17,374","20,151","21,950",,"22,763","22,876"
+Asia,Western Asia,Azerbaijan,Total persons held,,"18,504","17,845","18,656","19,559","20,986","20,651","21,971","20,546","20,782","20,669","22,526",,"23,311","23,319"
+Asia,Western Asia,Bahrain,Foreign ,,,,,"2,598","2,043",,,,,,,,,
+Asia,Western Asia,Bahrain,National ,,,,,969,"1,060",,,,,,,,,
+Asia,Western Asia,Bahrain,Total persons held,437,701,513,522,"3,567","3,103",,,,,,,,,
+Asia,Western Asia,Cyprus,Foreign ,118,158,242,277,261,377,321,374,356,404,306,239,214,237,151
+Asia,Western Asia,Cyprus,National ,,,260,301,286,275,257,262,266,274,247,293,333,349,441
+Asia,Western Asia,Cyprus,Total persons held,359,454,502,578,547,652,578,636,622,678,553,532,547,586,592
+Asia,Western Asia,Georgia,Foreign ,74,57,103,160,,186,285,395,362,307,179,258,,334,
+Asia,Western Asia,Georgia,National ,,,,,,"18,473","20,954","23,289","23,752","19,042","8,914","10,114",,"8,996",
+Asia,Western Asia,Georgia,Total persons held,"6,119","7,867","9,144","15,464",,"18,659","21,239","23,684","24,114","19,349","9,093","10,372",,"9,334",
+Asia,Western Asia,Israel,Foreign ,,,,,"11,671","11,396",,"7,585","6,308","6,918","7,139","8,079",,,
+Asia,Western Asia,Israel,National ,,,,,"10,278","10,536",,"10,527","10,660","10,487","10,286","10,007",,,
+Asia,Western Asia,Israel,Total persons held,"12,228","13,909","16,055","20,617","21,949","21,905",,"20,191","18,967","20,291","18,610","20,781",,,
+Asia,Western Asia,Jordan,Foreign ,,,594,654,,,,,,,,,,,
+Asia,Western Asia,Jordan,Total persons held,,,"6,378","6,166","6,633","7,077","7,206","8,434",,"7,714",,,,,
+Asia,Western Asia,Lebanon,Foreign ,,,"3,087","2,321",,,"1,751","1,702","1,725","1,666","1,942","2,385","2,423","2,404","2,560"
+Asia,Western Asia,Lebanon,National ,,,,,,,"3,150","3,358","3,444","3,394","3,451","3,980","4,029","3,813","2,892"
+Asia,Western Asia,Lebanon,Total persons held,,,"6,921","6,101",,,"4,901","5,060","5,169","5,060","5,393","6,365","6,325","6,217","6,458"
+Asia,Western Asia,Qatar,Foreign ,321,275,348,490,,404,,,,,,,,,
+Asia,Western Asia,Qatar,Total persons held,569,564,522,805,449,551,,,,,,,,,
+Asia,Western Asia,Saudi Arabia,Foreign ,,,,,,,,,,,,,,,"33,879"
+Asia,Western Asia,Saudi Arabia,National ,,,,,,,,,,,,,,,"34,177"
+Asia,Western Asia,Saudi Arabia,Total persons held,,,,,,,,,,,,,,,"68,056"
+Asia,Western Asia,State of Palestine,Foreign ,,,,,,,,,17,12,,,,,
+Asia,Western Asia,State of Palestine,National ,,,,,,,,,"12,643","12,957",,,,,
+Asia,Western Asia,State of Palestine,Total persons held,,,,,"4,259","9,151","10,649","12,518","12,660","12,969",,,,,
+Asia,Western Asia,Syrian Arab Republic,Foreign ,547,503,,,,,,,,,,,,,
+Asia,Western Asia,Syrian Arab Republic,Total persons held,"11,829","10,599",,,,,,,,,,,,,
+Asia,Western Asia,Turkey,Foreign ,812,676,601,"1,050","1,092","1,395","1,861","2,116","2,245","2,193","2,465","2,943","3,807","4,441",
+Asia,Western Asia,Turkey,National ,"62,984","57,340","55,365","69,474","89,640","102,040","114,062","118,086","126,008","132,437","145,003","156,454","174,450","196,286",
+Asia,Western Asia,Turkey,Total persons held,"63,796","58,016","55,966","70,524","90,732","103,235","116,340","120,814","128,604","136,020","145,468","159,397","178,257","200,727",
+Asia,Western Asia,United Arab Emirates,Foreign ,"4,155","4,285","8,953","10,322",,,,,,"8,692","8,619","8,631",,,
+Asia,Western Asia,United Arab Emirates,National ,,,,,,,,,,"1,132","1,340","1,465",,,
+Asia,Western Asia,United Arab Emirates,Total persons held,,,"9,936","11,193",,,,,,"9,824","9,959","9,826",,,
+Asia,Western Asia,Yemen,Foreign ,,375,210,179,236,231,406,,,,,,,,
+Asia,Western Asia,Yemen,National ,,"6,944","5,784","5,010","5,711","6,346","6,488",,,,,,,,
+Asia,Western Asia,Yemen,Total persons held,,"7,319","5,994","5,189","5,947","6,574","6,894",,,,,,,,
+Europe,Eastern Europe,Belarus,Foreign ,"1,523","1,243","1,693","1,301","1,570","1,371",972,"1,011",945,773,906,927,,,
+Europe,Eastern Europe,Belarus,National ,,,,,,,"38,891","38,616","35,707","28,068","27,565","28,849",,,
+Europe,Eastern Europe,Belarus,Total persons held,"48,593","42,806","41,538","45,416","46,787","44,399","40,186","39,627","36,652","28,841","28,471","29,776",,,
+Europe,Eastern Europe,Bulgaria,Foreign ,207,219,247,222,202,187,165,146,175,180,253,232,242,215,186
+Europe,Eastern Europe,Bulgaria,National ,"9,859","10,652","11,189","10,836","10,069","9,221","8,841","9,233","9,710","9,313","8,581","7,638","7,166","7,130","6,802"
+Europe,Eastern Europe,Bulgaria,Total persons held,"10,066","10,871","11,436","11,058","10,271","9,408","9,006","9,379","9,885","9,493","8,834","7,870","7,408","7,345","6,988"
+Europe,Eastern Europe,Czech Republic,Foreign ,,"1,712","1,578","1,378","1,392","1,449",579,"1,600","1,730","1,715","1,523","1,549","1,670","1,807","1,814"
+Europe,Eastern Europe,Czech Republic,National ,,"16,631","17,359","17,200","17,509","19,053","21,274","20,300","21,440","20,929","15,122","17,109","19,196","20,674","20,345"
+Europe,Eastern Europe,Czech Republic,Total persons held,,"18,343","18,937","18,578","18,901","20,502","21,853","21,900","23,170","22,644","16,645","18,658","20,866","22,481","22,159"
+Europe,Eastern Europe,Hungary,Foreign ,749,692,595,545,545,538,577,604,585,621,653,700,906,878,861
+Europe,Eastern Europe,Hungary,National ,"16,116","15,854","15,160","14,277","13,808","14,205","14,855","15,724","16,625","16,558","17,188","17,190","16,543","16,780","16,482"
+Europe,Eastern Europe,Hungary,Total persons held,"16,860","16,546","15,755","14,822","14,353","14,743","15,432","16,328","17,210","17,179","17,841","17,890","17,449","17,658","17,343"
+Europe,Eastern Europe,Poland,Foreign ,,"1,041",656,663,648,545,595,572,556,567,521,543,521,665,844
+Europe,Eastern Europe,Poland,National ,"78,845","79,327","84,219","89,866","89,000","84,433","85,154","81,800","82,276","84,892","79,644","78,802","72,174","71,544","73,636"
+Europe,Eastern Europe,Poland,Total persons held,"79,281","80,368","84,875","90,529","89,648","84,978","85,749","82,372","82,832","85,459","80,165","79,345","72,695","72,209","74,480"
+Europe,Eastern Europe,Republic of Moldova,Foreign ,121,111,111,160,102,95,98,101,106,137,111,123,,,
+Europe,Eastern Europe,Republic of Moldova,National ,"10,470","9,266","8,765","8,383","7,793","6,735","6,437","6,223","6,374","6,446","6,742","7,194",,,
+Europe,Eastern Europe,Republic of Moldova,Total persons held,,"9,377","8,876","9,042","7,895","6,830","6,535","6,324","6,480","6,583","6,853","7,317",,,
+Europe,Eastern Europe,Romania,Foreign ,331,308,270,252,217,191,202,207,208,174,195,253,269,302,286
+Europe,Eastern Europe,Romania,National ,,"38,723","36,430","33,786","29,173","26,021","26,514","28,037","30,486","31,643","33,239","29,903","28,065","27,153","23,164"
+Europe,Eastern Europe,Romania,Total persons held,"42,815","39,031","36,700","34,038","29,390","26,212","26,716","28,244","30,694","31,817","33,434","30,156","28,334","27,455","23,450"
+Europe,Eastern Europe,Russian Federation,Foreign ,,"19,982","21,967","24,564","26,249","28,261","30,483","31,248","31,222","30,748","31,297","32,588","31,588","33,117","39,200"
+Europe,Eastern Europe,Russian Federation,National ,,"580,377","622,762","672,298","690,178","706,031","693,602","663,238","608,404","554,340","528,641","518,264","493,150","490,422","562,976"
+Europe,Eastern Europe,Russian Federation,Total persons held,,"762,762","823,396","871,360","883,168","887,501","863,899","818,037","755,648","701,909","677,287","671,649","646,085","630,155","602,176"
+Europe,Eastern Europe,Slovakia,Foreign ,209,225,237,189,176,146,168,197,194,206,188,177,181,211,219
+Europe,Eastern Europe,Slovakia,National ,,,,,,,"9,148","9,834","10,331","10,644","9,565","9,843","9,732","9,784","9,809"
+Europe,Eastern Europe,Slovakia,Total persons held,"8,873","9,422","8,897","8,249","7,986","8,166","9,316","10,031","10,525","10,850","9,753","10,020","9,913","9,995","10,028"
+Europe,Eastern Europe,Ukraine,Foreign ,"2,908","2,677","2,675","2,637","2,454","2,322","2,316","2,342","2,331",,,,,,"1,214"
+Europe,Eastern Europe,Ukraine,National ,"185,261","189,941","166,236","156,650","138,092","135,998",,"151,685","151,698",,,,,,"55,886"
+Europe,Eastern Europe,Ukraine,Total persons held,"191,241","192,047","170,923","160,725","149,690","145,946","147,716","154,027","154,029",,,,,,"57,100"
+Europe,Northern Europe,Denmark,Foreign ,,362,762,751,654,792,811,853,838,979,"1,098","1,002",865,954,968
+Europe,Northern Europe,Denmark,National ,,,,,"2,970","2,659","2,910","3,091","3,109","2,850","2,993","2,581","2,338","2,454","2,450"
+Europe,Northern Europe,Denmark,Total persons held,"3,641","3,767","4,041","3,932","3,624","3,451","3,721","3,944","3,947","3,829","4,091","3,583","3,203","3,408","3,418"
+Europe,Northern Europe,Estonia,Foreign ,196,164,202,177,145,165,"1,399","1,349","1,302","1,248","1,192",,,,996
+Europe,Northern Europe,Estonia,National ,,,,,,,"2,156","2,044","2,098","2,038","1,931",,,,"1,727"
+Europe,Northern Europe,Estonia,Total persons held,"4,576","4,565","4,410","4,310","3,456","3,656","3,555","3,393","3,400","3,286","3,112","3,034","2,823",,"2,723"
+Europe,Northern Europe,Faeroe Islands,Total persons held,,,,,,,9,8,8,8,10,,,,
+Europe,Northern Europe,Finland,Foreign ,190,197,268,312,301,333,356,374,436,478,458,483,489,531,555
+Europe,Northern Europe,Finland,National ,"3,451","3,507","3,599","3,539","3,324","3,197","3,233","2,990","2,832","2,828","2,837","2,665","2,646","2,625","2,527"
+Europe,Northern Europe,Finland,Total persons held,"3,641","3,704","3,867","3,851","3,625","3,530","3,589","3,364","3,268","3,306","3,295","3,148","3,135","3,156","3,082"
+Europe,Northern Europe,Iceland,Foreign ,10,8,16,18,16,29,31,27,28,37,25,22,30,21,31
+Europe,Northern Europe,Iceland,National ,,107,103,101,99,111,117,140,122,116,122,132,116,103,100
+Europe,Northern Europe,Iceland,Total persons held,109,115,119,119,115,140,148,167,150,153,147,154,146,124,131
+Europe,Northern Europe,Ireland,Foreign ,171,164,329,395,451,443,500,590,522,557,420,171,342,,
+Europe,Northern Europe,Ireland,National ,,,,,"2,779","3,027","3,368","3,728","3,704","3,739","3,054","2,833",,,
+Europe,Northern Europe,Ireland,Total persons held,"3,234","3,162","3,022","3,080","3,253","3,484","3,868","4,318","4,216","4,287","4,088","3,777","3,755","3,716","3,680"
+Europe,Northern Europe,Latvia,Foreign ,50,41,29,70,71,82,85,93,,76,68,87,106,142,94
+Europe,Northern Europe,Latvia,National ,,,"7,617","6,895","6,477","6,466","6,970",,,,"5,068","4,658","4,303","4,101","3,671"
+Europe,Northern Europe,Latvia,Total persons held,"8,305","8,231","7,646","6,965","6,548","6,548","7,055","6,780","6,561","6,117","5,136","4,745","4,409","4,243","3,765"
+Europe,Northern Europe,Lithuania,Foreign ,131,78,73,76,72,90,118,100,128,113,149,159,128,111,114
+Europe,Northern Europe,Lithuania,National ,"7,932","8,047","8,064","8,003","7,794","7,910","8,537","9,039","9,792","9,616","9,112","8,477","7,227","6,704","6,485"
+Europe,Northern Europe,Lithuania,Total persons held,"8,063","8,125","8,137","8,079","7,866","8,000","8,655","9,139","9,920","9,729","9,261","8,636","7,355","6,815","6,599"
+Europe,Northern Europe,Norway,Foreign ,,,,,,,,,,"1,197","1,212","1,276","1,361","1,327",
+Europe,Northern Europe,Norway,National ,,,,,,,,,,"2,786","2,624","2,772","2,632","2,791",
+Europe,Northern Europe,Norway,Total persons held,"2,822","2,899","3,170","3,355","3,446","3,477","3,340","3,564","3,866","4,052","3,869","4,103","4,056","4,192",
+Europe,Northern Europe,Sweden,Foreign ,"1,458","1,460","1,475","1,533","1,891","1,930","2,032","2,003","1,925","1,984","1,853","1,324","1,325","1,274","1,240"
+Europe,Northern Europe,Sweden,National ,,,,,"4,719","4,735","4,767","4,750","4,669","4,312","3,870","2,995","2,967","2,957","2,908"
+Europe,Northern Europe,Sweden,Total persons held,"6,755","7,332","7,377","7,397","6,977","7,073","7,286","6,846","6,669","6,296","5,723","5,807","5,691","5,658","5,713"
+Europe,Southern Europe,Albania,Foreign ,,,19,19,21,36,38,54,69,68,84,99,89,89,101
+Europe,Southern Europe,Albania,National ,,,"2,573","2,838","2,769","4,880","4,629","4,603","4,590","4,550","4,914","5,590","5,892","5,942","5,573"
+Europe,Southern Europe,Albania,Total persons held,"2,561","2,321","2,592","2,857","2,790","4,916","4,667","4,657","4,659","4,618","4,998","5,689","5,981","6,031","5,674"
+Europe,Southern Europe,Andorra,Foreign ,,,,,56,57,46,35,35,29,34,40,32,,
+Europe,Southern Europe,Andorra,National ,,,,,15,16,9,9,14,7,9,13,9,,
+Europe,Southern Europe,Andorra,Total persons held,,,,,71,73,55,44,49,36,43,53,41,,
+Europe,Southern Europe,Bosnia and Herzegovina,Foreign ,,,,,,,,24,67,,54,46,57,49,32
+Europe,Southern Europe,Bosnia and Herzegovina,National ,,,,,,,,"2,228","2,690",,"2,844","2,779","2,673","2,783","2,788"
+Europe,Southern Europe,Bosnia and Herzegovina,Total persons held,,,,,,,,"2,743","2,757",,"2,898","2,825","2,730","2,832","2,820"
+Europe,Southern Europe,Croatia,Foreign ,,139,237,128,287,293,280,242,289,285,275,231,197,197,228
+Europe,Southern Europe,Croatia,National ,,,,,,,,,,,,"3,532","3,144","2,880","2,880"
+Europe,Southern Europe,Croatia,Total persons held,"2,805","3,029","3,485","3,833","4,290","4,734","4,891","5,165","5,084","4,741","4,352","3,763","3,341","3,108","3,108"
+Europe,Southern Europe,Greece,Foreign ,,,"4,237","4,642","5,372","6,176","6,307","7,210","7,887","7,875","7,623","6,882","5,289","5,195","5,291"
+Europe,Southern Europe,Greece,National ,,,,"5,638","5,883","6,139","5,057","5,139","4,592","4,600","5,070","4,916","4,322","4,365","4,720"
+Europe,Southern Europe,Greece,Total persons held,,,"9,871","10,280","11,255","12,315","11,364","12,349","12,479","12,475","12,693","11,798","9,611","9,560","10,011"
+Europe,Southern Europe,Holy See,Foreign ,,,,,,,0,0,0,0,0,0,0,,
+Europe,Southern Europe,Holy See,National ,,,,,,,0,0,0,1,0,0,1,,
+Europe,Southern Europe,Holy See,Total persons held,,,,,,,0,0,0,1,0,0,1,,
+Europe,Southern Europe,Italy,Foreign ,"17,359","18,239","20,284","13,506","18,679","22,001","24,498","24,985","24,649","23,956","22,344","17,856","17,799","19,149","20,307"
+Europe,Southern Europe,Italy,National ,"37,634","38,664","40,131","26,288","31,018","37,283","41,500","43,918","43,676","43,146","41,504","36,889","35,611","36,829","38,731"
+Europe,Southern Europe,Italy,Total persons held,"54,993","56,903","60,415","39,794","49,697","59,284","65,598","69,263","68,325","67,102","63,848","54,745","53,410","55,978","59,038"
+Europe,Southern Europe,Malta,Foreign ,54,49,116,133,131,154,215,286,,,,,,,
+Europe,Southern Europe,Malta,Total persons held,,298,294,375,528,662,494,584,584,585,615,581,565,,
+Europe,Southern Europe,Montenegro,Foreign ,8,14,11,16,39,48,85,115,82,202,234,374,171,284,187
+Europe,Southern Europe,Montenegro,National ,733,785,801,835,918,"1,168","1,410","1,342","1,246","1,129",830,749,960,839,932
+Europe,Southern Europe,Montenegro,Total persons held,741,799,894,851,957,"1,216","1,499","1,457","1,328","1,331","1,064","1,123","1,131","1,123","1,119"
+Europe,Southern Europe,North Macedonia,Foreign ,59,64,66,78,,,50,,,,,,,303,133
+Europe,Southern Europe,North Macedonia,National ,,,,,,,"2,160",,,,,,,"2,928","2,898"
+Europe,Southern Europe,North Macedonia,Total persons held,"1,608","1,782","2,132","2,038",,,,,,,,,,"3,231","3,031"
+Europe,Southern Europe,Portugal,Foreign ,"2,145","2,275","2,385","2,552","2,371","2,190","2,263","2,390","2,548","2,602","2,647","2,469","2,495","2,295","2,144"
+Europe,Southern Europe,Portugal,National ,,"10,877","10,503","10,084","9,216","8,617","8,836","9,223","10,133","11,012","11,637","11,534","11,727","11,484","11,296"
+Europe,Southern Europe,Portugal,Total persons held,"13,835","13,152","12,889","12,636","11,587","10,807","11,287","11,839","12,955","13,875","14,535","14,198","14,373","13,917","13,587"
+Europe,Southern Europe,Serbia,Foreign ,,,,,148,163,192,317,189,209,352,302,353,358,350
+Europe,Southern Europe,Serbia,National ,,,,,"8,895","9,538","10,783","10,894","10,881","10,017","9,679","9,986","9,711","10,314","10,457"
+Europe,Southern Europe,Serbia,Total persons held,,,,,"9,043","9,701","10,975","11,211","11,070","10,226","10,031","10,288","10,064","10,672","10,807"
+Europe,Southern Europe,Slovenia,Foreign ,82,75,144,151,140,136,137,149,133,162,145,150,131,118,170
+Europe,Southern Europe,Slovenia,National ,,,,,,,,,"1,140","1,215","1,215","1,372","1,268","1,190","1,146"
+Europe,Southern Europe,Slovenia,Total persons held,"1,070","1,085","1,132","1,301","1,336","1,318","1,365","1,351","1,273","1,377","1,360","1,522","1,399","1,308","1,316"
+Europe,Southern Europe,Spain,Foreign ,"15,205","17,302","18,616","20,643","22,977","26,201","27,162","26,315","24,502","22,893","21,116","19,697","17,870","17,130","16,549"
+Europe,Southern Europe,Spain,National ,,"42,073","42,438","43,378","44,123","47,357","48,917","47,614","45,970","45,704","45,649","45,320","43,744","42,459","42,265"
+Europe,Southern Europe,Spain,Total persons held,"56,061","59,375","61,054","64,021","67,100","73,558","76,079","73,929","70,472","68,597","66,765","65,017","61,614","59,589","58,814"
+Europe,Western Europe,Austria,Foreign ,,,"4,006","3,751","3,762","3,349","3,974","4,019","4,103","4,180","4,373","4,449",,"4,686","4,831"
+Europe,Western Europe,Austria,National ,,,,,,,,,"4,851","4,625","4,489","4,243",,"3,933","4,021"
+Europe,Western Europe,Austria,Total persons held,,,"8,956","9,005","9,012","8,248","8,708","8,813","8,954","8,805","8,862","8,692",,"8,619","8,852"
+Europe,Western Europe,Belgium,Foreign ,,,,,,,,,,,,,"4,812",,
+Europe,Western Europe,Belgium,National ,,,,,,,,,,,,,"6,103",,
+Europe,Western Europe,Belgium,Total persons held,,,,,,,,,,,,,"10,994",,
+Europe,Western Europe,France,Foreign ,,,,,"12,237","11,869","11,552","11,597","12,549","13,043","13,843","13,814","14,071","14,964","15,418"
+Europe,Western Europe,France,National ,,,,,"51,766","50,383","49,426","48,947","52,238","53,529","53,232","52,456","52,586","53,468","53,556"
+Europe,Western Europe,France,Total persons held,,,,"58,402","61,076","62,252","60,978","60,544","64,787","66,572","67,075","66,270","66,678","68,432","68,974"
+Europe,Western Europe,Germany,Total persons held,"80,829","80,933","80,201","78,063","75,153","73,793","72,295","70,827","69,543","68,533","66,221","63,228","63,020","64,291","65,841"
+Europe,Western Europe,Liechtenstein,Foreign ,,,116,84,,65,135,61,52,49,51,41,42,62,61
+Europe,Western Europe,Liechtenstein,National ,,,,,,13,14,15,19,11,17,12,11,10,12
+Europe,Western Europe,Liechtenstein,Total persons held,,,130,98,26,78,149,76,71,60,68,53,53,72,73
+Europe,Western Europe,Luxembourg,Foreign ,,,,535,543,556,484,463,448,466,454,465,516,543,493
+Europe,Western Europe,Luxembourg,National ,,,,200,198,206,218,218,189,200,202,161,175,181,191
+Europe,Western Europe,Luxembourg,Total persons held,,,,735,741,762,702,681,637,666,656,626,691,724,684
+Europe,Western Europe,Monaco,Foreign ,15,28,29,34,30,31,21,11,30,31,26,,33,28,
+Europe,Western Europe,Monaco,National ,,5,2,2,6,3,2,1,2,2,3,,1,3,
+Europe,Western Europe,Monaco,Total persons held,28,34,31,37,36,34,23,12,32,33,29,,34,31,
+Europe,Western Europe,Netherlands,Foreign ,,,,,,"2,820","2,854","2,853","2,707","2,539","2,409","2,170","1,893","1,832","2,057"
+Europe,Western Europe,Netherlands,National ,,,,,,"11,790","11,510","11,515","11,262","10,934","10,312","9,764","8,957","8,769","8,817"
+Europe,Western Europe,Netherlands,Total persons held,"16,184","18,766","17,560","16,091","15,151","14,610","14,364","14,368","13,969","13,473","12,721","11,934","10,850","10,601","10,874"
+Europe,Western Europe,Switzerland,Foreign ,,,"4,329","3,751","3,571","3,581","3,831","4,030","3,911","4,390","4,857","4,673","4,514","4,619","4,615"
+Europe,Western Europe,Switzerland,National ,,,,"1,816","1,707","1,722","1,774","1,735","1,715","1,712","1,795","1,846","1,984","1,922","1,949"
+Europe,Western Europe,Switzerland,Total persons held,"5,223","5,983","6,137","5,567","5,278","5,303","5,605","5,765","5,626","6,102","6,652","6,519","6,498","6,541","6,564"
+Oceania,Australia and New Zealand,Australia,Foreign ,,,,,"5,675","5,539","5,658","5,819","6,014","5,702","5,478","6,036","6,415","6,877","7,294"
+Oceania,Australia and New Zealand,Australia,National ,,,,,"21,540","22,076","23,642","23,863","23,082","23,586","24,968","27,400","29,411","31,562","33,573"
+Oceania,Australia and New Zealand,Australia,Total persons held,"23,555","24,171",,,"27,224","27,615","29,317","29,700","29,106","29,381","30,773","33,789","36,134","38,845","41,202"
+Oceania,Australia and New Zealand,New Zealand,Foreign ,,,408,398,376,380,466,610,624,199,171,181,189,167,
+Oceania,Australia and New Zealand,New Zealand,National ,,,"7,022","7,190","7,158","7,480","7,778","7,936","7,809","8,266","8,052","8,460","8,932","9,771",
+Oceania,Australia and New Zealand,New Zealand,Total persons held,,,"7,430","7,588","7,534","7,860","8,244","8,546","8,435","8,467","8,223","8,641","9,121","9,938",

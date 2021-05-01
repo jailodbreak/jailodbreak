@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Leaflet and D3 Map asd</title>
+    <meta charset="utf-8" />
+    <link 
+        rel="stylesheet" 
+        href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"
+    />
+    <script src="lib/leaflet/leaflet.js"></script>
+	<script src="lib/d3/d3.js"></script>
+	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+	<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.1.js"></script>
+	<script src="lib/jquery-ui.min.js"></script>
+	<script src="https://d3js.org/topojson.v1.min.js"></script>
+
+    <style>
+        div.tooltip {
+            color: black;
+            position: absolute;
+            text-align: center;
+            padding: 10px;
+            font: 12px sans-serif;
+            background: whitesmoke;
+            border: 1px solid black;
+            border-radius: 8px;
+            pointer-events: none;
+            z-index: 1000;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div id="labour" class="tabcontent">
+        <!----<h1 class="vizTitle">Female labour force vs. Marital status</h1>
+        <p>This chart shows data from two different organizations: <a href="https://www.ilo.org/shinyapps/bulkexplorer19/?lang=en&segment=indicator&id=EAP_TEAP_SEX_AGE_MTS_NB_A" target="_blank">ILOSTAT</a> and <a href="https://databank.worldbank.org/reports.aspx?source=2&series=SL.TLF.TOTL.FE.ZS&country=#" target="_blank">The World Bank</a>. The dataset focuses on gender equality in the labor market, in particular on female employment, compared with the marital status of employed women in different countries, from 1990 to 2020.</p>--->
+        <div class="vizYear">
+            <h2 class="year"></h2>
+            <div class="slider vizSlider"></div>
+        </div>
+        <div id="selectors" class="vizSelector"></div>
+        <div class="viz" id="labourMap" style="width: 60%; height: 45rem;">
+            <div class="legendContainer">
+                <svg id="labourMapLegend"></svg>
+            </div>
+        </div>
+        <svg id="labour_choropleth" width="0" height="0" style="display: none;"></svg>
+        <!---<div class="btn-group downloadDropdown">
+            <button class="btn btn-default dropdown-toggle" type="button"
+                id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="false">
+                Download options <span class="caret"></span>
+            </button>
+            <ul id="labour-dropdown-menu" class="dropdown-menu"
+                aria-labelledby="dropdownMenuButton"></ul>
+            <form method="get" action="" id="labour-metadata">
+                <button class="btn btn-default dowloadMetadata" type="submit">Download metadata</button>									
+            </form>
+        </div>--->
+    </div>
+
+    <script src="./script.js"></script>
+
+</body>
+</html>

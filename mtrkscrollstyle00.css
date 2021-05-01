@@ -369,9 +369,10 @@
 .circle{
   content: "";
   margin:auto;
+  margin-top: 10px;
   border-radius: 50%;
   left: 0;
-  width: 8px;
+  width: 9px;
   height: 8px;
   background-color: #e25c02;
   top: 10px;
