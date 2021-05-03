@@ -82,6 +82,7 @@ let mouseOver = function(event, d) {
         .transition()
         .duration(200)
         .style("opacity", .3)
+
     d3.select(this)
         .transition()
         .duration(200)
@@ -108,18 +109,18 @@ let mouseOver = function(event, d) {
 }
 
 let mouseLeave = function(d) {
-d3.selectAll(".Country")
-    .transition()
-    .duration(200)
-    .style("opacity", .7)
-d3.select(this)
-    .transition()
-    .duration(200)
-    .style("stroke", "black")
+    d3.selectAll(".Country")
+        .transition()
+        .duration(200)
+        .style("opacity", .7)
+    d3.select(this)
+        .transition()
+        .duration(200)
+        .style("stroke", "black")
 
-tip.transition()
-    .duration(500)
-    .style("opacity", 0);
+    tip.transition()
+        .duration(500)
+        .style("opacity", 0);
 }
 
 // Create selector
@@ -149,7 +150,7 @@ function update(year, map){
 
     colorScale = d3.scaleThreshold()
         .domain([0, d3.max(ranges[selectedTopic])/4, d3.max(ranges[selectedTopic])/2,  d3.max(ranges[selectedTopic])/1.32, d3.max(ranges[selectedTopic])]) 
-        .range(d3.schemeBlues[5]);
+        .range(d3.schemeOranges[5]);
     // Slider
     slider.property("value", year);
     d3.select(".year").text("Year: " + year);
