@@ -233,7 +233,7 @@
 
         .right-bar a {
         font-size: 0.6rem;
-        margin-right: 25px;
+      margin-right: 25px;
         letter-spacing: 0.24rem;
         }
 
@@ -343,7 +343,10 @@
     }
 
     @media screen and (max-width: 600px) {
-      .topnav.responsive {position: relative;}
+      .topnav.responsive {
+        position: relative;
+        display: grid;
+      }
       .topnav a:first-child{position:relative; margin-top:50px;}
       .topnav.responsive .icon {
         color: black;
@@ -357,12 +360,44 @@
         text-align: right;
 
       }
-    }
+
+      .circle{
+        display: none!important;
+      }
+
+      #mtrsk1{
+        margin-top: 20%;
+      }
+
+      #mtrsk2 {
+        height: 80%;
+      }
+
+      #mtrsk3 {
+        height: 80%;
+      }
+
+      #mtrsk4 {
+        height: 80%;
+      }
+
+      #mtrsk5 {
+        height: 80%;
+      }
+
+
+      
+    
+    
+    
+    
 
     /* Change the color of links on hover */
 .topnav a:hover {
   /*transform: scale(1.1);*/
   color: #e25c02;
+
+}
 
 }
 
@@ -379,4 +414,28 @@
   display:block
 }
 
+div.vizYear{
+  font-family:"Aovel";
+  text-align: start;
+  width: 100%;
+}
+
+input.vizSliderInput{
+  width: 100%;
+}
+
+div.vizSelector{
+  text-align: start;
+  font-family:"Aovel";
+  padding-top: 3%;
+  padding-bottom: 3%;
+  
+}
+
+select.form-control{
+  font-family:"Aovel";
+  padding: 1%;
+  font-size: 15px;
+
+}
    

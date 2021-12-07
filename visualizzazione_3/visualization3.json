@@ -1,0 +1,3810 @@
+[
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2008,
+      "actual": 652,
+      "official": 322
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2009,
+      "actual": 578,
+      "official": 360
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2010,
+      "actual": 636,
+      "official": 351
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2011,
+      "actual": 622,
+      "official": 370
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2012,
+      "actual": 678,
+      "official": 370
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2013,
+      "actual": 553,
+      "official": 370
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2014,
+      "actual": 532,
+      "official": ""
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2015,
+      "actual": 547,
+      "official": 480
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2016,
+      "actual": 586,
+      "official": ""
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2017,
+      "actual": 592,
+      "official": 528
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CYP",
+      "year": 2018,
+      "actual": 619,
+      "official": 566
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2008,
+      "actual": 9408,
+      "official": 9408
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2009,
+      "actual": 9006,
+      "official": 9006
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2010,
+      "actual": 9379,
+      "official": 9379
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2011,
+      "actual": 9885,
+      "official": 9885
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2012,
+      "actual": 9493,
+      "official": 9493
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2013,
+      "actual": 8834,
+      "official": 8834
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2014,
+      "actual": 7870,
+      "official": 7870
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2015,
+      "actual": 7408,
+      "official": 7408
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2016,
+      "actual": 7345,
+      "official": 8491
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2017,
+      "actual": 6988,
+      "official": 8491
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BGR",
+      "year": 2018,
+      "actual": 6651,
+      "official": 8241
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2008,
+      "actual": 14743,
+      "official": 12556
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2009,
+      "actual": 15432,
+      "official": 12042
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2010,
+      "actual": 16328,
+      "official": 12335
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2011,
+      "actual": 17210,
+      "official": 12604
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2012,
+      "actual": 17179,
+      "official": 12573
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2013,
+      "actual": 17841,
+      "official": 12584
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2014,
+      "actual": 17890,
+      "official": 12584
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2015,
+      "actual": 17449,
+      "official": 13209
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2016,
+      "actual": 17658,
+      "official": 13774
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2017,
+      "actual": 17343,
+      "official": 14011
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HUN",
+      "year": 2018,
+      "actual": 16303,
+      "official": 14469
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2008,
+      "actual": 84978,
+      "official": 85049
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2009,
+      "actual": 85749,
+      "official": 86019
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2010,
+      "actual": 82372,
+      "official": 86755
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2011,
+      "actual": 82832,
+      "official": 87961
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2012,
+      "actual": 85459,
+      "official": 88498
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2013,
+      "actual": 80165,
+      "official": 88662
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2014,
+      "actual": 79345,
+      "official": 87742
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2015,
+      "actual": 72695,
+      "official": 89164
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2016,
+      "actual": 72209,
+      "official": 89178
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2017,
+      "actual": 74480,
+      "official": 88637
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "POL",
+      "year": 2018,
+      "actual": 72818,
+      "official": 85940
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2008,
+      "actual": 26212,
+      "official": 34299
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2009,
+      "actual": 26716,
+      "official": 33960
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2010,
+      "actual": 28244,
+      "official": 34165
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2011,
+      "actual": 30694,
+      "official": 26618
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2012,
+      "actual": 31817,
+      "official": 27125
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2013,
+      "actual": 33434,
+      "official": 29389
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2014,
+      "actual": 30156,
+      "official": 28901
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2015,
+      "actual": 28334,
+      "official": 27479
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2016,
+      "actual": 27455,
+      "official": 27889
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2017,
+      "actual": 23450,
+      "official": 20408
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "ROU",
+      "year": 2018,
+      "actual": 20792,
+      "official": 19414
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2008,
+      "actual": 8166,
+      "official": 10818
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2009,
+      "actual": 9316,
+      "official": 10876
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2010,
+      "actual": 10031,
+      "official": 11085
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2011,
+      "actual": 10525,
+      "official": 11201
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2012,
+      "actual": 10850,
+      "official": 11304
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2013,
+      "actual": 9753,
+      "official": 11812
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2014,
+      "actual": 10020,
+      "official": 11828
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2015,
+      "actual": 9913,
+      "official": 11184
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2016,
+      "actual": 9995,
+      "official": 11033
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2017,
+      "actual": 10028,
+      "official": 10941
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SVK",
+      "year": 2018,
+      "actual": 10294,
+      "official": 11499
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2008,
+      "actual": 3451,
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2009,
+      "actual": 3721,
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2010,
+      "actual": 3944,
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2011,
+      "actual": 3947,
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2012,
+      "actual": 3829,
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2013,
+      "actual": 4091,
+      "official": ""
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2014,
+      "actual": 3583,
+      "official": 4153
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2015,
+      "actual": 3203,
+      "official": 3761
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2016,
+      "actual": 3408,
+      "official": 3522
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2017,
+      "actual": 3418,
+      "official": 3592
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DNK",
+      "year": 2018,
+      "actual": 3635,
+      "official": 3795
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2008,
+      "actual": 3656,
+      "official": 3880
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2009,
+      "actual": 3555,
+      "official": 3621
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2010,
+      "actual": 3393,
+      "official": 3637
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2011,
+      "actual": 3400,
+      "official": 3662
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2012,
+      "actual": 3286,
+      "official": ""
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2013,
+      "actual": 3023,
+      "official": 3420
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2014,
+      "actual": 3034,
+      "official": 2962
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2015,
+      "actual": 2823,
+      "official": ""
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2016,
+      "actual": 2864,
+      "official": 2915
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2017,
+      "actual": 2723,
+      "official": 2915
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EST",
+      "year": 2018,
+      "actual": 2584,
+      "official": 3334
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2008,
+      "actual": 3530,
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2009,
+      "actual": 3589,
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2010,
+      "actual": 3364,
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2011,
+      "actual": 3268,
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2012,
+      "actual": 3306,
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2013,
+      "actual": 3295,
+      "official": ""
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2014,
+      "actual": 3148,
+      "official": 3083
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2015,
+      "actual": 3135,
+      "official": 3079
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2016,
+      "actual": 3156,
+      "official": 2959
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2017,
+      "actual": 3082,
+      "official": 2922
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FIN",
+      "year": 2018,
+      "actual": 2956,
+      "official": 2975
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2008,
+      "actual": 140,
+      "official": 145
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2009,
+      "actual": 148,
+      "official": 145
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2010,
+      "actual": 167,
+      "official": ""
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2011,
+      "actual": 150,
+      "official": ""
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2012,
+      "actual": 153,
+      "official": 141
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2013,
+      "actual": 147,
+      "official": 164
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2014,
+      "actual": 154,
+      "official": 155
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2015,
+      "actual": 139,
+      "official": 148
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2016,
+      "actual": 116,
+      "official": 140
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2017,
+      "actual": 137,
+      "official": ""
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "ISL",
+      "year": 2018,
+      "actual": 136,
+      "official": ""
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2008,
+      "actual": 3484,
+      "official": 3827
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2009,
+      "actual": 3868,
+      "official": 4323
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2010,
+      "actual": 4318,
+      "official": 4480
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2011,
+      "actual": 4216,
+      "official": 4480
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2012,
+      "actual": 4287,
+      "official": 4622
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2013,
+      "actual": 4088,
+      "official": 4244
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2014,
+      "actual": 3777,
+      "official": 4145
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2015,
+      "actual": 3755,
+      "official": 4695
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2016,
+      "actual": 3718,
+      "official": ""
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2017,
+      "actual": 3680,
+      "official": ""
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IRL",
+      "year": 2018,
+      "actual": 3962,
+      "official": ""
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2008,
+      "actual": 6548,
+      "official": 8042
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2009,
+      "actual": 7055,
+      "official": 8015
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2010,
+      "actual": 6780,
+      "official": 8333
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2011,
+      "actual": 6561,
+      "official": ""
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2012,
+      "actual": 6117,
+      "official": 7970
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2013,
+      "actual": 5136,
+      "official": 8144
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2014,
+      "actual": 4745,
+      "official": 5852
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2015,
+      "actual": 4409,
+      "official": 5871
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2016,
+      "actual": 4243,
+      "official": 4409
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2017,
+      "actual": 3765,
+      "official": 3783
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LVA",
+      "year": 2018,
+      "actual": 3522,
+      "official": 3522
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2008,
+      "actual": 8000,
+      "official": 9062
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2009,
+      "actual": 8655,
+      "official": 9062
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2010,
+      "actual": 9139,
+      "official": 9399
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2011,
+      "actual": 9920,
+      "official": 9399
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2012,
+      "actual": 9729,
+      "official": 9399
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2013,
+      "actual": 9261,
+      "official": 9399
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2014,
+      "actual": 8636,
+      "official": 9399
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2015,
+      "actual": 7355,
+      "official": 9399
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2016,
+      "actual": 6815,
+      "official": 8011
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2017,
+      "actual": 6599,
+      "official": 8011
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LTU",
+      "year": 2018,
+      "actual": 6485,
+      "official": 8011
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2008,
+      "actual": 3477,
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2009,
+      "actual": 3340,
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2010,
+      "actual": 3564,
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2011,
+      "actual": 3866,
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2012,
+      "actual": 4052,
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2013,
+      "actual": 3869,
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2014,
+      "actual": 4103,
+      "official": 3916
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2015,
+      "actual": 4056,
+      "official": 3850
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2016,
+      "actual": 4192,
+      "official": 3880
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2017,
+      "actual": 4164,
+      "official": ""
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NOR",
+      "year": 2018,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2008,
+      "actual": 7073,
+      "official": 7175
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2009,
+      "actual": 7286,
+      "official": 6981
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2010,
+      "actual": 6846,
+      "official": 6805
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2011,
+      "actual": 6669,
+      "official": 7045
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2012,
+      "actual": 6296,
+      "official": 6963
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2013,
+      "actual": 5723,
+      "official": 6675
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2014,
+      "actual": 5807,
+      "official": 6475
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2015,
+      "actual": 5691,
+      "official": 6262
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2016,
+      "actual": 5658,
+      "official": 6252
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2017,
+      "actual": 5713,
+      "official": 6147
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SWE",
+      "year": 2018,
+      "actual": 6114,
+      "official": 6539
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2008,
+      "actual": 91044,
+      "official": 1722
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2009,
+      "actual": 91325,
+      "official": 1842
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2010,
+      "actual": 93322,
+      "official": 92291
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2011,
+      "actual": 94279,
+      "official": 93976
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2012,
+      "actual": 94625,
+      "official": 94698
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2013,
+      "actual": 91574,
+      "official": 90349
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2014,
+      "actual": 93118,
+      "official": 91653
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2015,
+      "actual": 93635,
+      "official": 90909
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2016,
+      "actual": 92590,
+      "official": 89170
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2017,
+      "actual": 93288,
+      "official": 88849
+    },
+    {
+      "country_name": "United Kingdom (England and Wales)",
+      "country_code": "GBR",
+      "year": 2018,
+      "actual": 83311,
+      "official": 90346
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2008,
+      "actual": 4916,
+      "official": 4166
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2009,
+      "actual": 4667,
+      "official": 4425
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2010,
+      "actual": 4657,
+      "official": 4381
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2011,
+      "actual": 4659,
+      "official": 4417
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2012,
+      "actual": 4618,
+      "official": 4577
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2013,
+      "actual": 4998,
+      "official": 4577
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2014,
+      "actual": 5689,
+      "official": 4577
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2015,
+      "actual": 5981,
+      "official": 5484
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2016,
+      "actual": 6031,
+      "official": 5455
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2017,
+      "actual": 5674,
+      "official": 5455
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "ALB",
+      "year": 2018,
+      "actual": 5316,
+      "official": 6236
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2008,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2009,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2010,
+      "actual": 2743,
+      "official": 3080
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2011,
+      "actual": 2757,
+      "official": 3199
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2012,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2013,
+      "actual": 2898,
+      "official": 3297
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2014,
+      "actual": 2825,
+      "official": 3358
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2015,
+      "actual": 2730,
+      "official": 3510
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2016,
+      "actual": 2832,
+      "official": 3407
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2017,
+      "actual": 2820,
+      "official": 3587
+    },
+    {
+      "country_name": "Bosnia and Herzegovina",
+      "country_code": "BIH",
+      "year": 2018,
+      "actual": 4377,
+      "official": 3480
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2008,
+      "actual": 4734,
+      "official": 3501
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2009,
+      "actual": 4891,
+      "official": 3501
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2010,
+      "actual": 5165,
+      "official": 3501
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2011,
+      "actual": 5084,
+      "official": 3921
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2012,
+      "actual": 4741,
+      "official": 3921
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2013,
+      "actual": 4352,
+      "official": 3921
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2014,
+      "actual": 3763,
+      "official": 4022
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2015,
+      "actual": 3341,
+      "official": 4022
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2016,
+      "actual": 3108,
+      "official": ""
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2017,
+      "actual": 3190,
+      "official": ""
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HRV",
+      "year": 2018,
+      "actual": 3217,
+      "official": 3558
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2008,
+      "actual": 11736,
+      "official": 9664
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2009,
+      "actual": 11364,
+      "official": 9723
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2010,
+      "actual": 12349,
+      "official": 10326
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2011,
+      "actual": 12479,
+      "official": 10376
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2012,
+      "actual": 12475,
+      "official": 9886
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2013,
+      "actual": 12693,
+      "official": 9909
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2014,
+      "actual": 11798,
+      "official": 9886
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2015,
+      "actual": 9611,
+      "official": 9886
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2016,
+      "actual": 9560,
+      "official": 9815
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2017,
+      "actual": 10011,
+      "official": 10260
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GRC",
+      "year": 2018,
+      "actual": 10654,
+      "official": ""
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2008,
+      "actual": 59284,
+      "official": 43843
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2009,
+      "actual": 65598,
+      "official": 44838
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2010,
+      "actual": 69263,
+      "official": 45791
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2011,
+      "actual": 68325,
+      "official": 46452
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2012,
+      "actual": 67102,
+      "official": 47864
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2013,
+      "actual": 63848,
+      "official": 48559
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2014,
+      "actual": 54745,
+      "official": 50282
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2015,
+      "actual": 53410,
+      "official": 50239
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2016,
+      "actual": 55978,
+      "official": 50806
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2017,
+      "actual": 59038,
+      "official": 51078
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "ITA",
+      "year": 2018,
+      "actual": 61131,
+      "official": 51141
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2008,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2009,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2010,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2011,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2012,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2013,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2014,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2015,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2016,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2017,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Kosovo under UNSCR 1244",
+      "country_code": "OSA",
+      "year": 2018,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2008,
+      "actual": 1216,
+      "official": 1280
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2009,
+      "actual": 1499,
+      "official": 1022
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2010,
+      "actual": 1457,
+      "official": 1066
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2011,
+      "actual": 1328,
+      "official": 1116
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2012,
+      "actual": 1331,
+      "official": 1116
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2013,
+      "actual": 1064,
+      "official": 1116
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2014,
+      "actual": 1123,
+      "official": ""
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2015,
+      "actual": 1131,
+      "official": ""
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2016,
+      "actual": 1123,
+      "official": 1375
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2017,
+      "actual": 1119,
+      "official": 1345
+    },
+    {
+      "country_name": "Montenegro",
+      "country_code": "MNE",
+      "year": 2018,
+      "actual": 1125,
+      "official": 1345
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2008,
+      "actual": "",
+      "official": 1681
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2009,
+      "actual": "",
+      "official": 1941
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2010,
+      "actual": "",
+      "official": 2041
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2011,
+      "actual": "",
+      "official": 1941
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2012,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2013,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2014,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2015,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2016,
+      "actual": 3231,
+      "official": ""
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2017,
+      "actual": 3031,
+      "official": 2519
+    },
+    {
+      "country_name": "North Macedonia",
+      "country_code": "MKD",
+      "year": 2018,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2008,
+      "actual": 10807,
+      "official": 12464
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2009,
+      "actual": 11287,
+      "official": 12102
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2010,
+      "actual": 11839,
+      "official": 12174
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2011,
+      "actual": 12955,
+      "official": 12330
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2012,
+      "actual": 13875,
+      "official": 12342
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2013,
+      "actual": 14535,
+      "official": 12400
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2014,
+      "actual": 14198,
+      "official": 12591
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2015,
+      "actual": 14373,
+      "official": 12591
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2016,
+      "actual": 13917,
+      "official": 12600
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2017,
+      "actual": 13587,
+      "official": 12694
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PRT",
+      "year": 2018,
+      "actual": 13021,
+      "official": 12934
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2008,
+      "actual": 9701,
+      "official": ""
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2009,
+      "actual": 10975,
+      "official": ""
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2010,
+      "actual": 11211,
+      "official": ""
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2011,
+      "actual": 11070,
+      "official": 6924
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2012,
+      "actual": 10226,
+      "official": 9000
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2013,
+      "actual": 10031,
+      "official": 9200
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2014,
+      "actual": 10288,
+      "official": 9340
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2015,
+      "actual": 10064,
+      "official": 9459
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2016,
+      "actual": 10672,
+      "official": 9802
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2017,
+      "actual": 10807,
+      "official": 9892
+    },
+    {
+      "country_name": "Serbia",
+      "country_code": "SRB",
+      "year": 2018,
+      "actual": 10871,
+      "official": 10307
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2008,
+      "actual": 73558,
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2009,
+      "actual": 76079,
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2010,
+      "actual": 73929,
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2011,
+      "actual": 70472,
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2012,
+      "actual": 68597,
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2013,
+      "actual": 66765,
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2014,
+      "actual": 65017,
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2015,
+      "actual": 61614,
+      "official": ""
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2016,
+      "actual": 59589,
+      "official": 64144
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2017,
+      "actual": 58814,
+      "official": 64109
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ESP",
+      "year": 2018,
+      "actual": 58883,
+      "official": 64323
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2008,
+      "actual": 8248,
+      "official": 8682
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2009,
+      "actual": 8708,
+      "official": 8678
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2010,
+      "actual": 8540,
+      "official": 8565
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2011,
+      "actual": 8770,
+      "official": 8773
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2012,
+      "actual": 8805,
+      "official": 8651
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2013,
+      "actual": 8862,
+      "official": 8636
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2014,
+      "actual": 8692,
+      "official": 8666
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2015,
+      "actual": 8665,
+      "official": 4191
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2016,
+      "actual": 8619,
+      "official": 4182
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2017,
+      "actual": 8852,
+      "official": 8884
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AUT",
+      "year": 2018,
+      "actual": 9163,
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2008,
+      "actual": 9811,
+      "official": 8445
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2009,
+      "actual": 10126,
+      "official": 8546
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2010,
+      "actual": 10526,
+      "official": 9129
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2011,
+      "actual": 11040,
+      "official": 9212
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2012,
+      "actual": 11183,
+      "official": 9401
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2013,
+      "actual": 11818,
+      "official": 9715
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2014,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2015,
+      "actual": 10994,
+      "official": 9952
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2016,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2017,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BEL",
+      "year": 2018,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2008,
+      "actual": 62252,
+      "official": 51997
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2009,
+      "actual": 60978,
+      "official": 54988
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2010,
+      "actual": 60544,
+      "official": 56358
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2011,
+      "actual": 64787,
+      "official": 57236
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2012,
+      "actual": 66572,
+      "official": 56992
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2013,
+      "actual": 67075,
+      "official": 57516
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2014,
+      "actual": 66270,
+      "official": 57841
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2015,
+      "actual": 66678,
+      "official": 58561
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2016,
+      "actual": 68432,
+      "official": 58681
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2017,
+      "actual": 68974,
+      "official": 59765
+    },
+    {
+      "country_name": "France",
+      "country_code": "FRA",
+      "year": 2018,
+      "actual": 70059,
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2008,
+      "actual": 73793,
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2009,
+      "actual": 72295,
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2010,
+      "actual": 70827,
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2011,
+      "actual": 69543,
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2012,
+      "actual": 68533,
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2013,
+      "actual": 66221,
+      "official": ""
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2014,
+      "actual": 63228,
+      "official": 75793
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2015,
+      "actual": 63020,
+      "official": 73916
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2016,
+      "actual": 64291,
+      "official": 73627
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2017,
+      "actual": 65841,
+      "official": 73603
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DEU",
+      "year": 2018,
+      "actual": 65762,
+      "official": 74386
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2008,
+      "actual": 762,
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2009,
+      "actual": 702,
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2010,
+      "actual": 681,
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2011,
+      "actual": 637,
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2012,
+      "actual": 666,
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2013,
+      "actual": 656,
+      "official": ""
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2014,
+      "actual": 626,
+      "official": 711
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2015,
+      "actual": 691,
+      "official": 711
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2016,
+      "actual": 724,
+      "official": 711
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2017,
+      "actual": 684,
+      "official": 711
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LUX",
+      "year": 2018,
+      "actual": 656,
+      "official": 711
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2008,
+      "actual": 14610,
+      "official": ""
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2009,
+      "actual": 14364,
+      "official": 17668
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2010,
+      "actual": 14368,
+      "official": 16033
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2011,
+      "actual": 13969,
+      "official": 15509
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2012,
+      "actual": 13473,
+      "official": 15731
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2013,
+      "actual": 12721,
+      "official": 15283
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2014,
+      "actual": 11934,
+      "official": 14665
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2015,
+      "actual": 10850,
+      "official": 14299
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2016,
+      "actual": 10601,
+      "official": ""
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2017,
+      "actual": 10874,
+      "official": ""
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NLD",
+      "year": 2018,
+      "actual": 11251,
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2003,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2004,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2005,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2006,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2007,
+      "actual": "",
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2008,
+      "actual": 5303,
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2009,
+      "actual": 5605,
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2010,
+      "actual": 5765,
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2011,
+      "actual": 5626,
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2012,
+      "actual": 6102,
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2013,
+      "actual": 6652,
+      "official": ""
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2014,
+      "actual": 6519,
+      "official": 7235
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2015,
+      "actual": 6498,
+      "official": 7324
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2016,
+      "actual": 6507,
+      "official": 7483
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2017,
+      "actual": 6564,
+      "official": 7489
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CHE",
+      "year": 2018,
+      "actual": 6602,
+      "official": 7518
+    }
+  ]

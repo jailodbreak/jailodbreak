@@ -11,8 +11,8 @@ metrics_to_consider_optional.push("foreign");
 metrics_to_consider_optional.push("nationals");
 metrics_to_consider_optional.push("unsentenced");
 metrics_to_consider_optional.push("sentenced");
-metrics_to_consider_optional.push("actual");
-metrics_to_consider_optional.push("official");
+// metrics_to_consider_optional.push("actual");
+// metrics_to_consider_optional.push("official");
 
 
 var labourMap = L.map('labourMap').setView([54.5260, 15.2551], 4);
@@ -68,9 +68,11 @@ var promises = [
             labour_force.set(d.country_code, [temp]); 
         }
         for (value in d) {
-            ranges[value].push(+d[value])
-            if (!(years.includes(+d.year))) {
-                years.push(+d.year)
+            if (ranges[value]){
+                ranges[value].push(+d[value])
+                if (!(years.includes(+d.year))) {
+                    years.push(+d.year)
+                }
             }
         }
         years.sort()

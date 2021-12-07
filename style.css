@@ -215,6 +215,9 @@ color: #e25c02;
 }
 
 @media screen and (max-width: 600px) {
+  .topnav{
+    width: 100%;
+  }
   .topnav a{
   display: none;
   float:right;
@@ -224,6 +227,9 @@ color: #e25c02;
     float: right;
     display: block;
     color:black;
+  }
+  .intro_image{
+    padding-top: 20%;
   }
 }
 

@@ -273,6 +273,10 @@ background-color: #ececec;
 }
 
 @media screen and (max-width: 600px) {
+  .topnav{
+    width: 100%;
+  }
+
   .topnav a{
   display: none;
   float:right;
@@ -282,6 +286,10 @@ background-color: #ececec;
     float: right;
     display: block;
     color:black;
+  }
+
+  object{
+    display: none!important;
   }
 }
 
@@ -299,5 +307,9 @@ background-color: #ececec;
     display: block;
     text-align: right;
 
+  }
+
+  .circle{
+    display: none!important;
   }
 }
