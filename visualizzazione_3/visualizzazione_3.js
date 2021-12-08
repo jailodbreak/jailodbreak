@@ -5,6 +5,7 @@
     const update_data_vis_3 = (d, s, ya) => {
         s.data.setAll(d);
         ya.data.setAll(d);
+        s.appear();
     }
     am5.ready(function() {
 

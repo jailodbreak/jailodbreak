@@ -1,0 +1,545 @@
+"country_name","country_code","year","actual","official"
+"Cyprus","CYP",2003,"",""
+"Cyprus","CYP",2004,"",""
+"Cyprus","CYP",2005,"",""
+"Cyprus","CYP",2006,"",""
+"Cyprus","CYP",2007,"",""
+"Cyprus","CYP",2008,652,322
+"Cyprus","CYP",2009,578,360
+"Cyprus","CYP",2010,636,351
+"Cyprus","CYP",2011,622,370
+"Cyprus","CYP",2012,678,370
+"Cyprus","CYP",2013,553,370
+"Cyprus","CYP",2014,532,""
+"Cyprus","CYP",2015,547,480
+"Cyprus","CYP",2016,586,""
+"Cyprus","CYP",2017,592,528
+"Cyprus","CYP",2018,619,566
+"Bulgaria","BGR",2003,"",""
+"Bulgaria","BGR",2004,"",""
+"Bulgaria","BGR",2005,"",""
+"Bulgaria","BGR",2006,"",""
+"Bulgaria","BGR",2007,"",""
+"Bulgaria","BGR",2008,9408,9408
+"Bulgaria","BGR",2009,9006,9006
+"Bulgaria","BGR",2010,9379,9379
+"Bulgaria","BGR",2011,9885,9885
+"Bulgaria","BGR",2012,9493,9493
+"Bulgaria","BGR",2013,8834,8834
+"Bulgaria","BGR",2014,7870,7870
+"Bulgaria","BGR",2015,7408,7408
+"Bulgaria","BGR",2016,7345,8491
+"Bulgaria","BGR",2017,6988,8491
+"Bulgaria","BGR",2018,6651,8241
+"Hungary","HUN",2003,"",""
+"Hungary","HUN",2004,"",""
+"Hungary","HUN",2005,"",""
+"Hungary","HUN",2006,"",""
+"Hungary","HUN",2007,"",""
+"Hungary","HUN",2008,14743,12556
+"Hungary","HUN",2009,15432,12042
+"Hungary","HUN",2010,16328,12335
+"Hungary","HUN",2011,17210,12604
+"Hungary","HUN",2012,17179,12573
+"Hungary","HUN",2013,17841,12584
+"Hungary","HUN",2014,17890,12584
+"Hungary","HUN",2015,17449,13209
+"Hungary","HUN",2016,17658,13774
+"Hungary","HUN",2017,17343,14011
+"Hungary","HUN",2018,16303,14469
+"Poland","POL",2003,"",""
+"Poland","POL",2004,"",""
+"Poland","POL",2005,"",""
+"Poland","POL",2006,"",""
+"Poland","POL",2007,"",""
+"Poland","POL",2008,84978,85049
+"Poland","POL",2009,85749,86019
+"Poland","POL",2010,82372,86755
+"Poland","POL",2011,82832,87961
+"Poland","POL",2012,85459,88498
+"Poland","POL",2013,80165,88662
+"Poland","POL",2014,79345,87742
+"Poland","POL",2015,72695,89164
+"Poland","POL",2016,72209,89178
+"Poland","POL",2017,74480,88637
+"Poland","POL",2018,72818,85940
+"Romania","ROU",2003,"",""
+"Romania","ROU",2004,"",""
+"Romania","ROU",2005,"",""
+"Romania","ROU",2006,"",""
+"Romania","ROU",2007,"",""
+"Romania","ROU",2008,26212,34299
+"Romania","ROU",2009,26716,33960
+"Romania","ROU",2010,28244,34165
+"Romania","ROU",2011,30694,26618
+"Romania","ROU",2012,31817,27125
+"Romania","ROU",2013,33434,29389
+"Romania","ROU",2014,30156,28901
+"Romania","ROU",2015,28334,27479
+"Romania","ROU",2016,27455,27889
+"Romania","ROU",2017,23450,20408
+"Romania","ROU",2018,20792,19414
+"Slovakia","SVK",2003,"",""
+"Slovakia","SVK",2004,"",""
+"Slovakia","SVK",2005,"",""
+"Slovakia","SVK",2006,"",""
+"Slovakia","SVK",2007,"",""
+"Slovakia","SVK",2008,8166,10818
+"Slovakia","SVK",2009,9316,10876
+"Slovakia","SVK",2010,10031,11085
+"Slovakia","SVK",2011,10525,11201
+"Slovakia","SVK",2012,10850,11304
+"Slovakia","SVK",2013,9753,11812
+"Slovakia","SVK",2014,10020,11828
+"Slovakia","SVK",2015,9913,11184
+"Slovakia","SVK",2016,9995,11033
+"Slovakia","SVK",2017,10028,10941
+"Slovakia","SVK",2018,10294,11499
+"Denmark","DNK",2003,"",""
+"Denmark","DNK",2004,"",""
+"Denmark","DNK",2005,"",""
+"Denmark","DNK",2006,"",""
+"Denmark","DNK",2007,"",""
+"Denmark","DNK",2008,3451,""
+"Denmark","DNK",2009,3721,""
+"Denmark","DNK",2010,3944,""
+"Denmark","DNK",2011,3947,""
+"Denmark","DNK",2012,3829,""
+"Denmark","DNK",2013,4091,""
+"Denmark","DNK",2014,3583,4153
+"Denmark","DNK",2015,3203,3761
+"Denmark","DNK",2016,3408,3522
+"Denmark","DNK",2017,3418,3592
+"Denmark","DNK",2018,3635,3795
+"Estonia","EST",2003,"",""
+"Estonia","EST",2004,"",""
+"Estonia","EST",2005,"",""
+"Estonia","EST",2006,"",""
+"Estonia","EST",2007,"",""
+"Estonia","EST",2008,3656,3880
+"Estonia","EST",2009,3555,3621
+"Estonia","EST",2010,3393,3637
+"Estonia","EST",2011,3400,3662
+"Estonia","EST",2012,3286,""
+"Estonia","EST",2013,3023,3420
+"Estonia","EST",2014,3034,2962
+"Estonia","EST",2015,2823,""
+"Estonia","EST",2016,2864,2915
+"Estonia","EST",2017,2723,2915
+"Estonia","EST",2018,2584,3334
+"Finland","FIN",2003,"",""
+"Finland","FIN",2004,"",""
+"Finland","FIN",2005,"",""
+"Finland","FIN",2006,"",""
+"Finland","FIN",2007,"",""
+"Finland","FIN",2008,3530,""
+"Finland","FIN",2009,3589,""
+"Finland","FIN",2010,3364,""
+"Finland","FIN",2011,3268,""
+"Finland","FIN",2012,3306,""
+"Finland","FIN",2013,3295,""
+"Finland","FIN",2014,3148,3083
+"Finland","FIN",2015,3135,3079
+"Finland","FIN",2016,3156,2959
+"Finland","FIN",2017,3082,2922
+"Finland","FIN",2018,2956,2975
+"Iceland","ISL",2003,"",""
+"Iceland","ISL",2004,"",""
+"Iceland","ISL",2005,"",""
+"Iceland","ISL",2006,"",""
+"Iceland","ISL",2007,"",""
+"Iceland","ISL",2008,140,145
+"Iceland","ISL",2009,148,145
+"Iceland","ISL",2010,167,""
+"Iceland","ISL",2011,150,""
+"Iceland","ISL",2012,153,141
+"Iceland","ISL",2013,147,164
+"Iceland","ISL",2014,154,155
+"Iceland","ISL",2015,139,148
+"Iceland","ISL",2016,116,140
+"Iceland","ISL",2017,137,""
+"Iceland","ISL",2018,136,""
+"Ireland","IRL",2003,"",""
+"Ireland","IRL",2004,"",""
+"Ireland","IRL",2005,"",""
+"Ireland","IRL",2006,"",""
+"Ireland","IRL",2007,"",""
+"Ireland","IRL",2008,3484,3827
+"Ireland","IRL",2009,3868,4323
+"Ireland","IRL",2010,4318,4480
+"Ireland","IRL",2011,4216,4480
+"Ireland","IRL",2012,4287,4622
+"Ireland","IRL",2013,4088,4244
+"Ireland","IRL",2014,3777,4145
+"Ireland","IRL",2015,3755,4695
+"Ireland","IRL",2016,3718,""
+"Ireland","IRL",2017,3680,""
+"Ireland","IRL",2018,3962,""
+"Latvia","LVA",2003,"",""
+"Latvia","LVA",2004,"",""
+"Latvia","LVA",2005,"",""
+"Latvia","LVA",2006,"",""
+"Latvia","LVA",2007,"",""
+"Latvia","LVA",2008,6548,8042
+"Latvia","LVA",2009,7055,8015
+"Latvia","LVA",2010,6780,8333
+"Latvia","LVA",2011,6561,""
+"Latvia","LVA",2012,6117,7970
+"Latvia","LVA",2013,5136,8144
+"Latvia","LVA",2014,4745,5852
+"Latvia","LVA",2015,4409,5871
+"Latvia","LVA",2016,4243,4409
+"Latvia","LVA",2017,3765,3783
+"Latvia","LVA",2018,3522,3522
+"Lithuania","LTU",2003,"",""
+"Lithuania","LTU",2004,"",""
+"Lithuania","LTU",2005,"",""
+"Lithuania","LTU",2006,"",""
+"Lithuania","LTU",2007,"",""
+"Lithuania","LTU",2008,8000,9062
+"Lithuania","LTU",2009,8655,9062
+"Lithuania","LTU",2010,9139,9399
+"Lithuania","LTU",2011,9920,9399
+"Lithuania","LTU",2012,9729,9399
+"Lithuania","LTU",2013,9261,9399
+"Lithuania","LTU",2014,8636,9399
+"Lithuania","LTU",2015,7355,9399
+"Lithuania","LTU",2016,6815,8011
+"Lithuania","LTU",2017,6599,8011
+"Lithuania","LTU",2018,6485,8011
+"Norway","NOR",2003,"",""
+"Norway","NOR",2004,"",""
+"Norway","NOR",2005,"",""
+"Norway","NOR",2006,"",""
+"Norway","NOR",2007,"",""
+"Norway","NOR",2008,3477,""
+"Norway","NOR",2009,3340,""
+"Norway","NOR",2010,3564,""
+"Norway","NOR",2011,3866,""
+"Norway","NOR",2012,4052,""
+"Norway","NOR",2013,3869,""
+"Norway","NOR",2014,4103,3916
+"Norway","NOR",2015,4056,3850
+"Norway","NOR",2016,4192,3880
+"Norway","NOR",2017,4164,""
+"Norway","NOR",2018,"",""
+"Sweden","SWE",2003,"",""
+"Sweden","SWE",2004,"",""
+"Sweden","SWE",2005,"",""
+"Sweden","SWE",2006,"",""
+"Sweden","SWE",2007,"",""
+"Sweden","SWE",2008,7073,7175
+"Sweden","SWE",2009,7286,6981
+"Sweden","SWE",2010,6846,6805
+"Sweden","SWE",2011,6669,7045
+"Sweden","SWE",2012,6296,6963
+"Sweden","SWE",2013,5723,6675
+"Sweden","SWE",2014,5807,6475
+"Sweden","SWE",2015,5691,6262
+"Sweden","SWE",2016,5658,6252
+"Sweden","SWE",2017,5713,6147
+"Sweden","SWE",2018,6114,6539
+"United Kingdom (England and Wales)","GBR",2003,"",""
+"United Kingdom (England and Wales)","GBR",2004,"",""
+"United Kingdom (England and Wales)","GBR",2005,"",""
+"United Kingdom (England and Wales)","GBR",2006,"",""
+"United Kingdom (England and Wales)","GBR",2007,"",""
+"United Kingdom (England and Wales)","GBR",2008,91044,1722
+"United Kingdom (England and Wales)","GBR",2009,91325,1842
+"United Kingdom (England and Wales)","GBR",2010,93322,92291
+"United Kingdom (England and Wales)","GBR",2011,94279,93976
+"United Kingdom (England and Wales)","GBR",2012,94625,94698
+"United Kingdom (England and Wales)","GBR",2013,91574,90349
+"United Kingdom (England and Wales)","GBR",2014,93118,91653
+"United Kingdom (England and Wales)","GBR",2015,93635,90909
+"United Kingdom (England and Wales)","GBR",2016,92590,89170
+"United Kingdom (England and Wales)","GBR",2017,93288,88849
+"United Kingdom (England and Wales)","GBR",2018,83311,90346
+"Albania","ALB",2003,"",""
+"Albania","ALB",2004,"",""
+"Albania","ALB",2005,"",""
+"Albania","ALB",2006,"",""
+"Albania","ALB",2007,"",""
+"Albania","ALB",2008,4916,4166
+"Albania","ALB",2009,4667,4425
+"Albania","ALB",2010,4657,4381
+"Albania","ALB",2011,4659,4417
+"Albania","ALB",2012,4618,4577
+"Albania","ALB",2013,4998,4577
+"Albania","ALB",2014,5689,4577
+"Albania","ALB",2015,5981,5484
+"Albania","ALB",2016,6031,5455
+"Albania","ALB",2017,5674,5455
+"Albania","ALB",2018,5316,6236
+"Bosnia and Herzegovina","BIH",2003,"",""
+"Bosnia and Herzegovina","BIH",2004,"",""
+"Bosnia and Herzegovina","BIH",2005,"",""
+"Bosnia and Herzegovina","BIH",2006,"",""
+"Bosnia and Herzegovina","BIH",2007,"",""
+"Bosnia and Herzegovina","BIH",2008,"",""
+"Bosnia and Herzegovina","BIH",2009,"",""
+"Bosnia and Herzegovina","BIH",2010,2743,3080
+"Bosnia and Herzegovina","BIH",2011,2757,3199
+"Bosnia and Herzegovina","BIH",2012,"",""
+"Bosnia and Herzegovina","BIH",2013,2898,3297
+"Bosnia and Herzegovina","BIH",2014,2825,3358
+"Bosnia and Herzegovina","BIH",2015,2730,3510
+"Bosnia and Herzegovina","BIH",2016,2832,3407
+"Bosnia and Herzegovina","BIH",2017,2820,3587
+"Bosnia and Herzegovina","BIH",2018,4377,3480
+"Croatia","HRV",2003,"",""
+"Croatia","HRV",2004,"",""
+"Croatia","HRV",2005,"",""
+"Croatia","HRV",2006,"",""
+"Croatia","HRV",2007,"",""
+"Croatia","HRV",2008,4734,3501
+"Croatia","HRV",2009,4891,3501
+"Croatia","HRV",2010,5165,3501
+"Croatia","HRV",2011,5084,3921
+"Croatia","HRV",2012,4741,3921
+"Croatia","HRV",2013,4352,3921
+"Croatia","HRV",2014,3763,4022
+"Croatia","HRV",2015,3341,4022
+"Croatia","HRV",2016,3108,""
+"Croatia","HRV",2017,3190,""
+"Croatia","HRV",2018,3217,3558
+"Greece","GRC",2003,"",""
+"Greece","GRC",2004,"",""
+"Greece","GRC",2005,"",""
+"Greece","GRC",2006,"",""
+"Greece","GRC",2007,"",""
+"Greece","GRC",2008,11736,9664
+"Greece","GRC",2009,11364,9723
+"Greece","GRC",2010,12349,10326
+"Greece","GRC",2011,12479,10376
+"Greece","GRC",2012,12475,9886
+"Greece","GRC",2013,12693,9909
+"Greece","GRC",2014,11798,9886
+"Greece","GRC",2015,9611,9886
+"Greece","GRC",2016,9560,9815
+"Greece","GRC",2017,10011,10260
+"Greece","GRC",2018,10654,""
+"Italy","ITA",2003,"",""
+"Italy","ITA",2004,"",""
+"Italy","ITA",2005,"",""
+"Italy","ITA",2006,"",""
+"Italy","ITA",2007,"",""
+"Italy","ITA",2008,59284,43843
+"Italy","ITA",2009,65598,44838
+"Italy","ITA",2010,69263,45791
+"Italy","ITA",2011,68325,46452
+"Italy","ITA",2012,67102,47864
+"Italy","ITA",2013,63848,48559
+"Italy","ITA",2014,54745,50282
+"Italy","ITA",2015,53410,50239
+"Italy","ITA",2016,55978,50806
+"Italy","ITA",2017,59038,51078
+"Italy","ITA",2018,61131,51141
+"Kosovo under UNSCR 1244","OSA",2003,"",""
+"Kosovo under UNSCR 1244","OSA",2004,"",""
+"Kosovo under UNSCR 1244","OSA",2005,"",""
+"Kosovo under UNSCR 1244","OSA",2006,"",""
+"Kosovo under UNSCR 1244","OSA",2007,"",""
+"Kosovo under UNSCR 1244","OSA",2008,"",""
+"Kosovo under UNSCR 1244","OSA",2009,"",""
+"Kosovo under UNSCR 1244","OSA",2010,"",""
+"Kosovo under UNSCR 1244","OSA",2011,"",""
+"Kosovo under UNSCR 1244","OSA",2012,"",""
+"Kosovo under UNSCR 1244","OSA",2013,"",""
+"Kosovo under UNSCR 1244","OSA",2014,"",""
+"Kosovo under UNSCR 1244","OSA",2015,"",""
+"Kosovo under UNSCR 1244","OSA",2016,"",""
+"Kosovo under UNSCR 1244","OSA",2017,"",""
+"Kosovo under UNSCR 1244","OSA",2018,"",""
+"Montenegro","MNE",2003,"",""
+"Montenegro","MNE",2004,"",""
+"Montenegro","MNE",2005,"",""
+"Montenegro","MNE",2006,"",""
+"Montenegro","MNE",2007,"",""
+"Montenegro","MNE",2008,1216,1280
+"Montenegro","MNE",2009,1499,1022
+"Montenegro","MNE",2010,1457,1066
+"Montenegro","MNE",2011,1328,1116
+"Montenegro","MNE",2012,1331,1116
+"Montenegro","MNE",2013,1064,1116
+"Montenegro","MNE",2014,1123,""
+"Montenegro","MNE",2015,1131,""
+"Montenegro","MNE",2016,1123,1375
+"Montenegro","MNE",2017,1119,1345
+"Montenegro","MNE",2018,1125,1345
+"North Macedonia","MKD",2003,"",""
+"North Macedonia","MKD",2004,"",""
+"North Macedonia","MKD",2005,"",""
+"North Macedonia","MKD",2006,"",""
+"North Macedonia","MKD",2007,"",""
+"North Macedonia","MKD",2008,"",1681
+"North Macedonia","MKD",2009,"",1941
+"North Macedonia","MKD",2010,"",2041
+"North Macedonia","MKD",2011,"",1941
+"North Macedonia","MKD",2012,"",""
+"North Macedonia","MKD",2013,"",""
+"North Macedonia","MKD",2014,"",""
+"North Macedonia","MKD",2015,"",""
+"North Macedonia","MKD",2016,3231,""
+"North Macedonia","MKD",2017,3031,2519
+"North Macedonia","MKD",2018,"",""
+"Portugal","PRT",2003,"",""
+"Portugal","PRT",2004,"",""
+"Portugal","PRT",2005,"",""
+"Portugal","PRT",2006,"",""
+"Portugal","PRT",2007,"",""
+"Portugal","PRT",2008,10807,12464
+"Portugal","PRT",2009,11287,12102
+"Portugal","PRT",2010,11839,12174
+"Portugal","PRT",2011,12955,12330
+"Portugal","PRT",2012,13875,12342
+"Portugal","PRT",2013,14535,12400
+"Portugal","PRT",2014,14198,12591
+"Portugal","PRT",2015,14373,12591
+"Portugal","PRT",2016,13917,12600
+"Portugal","PRT",2017,13587,12694
+"Portugal","PRT",2018,13021,12934
+"Serbia","SRB",2003,"",""
+"Serbia","SRB",2004,"",""
+"Serbia","SRB",2005,"",""
+"Serbia","SRB",2006,"",""
+"Serbia","SRB",2007,"",""
+"Serbia","SRB",2008,9701,""
+"Serbia","SRB",2009,10975,""
+"Serbia","SRB",2010,11211,""
+"Serbia","SRB",2011,11070,6924
+"Serbia","SRB",2012,10226,9000
+"Serbia","SRB",2013,10031,9200
+"Serbia","SRB",2014,10288,9340
+"Serbia","SRB",2015,10064,9459
+"Serbia","SRB",2016,10672,9802
+"Serbia","SRB",2017,10807,9892
+"Serbia","SRB",2018,10871,10307
+"Spain","ESP",2003,"",""
+"Spain","ESP",2004,"",""
+"Spain","ESP",2005,"",""
+"Spain","ESP",2006,"",""
+"Spain","ESP",2007,"",""
+"Spain","ESP",2008,73558,""
+"Spain","ESP",2009,76079,""
+"Spain","ESP",2010,73929,""
+"Spain","ESP",2011,70472,""
+"Spain","ESP",2012,68597,""
+"Spain","ESP",2013,66765,""
+"Spain","ESP",2014,65017,""
+"Spain","ESP",2015,61614,""
+"Spain","ESP",2016,59589,64144
+"Spain","ESP",2017,58814,64109
+"Spain","ESP",2018,58883,64323
+"Austria","AUT",2003,"",""
+"Austria","AUT",2004,"",""
+"Austria","AUT",2005,"",""
+"Austria","AUT",2006,"",""
+"Austria","AUT",2007,"",""
+"Austria","AUT",2008,8248,8682
+"Austria","AUT",2009,8708,8678
+"Austria","AUT",2010,8540,8565
+"Austria","AUT",2011,8770,8773
+"Austria","AUT",2012,8805,8651
+"Austria","AUT",2013,8862,8636
+"Austria","AUT",2014,8692,8666
+"Austria","AUT",2015,8665,4191
+"Austria","AUT",2016,8619,4182
+"Austria","AUT",2017,8852,8884
+"Austria","AUT",2018,9163,""
+"Belgium","BEL",2003,"",""
+"Belgium","BEL",2004,"",""
+"Belgium","BEL",2005,"",""
+"Belgium","BEL",2006,"",""
+"Belgium","BEL",2007,"",""
+"Belgium","BEL",2008,9811,8445
+"Belgium","BEL",2009,10126,8546
+"Belgium","BEL",2010,10526,9129
+"Belgium","BEL",2011,11040,9212
+"Belgium","BEL",2012,11183,9401
+"Belgium","BEL",2013,11818,9715
+"Belgium","BEL",2014,"",""
+"Belgium","BEL",2015,10994,9952
+"Belgium","BEL",2016,"",""
+"Belgium","BEL",2017,"",""
+"Belgium","BEL",2018,"",""
+"France","FRA",2003,"",""
+"France","FRA",2004,"",""
+"France","FRA",2005,"",""
+"France","FRA",2006,"",""
+"France","FRA",2007,"",""
+"France","FRA",2008,62252,51997
+"France","FRA",2009,60978,54988
+"France","FRA",2010,60544,56358
+"France","FRA",2011,64787,57236
+"France","FRA",2012,66572,56992
+"France","FRA",2013,67075,57516
+"France","FRA",2014,66270,57841
+"France","FRA",2015,66678,58561
+"France","FRA",2016,68432,58681
+"France","FRA",2017,68974,59765
+"France","FRA",2018,70059,""
+"Germany","DEU",2003,"",""
+"Germany","DEU",2004,"",""
+"Germany","DEU",2005,"",""
+"Germany","DEU",2006,"",""
+"Germany","DEU",2007,"",""
+"Germany","DEU",2008,73793,""
+"Germany","DEU",2009,72295,""
+"Germany","DEU",2010,70827,""
+"Germany","DEU",2011,69543,""
+"Germany","DEU",2012,68533,""
+"Germany","DEU",2013,66221,""
+"Germany","DEU",2014,63228,75793
+"Germany","DEU",2015,63020,73916
+"Germany","DEU",2016,64291,73627
+"Germany","DEU",2017,65841,73603
+"Germany","DEU",2018,65762,74386
+"Luxembourg","LUX",2003,"",""
+"Luxembourg","LUX",2004,"",""
+"Luxembourg","LUX",2005,"",""
+"Luxembourg","LUX",2006,"",""
+"Luxembourg","LUX",2007,"",""
+"Luxembourg","LUX",2008,762,""
+"Luxembourg","LUX",2009,702,""
+"Luxembourg","LUX",2010,681,""
+"Luxembourg","LUX",2011,637,""
+"Luxembourg","LUX",2012,666,""
+"Luxembourg","LUX",2013,656,""
+"Luxembourg","LUX",2014,626,711
+"Luxembourg","LUX",2015,691,711
+"Luxembourg","LUX",2016,724,711
+"Luxembourg","LUX",2017,684,711
+"Luxembourg","LUX",2018,656,711
+"Netherlands","NLD",2003,"",""
+"Netherlands","NLD",2004,"",""
+"Netherlands","NLD",2005,"",""
+"Netherlands","NLD",2006,"",""
+"Netherlands","NLD",2007,"",""
+"Netherlands","NLD",2008,14610,""
+"Netherlands","NLD",2009,14364,17668
+"Netherlands","NLD",2010,14368,16033
+"Netherlands","NLD",2011,13969,15509
+"Netherlands","NLD",2012,13473,15731
+"Netherlands","NLD",2013,12721,15283
+"Netherlands","NLD",2014,11934,14665
+"Netherlands","NLD",2015,10850,14299
+"Netherlands","NLD",2016,10601,""
+"Netherlands","NLD",2017,10874,""
+"Netherlands","NLD",2018,11251,""
+"Switzerland","CHE",2003,"",""
+"Switzerland","CHE",2004,"",""
+"Switzerland","CHE",2005,"",""
+"Switzerland","CHE",2006,"",""
+"Switzerland","CHE",2007,"",""
+"Switzerland","CHE",2008,5303,""
+"Switzerland","CHE",2009,5605,""
+"Switzerland","CHE",2010,5765,""
+"Switzerland","CHE",2011,5626,""
+"Switzerland","CHE",2012,6102,""
+"Switzerland","CHE",2013,6652,""
+"Switzerland","CHE",2014,6519,7235
+"Switzerland","CHE",2015,6498,7324
+"Switzerland","CHE",2016,6507,7483
+"Switzerland","CHE",2017,6564,7489
+"Switzerland","CHE",2018,6602,7518

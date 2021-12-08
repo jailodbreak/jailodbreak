@@ -1,3 +1,5 @@
+let lock_vis_4 = false;
+
 am5.ready(function() {
 
 // Create root element
@@ -133,14 +135,15 @@ function createSeries(name, field) {
         strokeWidth: 4
     });
 
-    am5.net.load("./visualizzazione_4/visualization4.json").then(function(result) {
-    const data = am5.JSONParser.parse(result.response);
-    series.data.setAll(data);
-    xAxis.data.setAll(data);
+    !lock_vis_4 && am5.net.load("./visualizzazione_4/visualization4.json").then(function(result) {
+        lock_vis_4 = true;
+        const data = am5.JSONParser.parse(result.response);
+        series.data.setAll(data);
+        xAxis.data.setAll(data);
     }).catch(function(result) {
-    // This gets executed if there was an error loading URL
-    // ... handle error
-    console.log("Error loading " + result);
+        // This gets executed if there was an error loading URL
+        // ... handle error
+        console.log("Error loading " + result);
     });
 
     series.appear(1000);
