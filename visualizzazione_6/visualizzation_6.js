@@ -148,7 +148,7 @@ am5.ready(function() {
                   text: single_country.country_name,
                   dy: 30,
                   fontWeight: "normal",
-                  fontSize: "9px",
+                  fontSize: "10px",
                   tooltipText: single_country.country_name
               });
     

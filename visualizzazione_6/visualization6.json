@@ -48,13 +48,7 @@
     "suicide_mortality": 2,
     "total_staff": 2078
   },
-  {
-    "country_name": "Iceland",
-    "country_code": "ISL",
-    "year": 2016,
-    "suicide_mortality": 0,
-    "total_staff": 109
-  },
+
   {
     "country_name": "Latvia",
     "country_code": "LVA",
@@ -99,13 +93,7 @@
     "suicide_mortality": 39,
     "total_staff": 41115
   },
-  {
-    "country_name": "Montenegro",
-    "country_code": "MNE",
-    "year": 2016,
-    "suicide_mortality": 0,
-    "total_staff": 486
-  },
+  
   {
     "country_name": "Portugal",
     "country_code": "PRT",
@@ -134,13 +122,7 @@
     "suicide_mortality": 76,
     "total_staff": 35968
   },
-  {
-    "country_name": "Luxembourg",
-    "country_code": "LUX",
-    "year": 2016,
-    "suicide_mortality": 0,
-    "total_staff": 440
-  },
+  
   {
     "country_name": "Netherlands",
     "country_code": "NLD",
