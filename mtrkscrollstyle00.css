@@ -52,18 +52,74 @@
     }
 
 		h1 {
-		padding-bottom: 1%;
 		font-family: "Aovel";
 		text-transform: uppercase;
 		letter-spacing: 12px;
-		font-size: 30px;
-		margin-right:20%;
-    margin-left:7%;
-		margin-top: 20%;
-		margin-bottom: 8%;
-
-		text-align: center;
+		font-size: 25px;
+    text-align: center;
 		}
+
+    h2{
+      font-family: "Aovel";
+      text-transform: uppercase;
+      letter-spacing: 10px;
+      font-size: 20px;
+    }
+
+    h2.year{
+    letter-spacing: 8px;
+		font-size: 15px;
+
+    }
+
+    h2.vis_2{
+      letter-spacing: 8px;
+      font-size: 15px;
+      
+    }
+
+    h2.vis_7{
+      letter-spacing: 8px;
+      font-size: 15px;
+      
+    }
+
+    h2.vis_3{
+      letter-spacing: 8px;
+      font-size: 15px;
+      
+    }
+
+
+
+
+    h2#year_vis_2{
+      letter-spacing: 8px;
+      font-size: 15px;
+  
+      }
+
+    h2#year_vis_3{
+      letter-spacing: 8px;
+      font-size: 15px;
+
+    }
+      
+      #year_vis_7{
+      letter-spacing: 8px;
+      font-size: 15px
+
+      }
+
+    .text_vis2{
+      letter-spacing: 8px;
+      font-size: 15px;
+      font-family: "Aovel";
+      text-transform: uppercase;
+
+    }
+
+    
 
     .mtrskimg {
     position: relative;
@@ -114,8 +170,15 @@
     text-justify: inter-word;
     }
 
-    #content01 {
-    /*opacity:0;*/
+ 
+
+    #content01 p, #content02 p, #content03 p, #content04 p {
+      text-align: justify;
+      font-family: 'Maison Neue';
+      font-size: 20px;
+      margin-right: 10%;
+      margin-left: 10%;
+
     }
 
     .content {
@@ -157,6 +220,22 @@
     margin-left:7%;
 
 
+    }
+
+    a:link{
+      text-decoration: none;
+      color: black;
+    }
+
+    a:visited{
+      text-decoration: none;
+      color: black;
+    }
+
+    a:hover {
+      /*transform: scale(1.1);*/
+      color: #e25c02;
+    
     }
 
 
@@ -365,7 +444,7 @@
         display: none!important;
       }
 
-      #mtrsk1{
+     /* #mtrsk1{
         margin-top: 20%;
       }
 
@@ -383,7 +462,7 @@
 
       #mtrsk5 {
         height: 80%;
-      }
+      }*/
 
 
       
@@ -432,10 +511,24 @@ div.vizSelector{
   
 }
 
+#country_select_vis_2{
+  text-align: center;
+  font-family:"Aovel";
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-size: 18px;
+  
+
+}
+
+
+
 select.form-control{
   font-family:"Aovel";
   padding: 1%;
   font-size: 15px;
 
 }
+
+
    

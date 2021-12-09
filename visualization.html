@@ -113,13 +113,16 @@ a<!DOCTYPE html>
 
 
 <div class="content content01" id="content01">
-    <h1 style="margin-left: 30%;">General Overview</h1>
+    <h1>1. General Overview</h1>
 	<p>In this first section, somewhat introductory, it is possible to interface with three different visualizations: a choremap, a pie chart and a bar chart, which aim to offer a general perspective on the prison issue.</p>
 	<br>
 	<br>
-	<h2>European prison population</h2>
+	<h2>a) European prison population</h2>
 	<p>This first interactive map allows the observation on how the prison population in Europe is composed. The data comes from two organizations, <a href="https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en">Eurostat</a> and <a href="https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/table/tableViewLayout1/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec">UNECE</a>. The dataset collects information on gender, age, origin and legal status of European inmates and aims to provide a first overall view of the phenomenon analyzed. Through the selector it is possible to select each of the aforementioned categories.</p>
-    <div id="labour" class="tabcontent"> <!---style="margin-left: 20%;"-->
+    <br>
+	<br>
+	<br>
+	<div id="labour" class="tabcontent"> <!---style="margin-left: 20%;"-->
         <!----<h1 class="vizTitle">Female labour force vs. Marital status</h1>
         <p>This chart shows data from two different organizations: <a href="https://www.ilo.org/shinyapps/bulkexplorer19/?lang=en&segment=indicator&id=EAP_TEAP_SEX_AGE_MTS_NB_A" target="_blank">ILOSTAT</a> and <a href="https://databank.worldbank.org/reports.aspx?source=2&series=SL.TLF.TOTL.FE.ZS&country=#" target="_blank">The World Bank</a>. The dataset focuses on gender equality in the labor market, in particular on female employment, compared with the marital status of employed women in different countries, from 1990 to 2020.</p>--->
         <div class="vizYear">
@@ -127,7 +130,7 @@ a<!DOCTYPE html>
             <div class="slider vizSlider"></div>
         </div>
         <div id="selectors" class="vizSelector"></div>
-        <div class="viz" id="jailodbreakMap" style="width:100%; height: 45rem;">
+        <div class="viz" id="jailodbreakMap" style="width:70%; height: 45rem; margin: auto;">
             <div class="legendContainer">
                 <svg id="labourMapLegend"></svg>
             </div>
@@ -152,44 +155,75 @@ a<!DOCTYPE html>
 	<br>
 	<br>
 	<br>
-	<h2>Percentage of prisoners per country</h2>
+	<h2>b) Percentage of prisoners per country</h2>
 	<p>The guideline followed by this project is to go from a more general perspective to an increasingly specific one. This is why, the following pie chart aspires to provide a more detailed visualization of the issues addressed in the first view. it is in fact possible to select a European country and a specific year, in the time span 2003 - 2017 and observe the composition of the prison population per country as a percentage. Also in this case the data comes from <a href="https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en">Eurostat</a> and <a href="https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/table/tableViewLayout1/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec">UNECE</a>.</p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div style="display: flex;"><h2 class="vis_2">Year:</h2><h2 id="year_vis_2"></h2></div>
 	<input class="vizSliderInput" id="year_select_vis_2" type="range" step="1" oninput="changeByYear_vis_2()">
-	<div id="year_vis_2">2008</div>
-	<label for="country_select_vis_2">Choose a country:</label>
+	<br>
+	<br>
+	<br>
+	<br>
+	<label class="text_vis2" for="country_select_vis_2">Choose a country:</label>
 	<select name="country_select_name" id="country_select_vis_2" onchange="changeByYear_vis_2()">
 	</select>
 	<div id="chartdiv_vis_2"></div>
 	<script src="./visualizzazione_2/visualizzation_2.js"></script>
-	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<h2>c) Evolution of the prison population</h2>
+	<p>The guideline followed by this project is to go from a more general perspective to an increasingly specific one. This is why, the following pie chart aspires to provide a more detailed visualization of the issues addressed in the first view. it is in fact possible to select a European country and a specific year, in the time span 2003 - 2017 and observe the composition of the prison population per country as a percentage. Also in this case the data comes from <a href="https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en">Eurostat</a> and <a href="https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/table/tableViewLayout1/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec">UNECE</a>.</p>
+	<br>
+	<br>
+	<br>
 	<div id="chartdiv_8"></div>
 	<script src="./visualizzazione_8/visualizzazione_8.js"></script>
-
-	<div id="chartdiv_vis_7"></div>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<h2>d) Percentage of sentenced/unsentenced prisoners</h2>
+	<p>The guideline followed by this project is to go from a more general perspective to an increasingly specific one. This is why, the following pie chart aspires to provide a more detailed visualization of the issues addressed in the first view. it is in fact possible to select a European country and a specific year, in the time span 2003 - 2017 and observe the composition of the prison population per country as a percentage. Also in this case the data comes from <a href="https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en">Eurostat</a> and <a href="https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/table/tableViewLayout1/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec">UNECE</a>.</p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div style="display: flex;"><h2 class="vis_7">Year:</h2><h2 id="year_vis_7">2008</h2></div>
 	<input class="vizSliderInput" id="year_select" type="range" step="1" oninput="changeByYear_vis_7(this)">
-	<div id="year_vis_7">2008</div>
+	<div id="chartdiv_vis_7"></div>
 	<script src="./visualizzazione_7/visualizzation_7.js"></script>
-	</div>
+</div>
 	
 
 <div class="content content02" id="content02">
-    <h1>Overcrowding</h1>
+    <h1>2. Overcrowding</h1>
 	<p>Wanting to go even further in the research, the focus moved on a particularly current aspect in Europe, namely overpopulation in prisons. The data in this case comes from <a href="https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en">Eurostat</a>. The following visualization takes into account and compares two variables, the capacity of the prisons and the actual number of prisoners per country from 2008 to 2018.</p>
 
 	<!-- <input class="vizSliderInput" value="2008" type="range" min="2008" max="2018" step="1" oninput="changeByYear(this)">
 	<div id="year">2008</div>
 	<script src="./visualizzazione_3/visualizzazione_3.js"></script>
 	<div id="chartdiv"></div> -->
-
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div style=" display:flex;"><h2 class="vis_3">Year:</h2><h2 id="year_vis_3">2008</h2></div>	
 	<input class="vizSliderInput" value="2008" type="range" min="2008" max="2018" step="1" oninput="changeByYear_vis_3(this)">
-	<div id="year_vis_3">2008</div>
 	<div id="chartdiv_vis_3"></div>
 	<script src="./visualizzazione_3/visualizzazione_3.js"></script>
 	
 	
 </div>
 <div class="content content03" id="content03">
-	<h1>Mortality vs. prison conditions and health service system</h1>
+	<h1>3. Mortality vs. prison conditions and health service system</h1>
 	<p>The following two views represent another key point of the research. The data comes from two organizations, <a href="https://apps.who.int/gho/data/node.prisons.Responsibilities_Health_Authority?lang=en">WHO</a> and <a href="https://dataunodc.un.org/data/Prison/Mortality%20in%20prison">UNODC</a>. As WHO rightly points out, the moment a person crosses the threshold of a prison he is deprived of his freedom, but he should not be deprived of his right to health. The following visualizations show the mortality rate in European countries over the years, crossing this value with the presence or absence of, in the first case, medical document inspections; in the second, an assessment of prison health services.</p>
 	<div id="chartdiv_vis_4"></div>
 	<script src="./visualizzazione_4/visualizzation_4.js"></script>
@@ -199,7 +233,7 @@ a<!DOCTYPE html>
 
 </div>
 <div class="content content04" id="content04">
-	<h1>Case study: Number of suicides vs. Staff Available (2016)</h1>
+	<h1>4. Case study: Number of suicides vs. Staff Available (2016)</h1>
 	<p>This latest analysis was an interesting experiment. Data relating to the number of suicides in European prisons were taken into consideration and compared with the number of staff (mainly in the health, psychological and rehabilitation fields) available. Both datasets are provided by <a href="https://dataunodc.un.org/">UNODC</a>. This is a "case study" because the lack of data did not allow an analysis for all the years but only a focus on the year 2016. However, it seemed interesting to understand how these two variables can be somehow interdependent.</p>
 
 	<div id="chartdiv_vis_6"></div>
