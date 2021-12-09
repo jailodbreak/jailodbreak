@@ -293,4 +293,27 @@ a:active {
 
 a {
 
-text-decoration: none;}
+text-decoration: none;
+}
+
+table {
+  font-family: 'Aovel';
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.table_container{
+  margin-top: 5%; 
+  margin-bottom: 15%;
+}
