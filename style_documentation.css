@@ -217,15 +217,22 @@ font-size: 18px;
 letter-spacing:1.5px;
 }
 
-.li a:hover {
-  color: #e25c02;
-}
 
+a:link{
+      text-decoration: none;
+      color: black;
+    }
 
-.li a:visited {
-  color: black;
-  text-decoration: none;
-}
+    a:visited{
+      text-decoration: none;
+      color: black;
+    }
+
+    a:hover {
+      /*transform: scale(1.1);*/
+      color: #e25c02;
+    
+    }
 
 
 
