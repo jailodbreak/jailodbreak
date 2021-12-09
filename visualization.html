@@ -112,6 +112,7 @@ a<!DOCTYPE html>
 	<p>In this first section, somewhat introductory, it is possible to interface with three different visualizations: a choremap, a pie chart and a bar chart, which aim to offer a general perspective on the prison issue.</p>
 	<br>
 	<br>
+	<h2>European prison population</h2>
 	<p>This first interactive map allows the observation on how the prison population in Europe is composed. The data comes from two organizations, <a href="https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en">Eurostat</a> and <a href="https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/table/tableViewLayout1/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec">UNECE</a>. The dataset collects information on gender, age, origin and legal status of European inmates and aims to provide a first overall view of the phenomenon analyzed. Through the selector it is possible to select each of the aforementioned categories.</p>
     <div id="labour" class="tabcontent"> <!---style="margin-left: 20%;"-->
         <!----<h1 class="vizTitle">Female labour force vs. Marital status</h1>
@@ -146,6 +147,7 @@ a<!DOCTYPE html>
 	<br>
 	<br>
 	<br>
+	<h2>Percentage of prisoners per country</h2>
 	<p>The guideline followed by this project is to go from a more general perspective to an increasingly specific one. This is why, the following pie chart aspires to provide a more detailed visualization of the issues addressed in the first view. it is in fact possible to select a European country and a specific year, in the time span 2003 - 2017 and observe the composition of the prison population per country as a percentage. Also in this case the data comes from <a href="https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en">Eurostat</a> and <a href="https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/table/tableViewLayout1/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec">UNECE</a>.</p>
 	<input class="vizSliderInput" id="year_select_vis_2" type="range" step="1" oninput="changeByYear_vis_2()">
 	<div id="year_vis_2">2008</div>
@@ -157,7 +159,8 @@ a<!DOCTYPE html>
 	
 	<!---<div id="chartdiv_8"></div>
 	<script src="./visualizzazione_8/visualizzation_8.js"></script>--->
-
+	<h2>Percentage of sentenced and non-sentenced prisoners</h2>
+	<p>In analyzing the data, it came out that the number of officially sentenced prisoners was not specified in any dataset, it had to be extrapolated from the total number of prisoners from which the non-sentenced one was subtracted. Instead, it seemed interesting to make this distinction clearer, exploiting the data of the aforementioned organizations and creating this bar chart.</p>
 	<div id="chartdiv_vis_7"></div>
 	<input class="vizSliderInput" id="year_select" type="range" step="1" oninput="changeByYear_vis_7(this)">
 	<div id="year_vis_7">2008</div>
@@ -166,7 +169,7 @@ a<!DOCTYPE html>
 	
 
 <div class="content content02" id="content02">
-    <h1>secondo contenuto</h1>
+    <h1>Overcrowding</h1>
 
 	<!-- <input class="vizSliderInput" value="2008" type="range" min="2008" max="2018" step="1" oninput="changeByYear(this)">
 	<div id="year">2008</div>
