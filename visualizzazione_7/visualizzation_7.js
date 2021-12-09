@@ -81,7 +81,7 @@ am5.ready(function() {
     cellEndLocation: 0.9,
     minGridDistance: 20
   });
-  xRenderer.labels.template.setAll({ fontSize: "8px"});
+  xRenderer.labels.template.setAll({ fontSize: "10px"});
   var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
     categoryField: "country_name",
     renderer: xRenderer,

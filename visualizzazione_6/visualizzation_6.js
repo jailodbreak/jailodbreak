@@ -147,8 +147,8 @@ am5.ready(function() {
               label.setAll({
                   text: single_country.country_name,
                   dy: 30,
-                  fontWeight: "bold",
-                  fontSize: "10px",
+                  fontWeight: "normal",
+                  fontSize: "9px",
                   tooltipText: single_country.country_name
               });
     

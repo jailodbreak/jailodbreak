@@ -53,6 +53,7 @@ am5.ready(function() {
     myTheme.rule("ColorSet").set("colors", [
         am5.color("#e25c02"),
         am5.color("#000000"),
+        am5.color("#ffffff"),
     ]);
 
     root.setThemes([

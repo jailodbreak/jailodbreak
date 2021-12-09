@@ -89,7 +89,8 @@ $(window).scroll(function() {
         img2.src = "./images/jail_black.svg";
         img3.src = "./images/jail_black.svg";
         img4.src = "./images/jail_black.svg";
-        img5.src = "./images/jail_black.svg";}
+        //img5.src = "./images/jail_black.svg";
+    }
     }
     
 });
@@ -112,7 +113,7 @@ $(window).scroll(function() {
         img1.src = "./images/jail_black.svg";
         img3.src = "./images/jail_black.svg";
         img4.src = "./images/jail_black.svg";
-        img5.src = "./images/jail_black.svg";
+        //img5.src = "./images/jail_black.svg";
          }
         
             
@@ -136,7 +137,8 @@ $(window).scroll(function() {
         img2.src = "./images/jail_black.svg";
         img1.src = "./images/jail_black.svg";
         img4.src = "./images/jail_black.svg";
-        img5.src = "./images/jail_black.svg";}
+        //img5.src = "./images/jail_black.svg";
+    }
     }
 });
 
@@ -156,7 +158,8 @@ $(window).scroll(function() {
         img2.src = "./images/jail_black.svg";
         img3.src = "./images/jail_black.svg";
         img1.src = "./images/jail_black.svg";
-        img5.src = "./images/jail_black.svg";}
+        //img5.src = "./images/jail_black.svg";
+    }
     }
 });
 
@@ -198,7 +201,7 @@ function changeImageTwo() {
     var image = document.getElementById('mtrsk2');
     if (image.src.match("./images/jail_black.svg")) {
     $('html,body').animate({
-        scrollTop: $(".content02").offset().top - $('#mtrk-header').outerHeight()},
+        scrollTop: $(".content02").offset().top - $('#mtrk-header').outerHeight()+30},
         'slow');     
     } else {
     image.src = "./images/jail_black.svg";
@@ -209,7 +212,7 @@ function changeImageThree() {
     var image = document.getElementById('mtrsk3');
     if (image.src.match("./images/jail_black.svg")) {
     $('html,body').animate({
-        scrollTop: $(".content03").offset().top - $('#mtrk-header').outerHeight()},
+        scrollTop: $(".content03").offset().top - $('#mtrk-header').outerHeight()+30},
         'slow');     
     } else {
     image.src = "./images/jail_black.svg";
@@ -220,20 +223,21 @@ function changeImageFour() {
     var image = document.getElementById('mtrsk4');
     if (image.src.match("./images/jail_black.svg")) {
     $('html,body').animate({
-        scrollTop: $(".content04").offset().top - $('#mtrk-header').outerHeight()},
+        scrollTop: $(".content04").offset().top - $('#mtrk-header').outerHeight()+30},
         'slow');     
     } else {
     image.src = "./images/jail_black.svg";
     }
 }
 
-function changeImageFive() {
-    var image = document.getElementById('mtrsk5');
-    if (image.src.match("./images/jail_black.svg")) {
-    $('html,body').animate({
-        scrollTop: $(".content05").offset().top - $('#mtrk-header').outerHeight()},
-        'slow');     
-    } else {
-    image.src = "./images/jail_black.svg";
-    }
-}
+// function changeImageFive() {
+//     var image = document.getElementById('mtrsk5');
+//     if (image.src.match("./images/jail_black.svg")) {
+//     $('html,body').animate({
+//         scrollTop: $(".content05").offset().top - $('#mtrk-header').outerHeight()},
+//         'slow');     
+//     } else {
+//     image.src = "./images/jail_black.svg";
+//     }
+// }
+
