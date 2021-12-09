@@ -217,6 +217,17 @@ font-size: 18px;
 letter-spacing:1.5px;
 }
 
+.li a:hover {
+  color: #e25c02;
+}
+
+
+.li a:visited {
+  color: black;
+}
+
+
+
 ul {
 border: 1px solid black;
 margin: 3%;
