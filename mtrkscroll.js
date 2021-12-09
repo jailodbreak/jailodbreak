@@ -78,7 +78,7 @@ $(window).scroll(function() {
     if ($(window).scrollTop() > myposition) {
     document.getElementById('mtrk-sidebar').style.display = 'block';
         $('#sectionNumber .txt').text("01");
-        $('#sectionName .txt').text("General overview"); 
+        $('#sectionName .txt').text("1. General overview"); 
         var image = document.getElementById('mtrsk1');
     var img2 = document.getElementById('mtrsk2');
     var img3 = document.getElementById('mtrsk3');
@@ -101,7 +101,7 @@ $(window).scroll(function() {
 	var myposition = d.offsetTop + d.offsetHeight - $('#mtrk-header').outerHeight()
     if ($(window).scrollTop() > myposition) {
         $('#sectionNumber .txt').text("02");
-        $('#sectionName .txt').text("Geographical distribution");
+        $('#sectionName .txt').text("2. Overcrowding");
     var image = document.getElementById('mtrsk2');
     var img1 = document.getElementById('mtrsk1');
     var img3 = document.getElementById('mtrsk3');
@@ -125,7 +125,7 @@ $(window).scroll(function() {
 	var myposition = d.offsetTop + d.offsetHeight - $('#mtrk-header').outerHeight()
     if ($(window).scrollTop() > myposition) {
         $('#sectionNumber .txt').text("03");
-         $('#sectionName .txt').text("Occupation");
+         $('#sectionName .txt').text("3. Mortality vs. prison conditions and health service system");
     var image = document.getElementById('mtrsk3');
     var img2 = document.getElementById('mtrsk2');
     var img1 = document.getElementById('mtrsk1');
@@ -145,7 +145,7 @@ $(window).scroll(function() {
 	var myposition = d.offsetTop + d.offsetHeight - $('#mtrk-header').outerHeight()
     if ($(window).scrollTop() > myposition) {
         $('#sectionNumber .txt').text("04");
-         $('#sectionName .txt').text("Scholarly works");
+         $('#sectionName .txt').text("4. Case study: Number of suicides vs. Staff Available (2016)");
          var image = document.getElementById('mtrsk4');
     var img2 = document.getElementById('mtrsk2');
     var img3 = document.getElementById('mtrsk3');

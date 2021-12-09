@@ -268,6 +268,7 @@ margin-right: 5%;
 position: fixed;
 right: 0;
 text-align: right;
+overflow: hidden!important;
 }
 
 .text {
@@ -281,7 +282,7 @@ text-align: justify;
 .general {
 height:100%;
 margin:10%;
-overflow:scroll;
+/*overflow:scroll;*/
 background-color: #ececec;
 
 }
