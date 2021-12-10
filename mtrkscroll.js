@@ -201,7 +201,7 @@ function changeImageTwo() {
     var image = document.getElementById('mtrsk2');
     if (image.src.match("./images/jail_black.svg")) {
     $('html,body').animate({
-        scrollTop: $(".content02").offset().top - $('#mtrk-header').outerHeight()+30},
+        scrollTop: $(".content02").offset().top - $('#mtrk-header').outerHeight()},
         'slow');     
     } else {
     image.src = "./images/jail_black.svg";
@@ -212,7 +212,7 @@ function changeImageThree() {
     var image = document.getElementById('mtrsk3');
     if (image.src.match("./images/jail_black.svg")) {
     $('html,body').animate({
-        scrollTop: $(".content03").offset().top - $('#mtrk-header').outerHeight()+30},
+        scrollTop: $(".content03").offset().top - $('#mtrk-header').outerHeight()+10},
         'slow');     
     } else {
     image.src = "./images/jail_black.svg";
@@ -223,7 +223,7 @@ function changeImageFour() {
     var image = document.getElementById('mtrsk4');
     if (image.src.match("./images/jail_black.svg")) {
     $('html,body').animate({
-        scrollTop: $(".content04").offset().top - $('#mtrk-header').outerHeight()+30},
+        scrollTop: $(".content04").offset().top - $('#mtrk-header').outerHeight()},
         'slow');     
     } else {
     image.src = "./images/jail_black.svg";
