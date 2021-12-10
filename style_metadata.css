@@ -314,8 +314,22 @@ table {
   margin: auto;
 }
 
+th{
+  background-color: #e25c0280;
+  text-align: right!important;
+  font-style: italic;
+  
+}
+
+td{
+  text-align: justify!important;
+  padding: 3%!important;
+  
+
+}
+
 td, th {
-  border: 1px solid #dddddd;
+  border-bottom: 0.5px solid black!important;
   text-align: left;
   padding: 8px;
 }
