@@ -249,6 +249,16 @@ th {
     font-weight: bolder;
 }
 
+h2 {
+padding-bottom: 2%;
+padding-top: 5%;
+font-family: "Aovel";
+text-transform: uppercase;
+letter-spacing: 5px;
+font-size: 20px;
+text-align: center;
+
+}
 
 
 @media screen and (max-width: 600px) {
