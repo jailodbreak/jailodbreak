@@ -232,7 +232,7 @@ color: #e25c02;
 }
 
 th, td {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ddd!important;
 }
 
 h2 {
