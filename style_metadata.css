@@ -39,11 +39,12 @@ background-color: #ececec;}
 
 
 .topnav {
-  background-color:	#ececec;
+  background-color:#ececec;
   overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
+
+
 .topnav a {
   float: right;
   color: #000000;
@@ -56,17 +57,13 @@ background-color: #ececec;}
   letter-spacing: 10px;
   padding-top: 23px;
   background-color: #ececec;
-
 }
 
-/* Change the color of links on hover */
 .topnav a:hover {
-  /*transform: scale(1.1);*/
   color: #e25c02;
-
 }
 
-/* Add a color to the active/current link */
+
 .logo a {
   float: left;
   font-family: "Equil";
@@ -74,7 +71,6 @@ background-color: #ececec;}
   text-decoration: none;
    color: #000000;
    background-color: #ececec;
-
 }
 
 
@@ -85,7 +81,6 @@ top: 0; /* Position the navbar at the top of the page */
 width: 100%;
 background-color: #ececec;
 z-index: 1;
-
 }
 
 p {
@@ -236,7 +231,7 @@ color: #e25c02;
 
 }
 
-td, th {
+td {
     border: 1px solid #e25c02;
     text-align: justify;
     padding: 12px;
