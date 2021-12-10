@@ -236,6 +236,21 @@ color: #e25c02;
 
 }
 
+td, th {
+    border: 1px solid #e25c02;
+    text-align: justify;
+    padding: 12px;
+}
+
+th {
+    font-style: italic;
+    text-align: right;
+    padding: 12px;
+    font-weight: bolder;
+}
+
+
+
 @media screen and (max-width: 600px) {
   .topnav{
     width: 100%;
