@@ -273,12 +273,33 @@ li {
   
   }
 
-th {
-font-family: "Aovel"!important;
+table {
+  
+  border-collapse: collapse;
+  width: 65%;
+  
 }
 
-td {
-font-family: "text"!important;
+th{
+  background-color: #e25c0280;
+  text-align: right!important;
+  font-family: "Aovel";
+  
+  
+}
+
+td{
+  text-align: justify!important;
+  padding: 3%!important;
+  font-family:"text";
+  
+
+}
+
+td, th {
+  border-bottom: 0.5px solid black!important;
+  text-align: left;
+  padding: 8px;
 }
 
 
@@ -343,7 +364,7 @@ text-decoration: none;
 }
 
 table {
-  font-family: 'Aovel';
+  
   border-collapse: collapse;
   width: 65%;
   
@@ -352,13 +373,15 @@ table {
 th{
   background-color: #e25c0280;
   text-align: right!important;
-  font-style: italic;
+  font-family: "Aovel";
+  
   
 }
 
 td{
   text-align: justify!important;
   padding: 3%!important;
+  font-family:"text";
   
 
 }
