@@ -14,8 +14,10 @@
 	src: url(fonts/equil.otf);
 }
 
-
-
+@font-face{
+	font-family: 'text';
+	src: url(fonts/Butler_Light.otf);
+}
 
 .topnav {
   background-color: #edeae3;
@@ -88,7 +90,6 @@ font-size: 15px;
 text-align: justify;
 margin: auto;
 
-
 }
 
 .introduction {
@@ -98,6 +99,13 @@ margin-right: 10%;
 
 }
 
+#content01 p, #content02 p, #content03 p, #content04 p {
+    text-align: justify;
+    font-family: "text";
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 20px;
+}
 
 .footer {
   left: 0;
