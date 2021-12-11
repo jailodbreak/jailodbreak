@@ -242,9 +242,20 @@ font-family: "Aovel";
 text-transform: uppercase;
 letter-spacing: 5px;
 font-size: 20px;
-text-align: center;
+text-align: left;
 
 }
+
+li {
+
+  font-family: "text";
+  font-size: 18px;
+  letter-spacing:1.5px;
+  }
+
+  ul{
+    width: 60%;
+  }
 
 
 @media screen and (max-width: 600px) {
@@ -311,7 +322,7 @@ table {
   font-family: 'Aovel';
   border-collapse: collapse;
   width: 65%;
-  margin: auto;
+  
 }
 
 th{
@@ -341,6 +352,7 @@ tr:nth-child(even) {
 .table_container{
   margin-top: 5%; 
   margin-bottom: 15%;
+  width: 100%;
 }
 
 .circle{
@@ -354,4 +366,16 @@ tr:nth-child(even) {
   background-color: #e25c02;
   top: 10px;
   display:block
+}
+
+.index{
+  float:right;
+/*margin-top:5%;*/
+width:20%;
+margin-right: 5%;
+position: fixed;
+right: 0;
+margin-top: 3%;
+
+overflow: hidden!important;
 }
