@@ -273,6 +273,14 @@ li {
   
   }
 
+th {
+font-family: "Aovel"!important;
+}
+
+th {
+font-family: "text"!important;
+}
+
 
 @media screen and (max-width: 600px) {
   .topnav{
