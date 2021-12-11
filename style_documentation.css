@@ -259,15 +259,24 @@ line-height: 25px;
 
 }
 
+.image ul{
+  border: none; 
+  text-align: left!important;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 0!important;
+}
+
 .image {
 
+
 float:right;
-margin-top:5%;
+/*margin-top:5%;*/
 width:40%;
 margin-right: 5%;
 position: fixed;
 right: 0;
-text-align: right;
+
 overflow: hidden!important;
 }
 
