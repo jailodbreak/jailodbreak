@@ -301,6 +301,9 @@ background-color: #ececec;
 
 .topnav .icon {
   display: none;
+  width: 1rem;
+  height: 1rem;
+
 
 }
 
@@ -322,6 +325,10 @@ background-color: #ececec;
 
   object{
     display: none!important;
+  }
+
+  .index{
+    margin-top: 100%;
   }
 }
 

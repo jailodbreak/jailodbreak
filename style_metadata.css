@@ -321,6 +321,10 @@ td, th {
   .intro_image{
     padding-top: 20%;
   }
+
+  .circle{
+    display: none;
+  }
 }
 
 @media screen and (max-width: 600px) {

@@ -57,17 +57,19 @@ am5.ready(function() {
     var yAxis = chart.yAxes.push(
       am5xy.ValueAxis.new(root, {
         maxDeviation: 0.3,
-        renderer: am5xy.AxisRendererY.new(root, {})
+        renderer: am5xy.AxisRendererY.new(root, { opposite: true })
       })
     );
-    
+
     var yAxis2 = chart.yAxes.push(
       am5xy.ValueAxis.new(root, {
         maxDeviation: 0.3,
         syncWithAxis: yAxis,
-        renderer: am5xy.AxisRendererY.new(root, { opposite: true })
+        renderer: am5xy.AxisRendererY.new(root, {})
       })
     );
+    
+    
     
     // Create series
     // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
