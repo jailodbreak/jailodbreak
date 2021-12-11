@@ -18,6 +18,14 @@ const init_selectors = (country_list, year_list) => {
         country_selector.appendChild(opt);
     }
 
+    for (var i=0; i < country_selector.options.length; i++){
+        if (country_selector.options[i].value == "undefined"){
+            country_selector.remove(i);
+
+        }
+
+    }
+
     // years
     const year_selector = document.getElementById("year_select_vis_2");
     const max_year = year_list.reduce(function(a, b) {
