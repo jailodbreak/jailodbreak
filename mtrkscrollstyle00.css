@@ -420,6 +420,15 @@
         display: block;
         color:black;
       }
+
+      .content, .intro{
+        width: 100%;
+      }
+
+      #chartdiv_vis_6{
+        margin-bottom: 50%!important;
+        
+      }
     }
 
     @media screen and (max-width: 600px) {

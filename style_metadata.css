@@ -308,6 +308,14 @@ td, th {
   .topnav{
     width: 100%;
   }
+
+  .topnav.responsive a {
+
+    display: block;
+    text-align: right;
+    width: 100%;
+
+  }
   .topnav a{
   display: none;
   float:right;
@@ -323,6 +331,10 @@ td, th {
   }
 
   .circle{
+    display: none!important;
+  }
+
+  .index{
     display: none;
   }
 }

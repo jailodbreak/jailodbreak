@@ -327,9 +327,6 @@ background-color: #ececec;
     display: none!important;
   }
 
-  .index{
-    margin-top: 100%;
-  }
 }
 
 @media screen and (max-width: 600px) {
@@ -345,10 +342,20 @@ background-color: #ececec;
 
     display: block;
     text-align: right;
+    width: 100%;
 
   }
 
   .circle{
     display: none!important;
+  }
+
+  .image{
+    display: none !important;
+    
+  }
+
+  .text{
+    width: 100%;
   }
 }
