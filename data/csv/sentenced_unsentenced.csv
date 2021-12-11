@@ -1,0 +1,561 @@
+"country_name","year","unsentenced","sentenced"
+"Cyprus",2003,56,299
+"Cyprus",2004,83,463
+"Cyprus",2005,84,452
+"Cyprus",2006,99,500
+"Cyprus",2007,69,577
+"Cyprus",2008,118,528
+"Cyprus",2009,105,565
+"Cyprus",2010,139,498
+"Cyprus",2011,135,499
+"Cyprus",2012,156,538
+"Cyprus",2013,117,475
+"Cyprus",2014,101,436
+"Cyprus",2015,110,486
+"Cyprus",2016,135,533
+"Cyprus",2017,151,474
+"Cyprus",2018,"",648
+"Turkey",2003,"",63796
+"Turkey",2004,"",58016
+"Turkey",2005,"",55966
+"Turkey",2006,"",70524
+"Turkey",2007,"",90732
+"Turkey",2008,"",103435
+"Turkey",2009,"",115920
+"Turkey",2010,"",120194
+"Turkey",2011,"",128253
+"Turkey",2012,"",136638
+"Turkey",2013,"",144098
+"Turkey",2014,"",158690
+"Turkey",2015,"",177262
+"Turkey",2016,"",200727
+"Turkey",2017,"",232340
+"Turkey",2018,"",264842
+"Bulgaria",2003,1861,7421
+"Bulgaria",2004,1988,7943
+"Bulgaria",2005,2080,8642
+"Bulgaria",2006,1354,9954
+"Bulgaria",2007,952,10009
+"Bulgaria",2008,794,9388
+"Bulgaria",2009,890,9203
+"Bulgaria",2010,1059,9389
+"Bulgaria",2011,1099,8786
+"Bulgaria",2012,927,8566
+"Bulgaria",2013,774,8060
+"Bulgaria",2014,669,7201
+"Bulgaria",2015,689,6719
+"Bulgaria",2016,587,6758
+"Bulgaria",2017,639,6349
+"Bulgaria",2018,"",6651
+"Hungary",2003,"",16507
+"Hungary",2004,4079,12464
+"Hungary",2005,3970,11750
+"Hungary",2006,3786,11035
+"Hungary",2007,3824,10507
+"Hungary",2008,4353,10349
+"Hungary",2009,4493,10867
+"Hungary",2010,4803,11525
+"Hungary",2011,4875,12335
+"Hungary",2012,4888,12291
+"Hungary",2013,5053,12788
+"Hungary",2014,4400,13490
+"Hungary",2015,4021,13428
+"Hungary",2016,3622,14036
+"Hungary",2017,3401,13942
+"Hungary",2018,"",16303
+"Poland",2003,18240,61041
+"Poland",2004,15055,65313
+"Poland",2005,13793,69162
+"Poland",2006,14834,73813
+"Poland",2007,11903,75873
+"Poland",2008,9395,73757
+"Poland",2009,9976,74027
+"Poland",2010,8811,71917
+"Poland",2011,8507,72875
+"Poland",2012,7354,76802
+"Poland",2013,6858,72136
+"Poland",2014,6238,71133
+"Poland",2015,4162,66674
+"Poland",2016,5396,66132
+"Poland",2017,7239,66583
+"Poland",2018,"",72204
+"Romania",2003,6707,36063
+"Romania",2004,6024,33020
+"Romania",2005,5383,31306
+"Romania",2006,4282,29756
+"Romania",2007,2947,26443
+"Romania",2008,3112,23100
+"Romania",2009,4408,22308
+"Romania",2010,4630,23614
+"Romania",2011,3313,27381
+"Romania",2012,3179,28638
+"Romania",2013,1845,31589
+"Romania",2014,1601,28555
+"Romania",2015,1485,26849
+"Romania",2016,1585,25870
+"Romania",2017,1370,22080
+"Romania",2018,"",20792
+"Slovakia",2003,"",5983
+"Slovakia",2004,3091,3240
+"Slovakia",2005,2846,3205
+"Slovakia",2006,2243,3763
+"Slovakia",2007,1849,4288
+"Slovakia",2008,1553,5060
+"Slovakia",2009,1621,6074
+"Slovakia",2010,1464,7103
+"Slovakia",2011,1407,7711
+"Slovakia",2012,1308,8234
+"Slovakia",2013,1216,7321
+"Slovakia",2014,1319,7382
+"Slovakia",2015,1346,7221
+"Slovakia",2016,1438,7119
+"Slovakia",2017,1516,6996
+"Slovakia",2018,"",8715
+"Denmark",2003,1060,2462
+"Denmark",2004,1089,2668
+"Denmark",2005,1044,3088
+"Denmark",2006,1098,2661
+"Denmark",2007,1019,2605
+"Denmark",2008,1183,2268
+"Denmark",2009,1426,2295
+"Denmark",2010,1409,2535
+"Denmark",2011,1381,2566
+"Denmark",2012,1092,2737
+"Denmark",2013,1226,2865
+"Denmark",2014,1066,2517
+"Denmark",2015,930,2273
+"Denmark",2016,923,2485
+"Denmark",2017,1275,2143
+"Denmark",2018,"",3635
+"Estonia",2003,1355,3174
+"Estonia",2004,1096,3429
+"Estonia",2005,1024,3396
+"Estonia",2006,1045,3265
+"Estonia",2007,916,2540
+"Estonia",2008,990,2666
+"Estonia",2009,836,2719
+"Estonia",2010,744,2649
+"Estonia",2011,772,2628
+"Estonia",2012,754,2532
+"Estonia",2013,684,2439
+"Estonia",2014,713,2321
+"Estonia",2015,699,2124
+"Estonia",2016,"",2864
+"Estonia",2017,570,2153
+"Estonia",2018,"",2584
+"Finland",2003,478,3163
+"Finland",2004,494,3209
+"Finland",2005,516,3351
+"Finland",2006,439,3412
+"Finland",2007,501,3123
+"Finland",2008,573,2958
+"Finland",2009,574,3015
+"Finland",2010,568,2796
+"Finland",2011,585,2683
+"Finland",2012,631,2675
+"Finland",2013,554,2741
+"Finland",2014,629,2519
+"Finland",2015,580,2555
+"Finland",2016,604,2552
+"Finland",2017,615,2467
+"Finland",2018,"",2910
+"Iceland",2003,8,101
+"Iceland",2004,9,103
+"Iceland",2005,18,90
+"Iceland",2006,18,97
+"Iceland",2007,12,112
+"Iceland",2008,14,106
+"Iceland",2009,25,107
+"Iceland",2010,13,141
+"Iceland",2011,12,131
+"Iceland",2012,26,115
+"Iceland",2013,12,135
+"Iceland",2014,9,133
+"Iceland",2015,17,122
+"Iceland",2016,15,101
+"Iceland",2017,23,127
+"Iceland",2018,"",147
+"Ireland",2003,555,2591
+"Ireland",2004,454,2206
+"Ireland",2005,478,2159
+"Ireland",2006,533,2192
+"Ireland",2007,605,2091
+"Ireland",2008,597,10331
+"Ireland",2009,559,11780
+"Ireland",2010,634,13124
+"Ireland",2011,606,13346
+"Ireland",2012,498,13362
+"Ireland",2013,614,12441
+"Ireland",2014,439,12969
+"Ireland",2015,594,0
+"Ireland",2016,639,0
+"Ireland",2017,690,0
+"Ireland",2018,"",0
+"Latvia",2003,3505,1290
+"Latvia",2004,3269,1539
+"Latvia",2005,2662,1946
+"Latvia",2006,2199,2444
+"Latvia",2007,1710,2991
+"Latvia",2008,1742,3130
+"Latvia",2009,2000,2959
+"Latvia",2010,2031,2670
+"Latvia",2011,2035,2453
+"Latvia",2012,1921,2250
+"Latvia",2013,1523,2080
+"Latvia",2014,1469,1784
+"Latvia",2015,1389,1611
+"Latvia",2016,1277,1689
+"Latvia",2017,1051,1663
+"Latvia",2018,"",2541
+"Lithuania",2003,1362,6507
+"Lithuania",2004,1284,6657
+"Lithuania",2005,1127,6831
+"Lithuania",2006,997,6911
+"Lithuania",2007,955,6719
+"Lithuania",2008,978,6822
+"Lithuania",2009,1208,7259
+"Lithuania",2010,1196,7785
+"Lithuania",2011,1347,8443
+"Lithuania",2012,1179,8438
+"Lithuania",2013,1118,8054
+"Lithuania",2014,868,7684
+"Lithuania",2015,712,6558
+"Lithuania",2016,602,6155
+"Lithuania",2017,611,5937
+"Lithuania",2018,"",6433
+"Norway",2003,"",0
+"Norway",2004,"",0
+"Norway",2005,"",0
+"Norway",2006,"",0
+"Norway",2007,"",0
+"Norway",2008,"",0
+"Norway",2009,"",0
+"Norway",2010,"",0
+"Norway",2011,"",0
+"Norway",2012,"",0
+"Norway",2013,"",0
+"Norway",2014,"",0
+"Norway",2015,"",0
+"Norway",2016,"",0
+"Norway",2017,"",0
+"Norway",2018,"",0
+"Sweden",2003,1401,3919
+"Sweden",2004,1561,4161
+"Sweden",2005,1479,4029
+"Sweden",2006,1597,3936
+"Sweden",2007,1432,3843
+"Sweden",2008,1377,4022
+"Sweden",2009,1445,4025
+"Sweden",2010,1472,3886
+"Sweden",2011,1521,3627
+"Sweden",2012,1444,3408
+"Sweden",2013,1346,3031
+"Sweden",2014,1488,2831
+"Sweden",2015,1399,2893
+"Sweden",2016,1427,2804
+"Sweden",2017,1565,2583
+"Sweden",2018,"",4393
+"United Kingdom (England and Wales)",2003,"",80263
+"United Kingdom (England and Wales)",2004,"",81264
+"United Kingdom (England and Wales)",2005,"",83307
+"United Kingdom (England and Wales)",2006,"",85259
+"United Kingdom (England and Wales)",2007,"",87325
+"United Kingdom (England and Wales)",2008,"",91044
+"United Kingdom (England and Wales)",2009,"",91325
+"United Kingdom (England and Wales)",2010,"",93323
+"United Kingdom (England and Wales)",2011,"",94258
+"United Kingdom (England and Wales)",2012,"",94625
+"United Kingdom (England and Wales)",2013,"",91574
+"United Kingdom (England and Wales)",2014,"",93118
+"United Kingdom (England and Wales)",2015,"",93635
+"United Kingdom (England and Wales)",2016,"",92590
+"United Kingdom (England and Wales)",2017,"",93288
+"United Kingdom (England and Wales)",2018,"",91099
+"Albania",2003,490,0
+"Albania",2004,623,0
+"Albania",2005,872,0
+"Albania",2006,941,0
+"Albania",2007,1765,0
+"Albania",2008,1947,0
+"Albania",2009,1628,3067
+"Albania",2010,1885,2720
+"Albania",2011,1850,2757
+"Albania",2012,1756,3134
+"Albania",2013,1975,3410
+"Albania",2014,2924,2611
+"Albania",2015,2945,2937
+"Albania",2016,2980,3051
+"Albania",2017,2374,3300
+"Albania",2018,"",5316
+"Bosnia and Herzegovina",2003,"",0
+"Bosnia and Herzegovina",2004,"",0
+"Bosnia and Herzegovina",2005,"",0
+"Bosnia and Herzegovina",2006,"",0
+"Bosnia and Herzegovina",2007,"",0
+"Bosnia and Herzegovina",2008,"",0
+"Bosnia and Herzegovina",2009,"",0
+"Bosnia and Herzegovina",2010,"",2221
+"Bosnia and Herzegovina",2011,"",2231
+"Bosnia and Herzegovina",2012,"",0
+"Bosnia and Herzegovina",2013,"",2521
+"Bosnia and Herzegovina",2014,"",2537
+"Bosnia and Herzegovina",2015,"",2298
+"Bosnia and Herzegovina",2016,"",2214
+"Bosnia and Herzegovina",2017,"",2361
+"Bosnia and Herzegovina",2018,"",3111
+"Croatia",2003,912,879
+"Croatia",2004,909,1123
+"Croatia",2005,1105,1188
+"Croatia",2006,1158,1436
+"Croatia",2007,1297,1612
+"Croatia",2008,1354,1940
+"Croatia",2009,1212,2380
+"Croatia",2010,1191,2703
+"Croatia",2011,896,3193
+"Croatia",2012,767,3123
+"Croatia",2013,934,2392
+"Croatia",2014,812,2069
+"Croatia",2015,729,1697
+"Croatia",2016,729,1564
+"Croatia",2017,770,1464
+"Croatia",2018,"",2177
+"Greece",2003,"",8170
+"Greece",2004,"",9018
+"Greece",2005,3076,6194
+"Greece",2006,3046,6639
+"Greece",2007,2906,7442
+"Greece",2008,3700,6861
+"Greece",2009,3541,5724
+"Greece",2010,4050,6430
+"Greece",2011,4254,6498
+"Greece",2012,4325,6862
+"Greece",2013,2861,8710
+"Greece",2014,2470,9328
+"Greece",2015,2557,7054
+"Greece",2016,2829,6731
+"Greece",2017,3260,6751
+"Greece",2018,"",10654
+"Italy",2003,20813,33424
+"Italy",2004,20704,35364
+"Italy",2005,22408,37115
+"Italy",2006,22145,16860
+"Italy",2007,28188,20505
+"Italy",2008,30093,28034
+"Italy",2009,30077,34714
+"Italy",2010,15131,52830
+"Italy",2011,14719,52178
+"Italy",2012,13545,52156
+"Italy",2013,12060,50476
+"Italy",2014,10337,43286
+"Italy",2015,9373,42791
+"Italy",2016,10277,44376
+"Italy",2017,10680,46928
+"Italy",2018,"",59655
+"Kosovo under UNSCR 1244",2003,"",1182
+"Kosovo under UNSCR 1244",2004,"",1189
+"Kosovo under UNSCR 1244",2005,"",1199
+"Kosovo under UNSCR 1244",2006,"",1252
+"Kosovo under UNSCR 1244",2007,"",0
+"Kosovo under UNSCR 1244",2008,"",0
+"Kosovo under UNSCR 1244",2009,"",1325
+"Kosovo under UNSCR 1244",2010,"",1333
+"Kosovo under UNSCR 1244",2011,"",1441
+"Kosovo under UNSCR 1244",2012,"",1737
+"Kosovo under UNSCR 1244",2013,"",1776
+"Kosovo under UNSCR 1244",2014,"",1854
+"Kosovo under UNSCR 1244",2015,"",1478
+"Kosovo under UNSCR 1244",2016,"",1648
+"Kosovo under UNSCR 1244",2017,"",1609
+"Kosovo under UNSCR 1244",2018,"",1567
+"Montenegro",2003,229,512
+"Montenegro",2004,300,499
+"Montenegro",2005,352,542
+"Montenegro",2006,411,440
+"Montenegro",2007,431,526
+"Montenegro",2008,568,648
+"Montenegro",2009,685,814
+"Montenegro",2010,405,1052
+"Montenegro",2011,338,990
+"Montenegro",2012,360,971
+"Montenegro",2013,304,760
+"Montenegro",2014,239,884
+"Montenegro",2015,298,833
+"Montenegro",2016,311,812
+"Montenegro",2017,309,810
+"Montenegro",2018,"",1125
+"North Macedonia",2003,217,0
+"North Macedonia",2004,204,0
+"North Macedonia",2005,136,0
+"North Macedonia",2006,208,1959
+"North Macedonia",2007,"",0
+"North Macedonia",2008,673,0
+"North Macedonia",2009,955,0
+"North Macedonia",2010,"",0
+"North Macedonia",2011,"",0
+"North Macedonia",2012,"",0
+"North Macedonia",2013,"",0
+"North Macedonia",2014,"",0
+"North Macedonia",2015,"",0
+"North Macedonia",2016,254,0
+"North Macedonia",2017,253,0
+"North Macedonia",2018,"",0
+"Portugal",2003,3492,10143
+"Portugal",2004,3000,10152
+"Portugal",2005,3044,9845
+"Portugal",2006,2921,9715
+"Portugal",2007,2327,9260
+"Portugal",2008,2108,8699
+"Portugal",2009,2141,8958
+"Portugal",2010,2307,9306
+"Portugal",2011,2470,10211
+"Portugal",2012,2661,10953
+"Portugal",2013,2592,11692
+"Portugal",2014,2330,11673
+"Portugal",2015,2303,11919
+"Portugal",2016,2117,11662
+"Portugal",2017,2105,11335
+"Portugal",2018,"",12867
+"Serbia",2003,"",0
+"Serbia",2004,"",0
+"Serbia",2005,"",8071
+"Serbia",2006,"",7893
+"Serbia",2007,2235,6735
+"Serbia",2008,2436,7265
+"Serbia",2009,2693,8282
+"Serbia",2010,3332,7879
+"Serbia",2011,3160,7910
+"Serbia",2012,2532,7694
+"Serbia",2013,1894,8137
+"Serbia",2014,1593,8695
+"Serbia",2015,1538,8526
+"Serbia",2016,1732,8940
+"Serbia",2017,1616,9191
+"Serbia",2018,"",10871
+"Spain",2003,12276,43820
+"Spain",2004,13112,46263
+"Spain",2005,13720,47334
+"Spain",2006,15065,48956
+"Spain",2007,16137,50963
+"Spain",2008,17849,55709
+"Spain",2009,15580,60499
+"Spain",2010,13837,60092
+"Spain",2011,12148,58324
+"Spain",2012,10938,57659
+"Spain",2013,9292,57473
+"Spain",2014,8595,56422
+"Spain",2015,7684,53930
+"Spain",2016,7996,51593
+"Spain",2017,8362,50452
+"Spain",2018,"",58883
+"Austria",2003,"",7921
+"Austria",2004,"",8642
+"Austria",2005,2082,6744
+"Austria",2006,2116,6635
+"Austria",2007,1964,6897
+"Austria",2008,1883,6003
+"Austria",2009,1994,6473
+"Austria",2010,1909,6660
+"Austria",2011,1826,6967
+"Austria",2012,1791,6947
+"Austria",2013,1809,7069
+"Austria",2014,1834,6975
+"Austria",2015,"",9036
+"Austria",2016,1766,6853
+"Austria",2017,1938,6914
+"Austria",2018,"",9099
+"Belgium",2003,"",9646
+"Belgium",2004,"",9896
+"Belgium",2005,"",9974
+"Belgium",2006,"",10437
+"Belgium",2007,"",0
+"Belgium",2008,"",0
+"Belgium",2009,"",0
+"Belgium",2010,"",10535
+"Belgium",2011,"",10973
+"Belgium",2012,"",11330
+"Belgium",2013,"",11644
+"Belgium",2014,"",11578
+"Belgium",2015,"",11040
+"Belgium",2016,"",10619
+"Belgium",2017,"",10471
+"Belgium",2018,"",0
+"France",2003,"",59246
+"France",2004,"",59197
+"France",2005,"",59522
+"France",2006,18483,41920
+"France",2007,16797,47206
+"France",2008,15933,50245
+"France",2009,15395,50694
+"France",2010,15702,51273
+"France",2011,16279,57501
+"France",2012,16454,60344
+"France",2013,16622,61261
+"France",2014,16549,60742
+"France",2015,18158,48520
+"France",2016,19498,48934
+"France",2017,19815,49159
+"France",2018,"",70059
+"Germany",2003,20149,59004
+"Germany",2004,19060,60392
+"Germany",2005,18151,60513
+"Germany",2006,15837,60792
+"Germany",2007,14552,58104
+"Germany",2008,13713,58546
+"Germany",2009,13601,57216
+"Germany",2010,12911,56474
+"Germany",2011,12899,55200
+"Germany",2012,12903,52999
+"Germany",2013,12943,49689
+"Germany",2014,12981,48891
+"Germany",2015,13713,48024
+"Germany",2016,14671,48194
+"Germany",2017,15786,48565
+"Germany",2018,"",63643
+"Luxembourg",2003,"",0
+"Luxembourg",2004,"",0
+"Luxembourg",2005,"",0
+"Luxembourg",2006,352,0
+"Luxembourg",2007,329,0
+"Luxembourg",2008,335,0
+"Luxembourg",2009,308,0
+"Luxembourg",2010,318,0
+"Luxembourg",2011,264,0
+"Luxembourg",2012,286,0
+"Luxembourg",2013,267,0
+"Luxembourg",2014,304,0
+"Luxembourg",2015,314,0
+"Luxembourg",2016,343,0
+"Luxembourg",2017,304,380
+"Luxembourg",2018,"",656
+"Netherlands",2003,6400,7581
+"Netherlands",2004,6900,9554
+"Netherlands",2005,6670,10929
+"Netherlands",2006,6198,10032
+"Netherlands",2007,6093,8358
+"Netherlands",2008,5730,7800
+"Netherlands",2009,3942,9320
+"Netherlands",2010,4054,9239
+"Netherlands",2011,4143,8594
+"Netherlands",2012,3840,8272
+"Netherlands",2013,3434,7733
+"Netherlands",2014,2888,7473
+"Netherlands",2015,2736,6407
+"Netherlands",2016,2748,6375
+"Netherlands",2017,2791,6758
+"Netherlands",2018,"",9972
+"Switzerland",2003,2214,2602
+"Switzerland",2004,2441,3028
+"Switzerland",2005,1879,3794
+"Switzerland",2006,2341,3185
+"Switzerland",2007,2195,3056
+"Switzerland",2008,2350,2849
+"Switzerland",2009,2521,2970
+"Switzerland",2010,2566,3099
+"Switzerland",2011,2406,3105
+"Switzerland",2012,2753,3248
+"Switzerland",2013,2915,3622
+"Switzerland",2014,2770,3644
+"Switzerland",2015,2756,3642
+"Switzerland",2016,2804,3643
+"Switzerland",2017,2756,3693
+"Switzerland",2018,"",6507

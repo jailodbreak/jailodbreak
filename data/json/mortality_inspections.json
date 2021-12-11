@@ -1,0 +1,47 @@
+[
+  {
+    "year": "2010",
+    "mortality_yes": 20.727272727272727,
+    "mortality_no": 77
+  },
+  {
+    "year": "2011",
+    "mortality_yes": 22.727272727272727,
+    "mortality_no": 76.66666666666667
+  },
+  {
+    "year": "2012",
+    "mortality_yes": 25.333333333333332,
+    "mortality_no": 79.16666666666667
+  },
+  {
+    "year": "2013",
+    "mortality_yes": 37.53846153846154,
+    "mortality_no": 65.71428571428571
+  },
+  {
+    "year": "2014",
+    "mortality_yes": 33.642857142857146,
+    "mortality_no": 65.2
+  },
+  {
+    "year": "2015",
+    "mortality_yes": 37.07142857142857,
+    "mortality_no": 70.77777777777777
+  },
+  {
+    "year": "2016",
+    "mortality_yes": 37.142857142857146,
+    "mortality_no": 66.55555555555556
+  },
+  {
+    "year": "2017",
+    "mortality_yes": 29.142857142857142,
+    "mortality_no": 79
+  },
+  {
+    "year": "2018",
+    "mortality_yes": 32.42857142857143,
+    "mortality_no": 92.125
+  }
+]

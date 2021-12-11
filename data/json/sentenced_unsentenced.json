@@ -1,0 +1,3362 @@
+[
+  {
+    "country_name": "Cyprus",
+    "year": 2003,
+    "unsentenced": 56,
+    "sentenced": 299
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2004,
+    "unsentenced": 83,
+    "sentenced": 463
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2005,
+    "unsentenced": 84,
+    "sentenced": 452
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2006,
+    "unsentenced": 99,
+    "sentenced": 500
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2007,
+    "unsentenced": 69,
+    "sentenced": 577
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2008,
+    "unsentenced": 118,
+    "sentenced": 528
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2009,
+    "unsentenced": 105,
+    "sentenced": 565
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2010,
+    "unsentenced": 139,
+    "sentenced": 498
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2011,
+    "unsentenced": 135,
+    "sentenced": 499
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2012,
+    "unsentenced": 156,
+    "sentenced": 538
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2013,
+    "unsentenced": 117,
+    "sentenced": 475
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2014,
+    "unsentenced": 101,
+    "sentenced": 436
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2015,
+    "unsentenced": 110,
+    "sentenced": 486
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2016,
+    "unsentenced": 135,
+    "sentenced": 533
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2017,
+    "unsentenced": 151,
+    "sentenced": 474
+  },
+  {
+    "country_name": "Cyprus",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 648
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 63796
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 58016
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 55966
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2006,
+    "unsentenced": "",
+    "sentenced": 70524
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2007,
+    "unsentenced": "",
+    "sentenced": 90732
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2008,
+    "unsentenced": "",
+    "sentenced": 103435
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2009,
+    "unsentenced": "",
+    "sentenced": 115920
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2010,
+    "unsentenced": "",
+    "sentenced": 120194
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2011,
+    "unsentenced": "",
+    "sentenced": 128253
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2012,
+    "unsentenced": "",
+    "sentenced": 136638
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2013,
+    "unsentenced": "",
+    "sentenced": 144098
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2014,
+    "unsentenced": "",
+    "sentenced": 158690
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2015,
+    "unsentenced": "",
+    "sentenced": 177262
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2016,
+    "unsentenced": "",
+    "sentenced": 200727
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2017,
+    "unsentenced": "",
+    "sentenced": 232340
+  },
+  {
+    "country_name": "Turkey",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 264842
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2003,
+    "unsentenced": 1861,
+    "sentenced": 7421
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2004,
+    "unsentenced": 1988,
+    "sentenced": 7943
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2005,
+    "unsentenced": 2080,
+    "sentenced": 8642
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2006,
+    "unsentenced": 1354,
+    "sentenced": 9954
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2007,
+    "unsentenced": 952,
+    "sentenced": 10009
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2008,
+    "unsentenced": 794,
+    "sentenced": 9388
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2009,
+    "unsentenced": 890,
+    "sentenced": 9203
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2010,
+    "unsentenced": 1059,
+    "sentenced": 9389
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2011,
+    "unsentenced": 1099,
+    "sentenced": 8786
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2012,
+    "unsentenced": 927,
+    "sentenced": 8566
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2013,
+    "unsentenced": 774,
+    "sentenced": 8060
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2014,
+    "unsentenced": 669,
+    "sentenced": 7201
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2015,
+    "unsentenced": 689,
+    "sentenced": 6719
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2016,
+    "unsentenced": 587,
+    "sentenced": 6758
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2017,
+    "unsentenced": 639,
+    "sentenced": 6349
+  },
+  {
+    "country_name": "Bulgaria",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 6651
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 16507
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2004,
+    "unsentenced": 4079,
+    "sentenced": 12464
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2005,
+    "unsentenced": 3970,
+    "sentenced": 11750
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2006,
+    "unsentenced": 3786,
+    "sentenced": 11035
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2007,
+    "unsentenced": 3824,
+    "sentenced": 10507
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2008,
+    "unsentenced": 4353,
+    "sentenced": 10349
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2009,
+    "unsentenced": 4493,
+    "sentenced": 10867
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2010,
+    "unsentenced": 4803,
+    "sentenced": 11525
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2011,
+    "unsentenced": 4875,
+    "sentenced": 12335
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2012,
+    "unsentenced": 4888,
+    "sentenced": 12291
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2013,
+    "unsentenced": 5053,
+    "sentenced": 12788
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2014,
+    "unsentenced": 4400,
+    "sentenced": 13490
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2015,
+    "unsentenced": 4021,
+    "sentenced": 13428
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2016,
+    "unsentenced": 3622,
+    "sentenced": 14036
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2017,
+    "unsentenced": 3401,
+    "sentenced": 13942
+  },
+  {
+    "country_name": "Hungary",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 16303
+  },
+  {
+    "country_name": "Poland",
+    "year": 2003,
+    "unsentenced": 18240,
+    "sentenced": 61041
+  },
+  {
+    "country_name": "Poland",
+    "year": 2004,
+    "unsentenced": 15055,
+    "sentenced": 65313
+  },
+  {
+    "country_name": "Poland",
+    "year": 2005,
+    "unsentenced": 13793,
+    "sentenced": 69162
+  },
+  {
+    "country_name": "Poland",
+    "year": 2006,
+    "unsentenced": 14834,
+    "sentenced": 73813
+  },
+  {
+    "country_name": "Poland",
+    "year": 2007,
+    "unsentenced": 11903,
+    "sentenced": 75873
+  },
+  {
+    "country_name": "Poland",
+    "year": 2008,
+    "unsentenced": 9395,
+    "sentenced": 73757
+  },
+  {
+    "country_name": "Poland",
+    "year": 2009,
+    "unsentenced": 9976,
+    "sentenced": 74027
+  },
+  {
+    "country_name": "Poland",
+    "year": 2010,
+    "unsentenced": 8811,
+    "sentenced": 71917
+  },
+  {
+    "country_name": "Poland",
+    "year": 2011,
+    "unsentenced": 8507,
+    "sentenced": 72875
+  },
+  {
+    "country_name": "Poland",
+    "year": 2012,
+    "unsentenced": 7354,
+    "sentenced": 76802
+  },
+  {
+    "country_name": "Poland",
+    "year": 2013,
+    "unsentenced": 6858,
+    "sentenced": 72136
+  },
+  {
+    "country_name": "Poland",
+    "year": 2014,
+    "unsentenced": 6238,
+    "sentenced": 71133
+  },
+  {
+    "country_name": "Poland",
+    "year": 2015,
+    "unsentenced": 4162,
+    "sentenced": 66674
+  },
+  {
+    "country_name": "Poland",
+    "year": 2016,
+    "unsentenced": 5396,
+    "sentenced": 66132
+  },
+  {
+    "country_name": "Poland",
+    "year": 2017,
+    "unsentenced": 7239,
+    "sentenced": 66583
+  },
+  {
+    "country_name": "Poland",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 72204
+  },
+  {
+    "country_name": "Romania",
+    "year": 2003,
+    "unsentenced": 6707,
+    "sentenced": 36063
+  },
+  {
+    "country_name": "Romania",
+    "year": 2004,
+    "unsentenced": 6024,
+    "sentenced": 33020
+  },
+  {
+    "country_name": "Romania",
+    "year": 2005,
+    "unsentenced": 5383,
+    "sentenced": 31306
+  },
+  {
+    "country_name": "Romania",
+    "year": 2006,
+    "unsentenced": 4282,
+    "sentenced": 29756
+  },
+  {
+    "country_name": "Romania",
+    "year": 2007,
+    "unsentenced": 2947,
+    "sentenced": 26443
+  },
+  {
+    "country_name": "Romania",
+    "year": 2008,
+    "unsentenced": 3112,
+    "sentenced": 23100
+  },
+  {
+    "country_name": "Romania",
+    "year": 2009,
+    "unsentenced": 4408,
+    "sentenced": 22308
+  },
+  {
+    "country_name": "Romania",
+    "year": 2010,
+    "unsentenced": 4630,
+    "sentenced": 23614
+  },
+  {
+    "country_name": "Romania",
+    "year": 2011,
+    "unsentenced": 3313,
+    "sentenced": 27381
+  },
+  {
+    "country_name": "Romania",
+    "year": 2012,
+    "unsentenced": 3179,
+    "sentenced": 28638
+  },
+  {
+    "country_name": "Romania",
+    "year": 2013,
+    "unsentenced": 1845,
+    "sentenced": 31589
+  },
+  {
+    "country_name": "Romania",
+    "year": 2014,
+    "unsentenced": 1601,
+    "sentenced": 28555
+  },
+  {
+    "country_name": "Romania",
+    "year": 2015,
+    "unsentenced": 1485,
+    "sentenced": 26849
+  },
+  {
+    "country_name": "Romania",
+    "year": 2016,
+    "unsentenced": 1585,
+    "sentenced": 25870
+  },
+  {
+    "country_name": "Romania",
+    "year": 2017,
+    "unsentenced": 1370,
+    "sentenced": 22080
+  },
+  {
+    "country_name": "Romania",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 20792
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 5983
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2004,
+    "unsentenced": 3091,
+    "sentenced": 3240
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2005,
+    "unsentenced": 2846,
+    "sentenced": 3205
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2006,
+    "unsentenced": 2243,
+    "sentenced": 3763
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2007,
+    "unsentenced": 1849,
+    "sentenced": 4288
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2008,
+    "unsentenced": 1553,
+    "sentenced": 5060
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2009,
+    "unsentenced": 1621,
+    "sentenced": 6074
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2010,
+    "unsentenced": 1464,
+    "sentenced": 7103
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2011,
+    "unsentenced": 1407,
+    "sentenced": 7711
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2012,
+    "unsentenced": 1308,
+    "sentenced": 8234
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2013,
+    "unsentenced": 1216,
+    "sentenced": 7321
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2014,
+    "unsentenced": 1319,
+    "sentenced": 7382
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2015,
+    "unsentenced": 1346,
+    "sentenced": 7221
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2016,
+    "unsentenced": 1438,
+    "sentenced": 7119
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2017,
+    "unsentenced": 1516,
+    "sentenced": 6996
+  },
+  {
+    "country_name": "Slovakia",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 8715
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2003,
+    "unsentenced": 1060,
+    "sentenced": 2462
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2004,
+    "unsentenced": 1089,
+    "sentenced": 2668
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2005,
+    "unsentenced": 1044,
+    "sentenced": 3088
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2006,
+    "unsentenced": 1098,
+    "sentenced": 2661
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2007,
+    "unsentenced": 1019,
+    "sentenced": 2605
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2008,
+    "unsentenced": 1183,
+    "sentenced": 2268
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2009,
+    "unsentenced": 1426,
+    "sentenced": 2295
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2010,
+    "unsentenced": 1409,
+    "sentenced": 2535
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2011,
+    "unsentenced": 1381,
+    "sentenced": 2566
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2012,
+    "unsentenced": 1092,
+    "sentenced": 2737
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2013,
+    "unsentenced": 1226,
+    "sentenced": 2865
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2014,
+    "unsentenced": 1066,
+    "sentenced": 2517
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2015,
+    "unsentenced": 930,
+    "sentenced": 2273
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2016,
+    "unsentenced": 923,
+    "sentenced": 2485
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2017,
+    "unsentenced": 1275,
+    "sentenced": 2143
+  },
+  {
+    "country_name": "Denmark",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 3635
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2003,
+    "unsentenced": 1355,
+    "sentenced": 3174
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2004,
+    "unsentenced": 1096,
+    "sentenced": 3429
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2005,
+    "unsentenced": 1024,
+    "sentenced": 3396
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2006,
+    "unsentenced": 1045,
+    "sentenced": 3265
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2007,
+    "unsentenced": 916,
+    "sentenced": 2540
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2008,
+    "unsentenced": 990,
+    "sentenced": 2666
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2009,
+    "unsentenced": 836,
+    "sentenced": 2719
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2010,
+    "unsentenced": 744,
+    "sentenced": 2649
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2011,
+    "unsentenced": 772,
+    "sentenced": 2628
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2012,
+    "unsentenced": 754,
+    "sentenced": 2532
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2013,
+    "unsentenced": 684,
+    "sentenced": 2439
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2014,
+    "unsentenced": 713,
+    "sentenced": 2321
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2015,
+    "unsentenced": 699,
+    "sentenced": 2124
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2016,
+    "unsentenced": "",
+    "sentenced": 2864
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2017,
+    "unsentenced": 570,
+    "sentenced": 2153
+  },
+  {
+    "country_name": "Estonia",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 2584
+  },
+  {
+    "country_name": "Finland",
+    "year": 2003,
+    "unsentenced": 478,
+    "sentenced": 3163
+  },
+  {
+    "country_name": "Finland",
+    "year": 2004,
+    "unsentenced": 494,
+    "sentenced": 3209
+  },
+  {
+    "country_name": "Finland",
+    "year": 2005,
+    "unsentenced": 516,
+    "sentenced": 3351
+  },
+  {
+    "country_name": "Finland",
+    "year": 2006,
+    "unsentenced": 439,
+    "sentenced": 3412
+  },
+  {
+    "country_name": "Finland",
+    "year": 2007,
+    "unsentenced": 501,
+    "sentenced": 3123
+  },
+  {
+    "country_name": "Finland",
+    "year": 2008,
+    "unsentenced": 573,
+    "sentenced": 2958
+  },
+  {
+    "country_name": "Finland",
+    "year": 2009,
+    "unsentenced": 574,
+    "sentenced": 3015
+  },
+  {
+    "country_name": "Finland",
+    "year": 2010,
+    "unsentenced": 568,
+    "sentenced": 2796
+  },
+  {
+    "country_name": "Finland",
+    "year": 2011,
+    "unsentenced": 585,
+    "sentenced": 2683
+  },
+  {
+    "country_name": "Finland",
+    "year": 2012,
+    "unsentenced": 631,
+    "sentenced": 2675
+  },
+  {
+    "country_name": "Finland",
+    "year": 2013,
+    "unsentenced": 554,
+    "sentenced": 2741
+  },
+  {
+    "country_name": "Finland",
+    "year": 2014,
+    "unsentenced": 629,
+    "sentenced": 2519
+  },
+  {
+    "country_name": "Finland",
+    "year": 2015,
+    "unsentenced": 580,
+    "sentenced": 2555
+  },
+  {
+    "country_name": "Finland",
+    "year": 2016,
+    "unsentenced": 604,
+    "sentenced": 2552
+  },
+  {
+    "country_name": "Finland",
+    "year": 2017,
+    "unsentenced": 615,
+    "sentenced": 2467
+  },
+  {
+    "country_name": "Finland",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 2910
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2003,
+    "unsentenced": 8,
+    "sentenced": 101
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2004,
+    "unsentenced": 9,
+    "sentenced": 103
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2005,
+    "unsentenced": 18,
+    "sentenced": 90
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2006,
+    "unsentenced": 18,
+    "sentenced": 97
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2007,
+    "unsentenced": 12,
+    "sentenced": 112
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2008,
+    "unsentenced": 14,
+    "sentenced": 106
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2009,
+    "unsentenced": 25,
+    "sentenced": 107
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2010,
+    "unsentenced": 13,
+    "sentenced": 141
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2011,
+    "unsentenced": 12,
+    "sentenced": 131
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2012,
+    "unsentenced": 26,
+    "sentenced": 115
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2013,
+    "unsentenced": 12,
+    "sentenced": 135
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2014,
+    "unsentenced": 9,
+    "sentenced": 133
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2015,
+    "unsentenced": 17,
+    "sentenced": 122
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2016,
+    "unsentenced": 15,
+    "sentenced": 101
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2017,
+    "unsentenced": 23,
+    "sentenced": 127
+  },
+  {
+    "country_name": "Iceland",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 147
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2003,
+    "unsentenced": 555,
+    "sentenced": 2591
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2004,
+    "unsentenced": 454,
+    "sentenced": 2206
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2005,
+    "unsentenced": 478,
+    "sentenced": 2159
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2006,
+    "unsentenced": 533,
+    "sentenced": 2192
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2007,
+    "unsentenced": 605,
+    "sentenced": 2091
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2008,
+    "unsentenced": 597,
+    "sentenced": 10331
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2009,
+    "unsentenced": 559,
+    "sentenced": 11780
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2010,
+    "unsentenced": 634,
+    "sentenced": 13124
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2011,
+    "unsentenced": 606,
+    "sentenced": 13346
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2012,
+    "unsentenced": 498,
+    "sentenced": 13362
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2013,
+    "unsentenced": 614,
+    "sentenced": 12441
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2014,
+    "unsentenced": 439,
+    "sentenced": 12969
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2015,
+    "unsentenced": 594,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2016,
+    "unsentenced": 639,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2017,
+    "unsentenced": 690,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Ireland",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2003,
+    "unsentenced": 3505,
+    "sentenced": 1290
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2004,
+    "unsentenced": 3269,
+    "sentenced": 1539
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2005,
+    "unsentenced": 2662,
+    "sentenced": 1946
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2006,
+    "unsentenced": 2199,
+    "sentenced": 2444
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2007,
+    "unsentenced": 1710,
+    "sentenced": 2991
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2008,
+    "unsentenced": 1742,
+    "sentenced": 3130
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2009,
+    "unsentenced": 2000,
+    "sentenced": 2959
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2010,
+    "unsentenced": 2031,
+    "sentenced": 2670
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2011,
+    "unsentenced": 2035,
+    "sentenced": 2453
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2012,
+    "unsentenced": 1921,
+    "sentenced": 2250
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2013,
+    "unsentenced": 1523,
+    "sentenced": 2080
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2014,
+    "unsentenced": 1469,
+    "sentenced": 1784
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2015,
+    "unsentenced": 1389,
+    "sentenced": 1611
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2016,
+    "unsentenced": 1277,
+    "sentenced": 1689
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2017,
+    "unsentenced": 1051,
+    "sentenced": 1663
+  },
+  {
+    "country_name": "Latvia",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 2541
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2003,
+    "unsentenced": 1362,
+    "sentenced": 6507
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2004,
+    "unsentenced": 1284,
+    "sentenced": 6657
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2005,
+    "unsentenced": 1127,
+    "sentenced": 6831
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2006,
+    "unsentenced": 997,
+    "sentenced": 6911
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2007,
+    "unsentenced": 955,
+    "sentenced": 6719
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2008,
+    "unsentenced": 978,
+    "sentenced": 6822
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2009,
+    "unsentenced": 1208,
+    "sentenced": 7259
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2010,
+    "unsentenced": 1196,
+    "sentenced": 7785
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2011,
+    "unsentenced": 1347,
+    "sentenced": 8443
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2012,
+    "unsentenced": 1179,
+    "sentenced": 8438
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2013,
+    "unsentenced": 1118,
+    "sentenced": 8054
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2014,
+    "unsentenced": 868,
+    "sentenced": 7684
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2015,
+    "unsentenced": 712,
+    "sentenced": 6558
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2016,
+    "unsentenced": 602,
+    "sentenced": 6155
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2017,
+    "unsentenced": 611,
+    "sentenced": 5937
+  },
+  {
+    "country_name": "Lithuania",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 6433
+  },
+  {
+    "country_name": "Norway",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2006,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2007,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2008,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2009,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2010,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2011,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2012,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2013,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2014,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2015,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2016,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2017,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Norway",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2003,
+    "unsentenced": 1401,
+    "sentenced": 3919
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2004,
+    "unsentenced": 1561,
+    "sentenced": 4161
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2005,
+    "unsentenced": 1479,
+    "sentenced": 4029
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2006,
+    "unsentenced": 1597,
+    "sentenced": 3936
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2007,
+    "unsentenced": 1432,
+    "sentenced": 3843
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2008,
+    "unsentenced": 1377,
+    "sentenced": 4022
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2009,
+    "unsentenced": 1445,
+    "sentenced": 4025
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2010,
+    "unsentenced": 1472,
+    "sentenced": 3886
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2011,
+    "unsentenced": 1521,
+    "sentenced": 3627
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2012,
+    "unsentenced": 1444,
+    "sentenced": 3408
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2013,
+    "unsentenced": 1346,
+    "sentenced": 3031
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2014,
+    "unsentenced": 1488,
+    "sentenced": 2831
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2015,
+    "unsentenced": 1399,
+    "sentenced": 2893
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2016,
+    "unsentenced": 1427,
+    "sentenced": 2804
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2017,
+    "unsentenced": 1565,
+    "sentenced": 2583
+  },
+  {
+    "country_name": "Sweden",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 4393
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 80263
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 81264
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 83307
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2006,
+    "unsentenced": "",
+    "sentenced": 85259
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2007,
+    "unsentenced": "",
+    "sentenced": 87325
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2008,
+    "unsentenced": "",
+    "sentenced": 91044
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2009,
+    "unsentenced": "",
+    "sentenced": 91325
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2010,
+    "unsentenced": "",
+    "sentenced": 93323
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2011,
+    "unsentenced": "",
+    "sentenced": 94258
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2012,
+    "unsentenced": "",
+    "sentenced": 94625
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2013,
+    "unsentenced": "",
+    "sentenced": 91574
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2014,
+    "unsentenced": "",
+    "sentenced": 93118
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2015,
+    "unsentenced": "",
+    "sentenced": 93635
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2016,
+    "unsentenced": "",
+    "sentenced": 92590
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2017,
+    "unsentenced": "",
+    "sentenced": 93288
+  },
+  {
+    "country_name": "United Kingdom (England and Wales)",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 91099
+  },
+  {
+    "country_name": "Albania",
+    "year": 2003,
+    "unsentenced": 490,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Albania",
+    "year": 2004,
+    "unsentenced": 623,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Albania",
+    "year": 2005,
+    "unsentenced": 872,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Albania",
+    "year": 2006,
+    "unsentenced": 941,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Albania",
+    "year": 2007,
+    "unsentenced": 1765,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Albania",
+    "year": 2008,
+    "unsentenced": 1947,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Albania",
+    "year": 2009,
+    "unsentenced": 1628,
+    "sentenced": 3067
+  },
+  {
+    "country_name": "Albania",
+    "year": 2010,
+    "unsentenced": 1885,
+    "sentenced": 2720
+  },
+  {
+    "country_name": "Albania",
+    "year": 2011,
+    "unsentenced": 1850,
+    "sentenced": 2757
+  },
+  {
+    "country_name": "Albania",
+    "year": 2012,
+    "unsentenced": 1756,
+    "sentenced": 3134
+  },
+  {
+    "country_name": "Albania",
+    "year": 2013,
+    "unsentenced": 1975,
+    "sentenced": 3410
+  },
+  {
+    "country_name": "Albania",
+    "year": 2014,
+    "unsentenced": 2924,
+    "sentenced": 2611
+  },
+  {
+    "country_name": "Albania",
+    "year": 2015,
+    "unsentenced": 2945,
+    "sentenced": 2937
+  },
+  {
+    "country_name": "Albania",
+    "year": 2016,
+    "unsentenced": 2980,
+    "sentenced": 3051
+  },
+  {
+    "country_name": "Albania",
+    "year": 2017,
+    "unsentenced": 2374,
+    "sentenced": 3300
+  },
+  {
+    "country_name": "Albania",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 5316
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2006,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2007,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2008,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2009,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2010,
+    "unsentenced": "",
+    "sentenced": 2221
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2011,
+    "unsentenced": "",
+    "sentenced": 2231
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2012,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2013,
+    "unsentenced": "",
+    "sentenced": 2521
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2014,
+    "unsentenced": "",
+    "sentenced": 2537
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2015,
+    "unsentenced": "",
+    "sentenced": 2298
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2016,
+    "unsentenced": "",
+    "sentenced": 2214
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2017,
+    "unsentenced": "",
+    "sentenced": 2361
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 3111
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2003,
+    "unsentenced": 912,
+    "sentenced": 879
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2004,
+    "unsentenced": 909,
+    "sentenced": 1123
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2005,
+    "unsentenced": 1105,
+    "sentenced": 1188
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2006,
+    "unsentenced": 1158,
+    "sentenced": 1436
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2007,
+    "unsentenced": 1297,
+    "sentenced": 1612
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2008,
+    "unsentenced": 1354,
+    "sentenced": 1940
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2009,
+    "unsentenced": 1212,
+    "sentenced": 2380
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2010,
+    "unsentenced": 1191,
+    "sentenced": 2703
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2011,
+    "unsentenced": 896,
+    "sentenced": 3193
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2012,
+    "unsentenced": 767,
+    "sentenced": 3123
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2013,
+    "unsentenced": 934,
+    "sentenced": 2392
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2014,
+    "unsentenced": 812,
+    "sentenced": 2069
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2015,
+    "unsentenced": 729,
+    "sentenced": 1697
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2016,
+    "unsentenced": 729,
+    "sentenced": 1564
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2017,
+    "unsentenced": 770,
+    "sentenced": 1464
+  },
+  {
+    "country_name": "Croatia",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 2177
+  },
+  {
+    "country_name": "Greece",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 8170
+  },
+  {
+    "country_name": "Greece",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 9018
+  },
+  {
+    "country_name": "Greece",
+    "year": 2005,
+    "unsentenced": 3076,
+    "sentenced": 6194
+  },
+  {
+    "country_name": "Greece",
+    "year": 2006,
+    "unsentenced": 3046,
+    "sentenced": 6639
+  },
+  {
+    "country_name": "Greece",
+    "year": 2007,
+    "unsentenced": 2906,
+    "sentenced": 7442
+  },
+  {
+    "country_name": "Greece",
+    "year": 2008,
+    "unsentenced": 3700,
+    "sentenced": 6861
+  },
+  {
+    "country_name": "Greece",
+    "year": 2009,
+    "unsentenced": 3541,
+    "sentenced": 5724
+  },
+  {
+    "country_name": "Greece",
+    "year": 2010,
+    "unsentenced": 4050,
+    "sentenced": 6430
+  },
+  {
+    "country_name": "Greece",
+    "year": 2011,
+    "unsentenced": 4254,
+    "sentenced": 6498
+  },
+  {
+    "country_name": "Greece",
+    "year": 2012,
+    "unsentenced": 4325,
+    "sentenced": 6862
+  },
+  {
+    "country_name": "Greece",
+    "year": 2013,
+    "unsentenced": 2861,
+    "sentenced": 8710
+  },
+  {
+    "country_name": "Greece",
+    "year": 2014,
+    "unsentenced": 2470,
+    "sentenced": 9328
+  },
+  {
+    "country_name": "Greece",
+    "year": 2015,
+    "unsentenced": 2557,
+    "sentenced": 7054
+  },
+  {
+    "country_name": "Greece",
+    "year": 2016,
+    "unsentenced": 2829,
+    "sentenced": 6731
+  },
+  {
+    "country_name": "Greece",
+    "year": 2017,
+    "unsentenced": 3260,
+    "sentenced": 6751
+  },
+  {
+    "country_name": "Greece",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 10654
+  },
+  {
+    "country_name": "Italy",
+    "year": 2003,
+    "unsentenced": 20813,
+    "sentenced": 33424
+  },
+  {
+    "country_name": "Italy",
+    "year": 2004,
+    "unsentenced": 20704,
+    "sentenced": 35364
+  },
+  {
+    "country_name": "Italy",
+    "year": 2005,
+    "unsentenced": 22408,
+    "sentenced": 37115
+  },
+  {
+    "country_name": "Italy",
+    "year": 2006,
+    "unsentenced": 22145,
+    "sentenced": 16860
+  },
+  {
+    "country_name": "Italy",
+    "year": 2007,
+    "unsentenced": 28188,
+    "sentenced": 20505
+  },
+  {
+    "country_name": "Italy",
+    "year": 2008,
+    "unsentenced": 30093,
+    "sentenced": 28034
+  },
+  {
+    "country_name": "Italy",
+    "year": 2009,
+    "unsentenced": 30077,
+    "sentenced": 34714
+  },
+  {
+    "country_name": "Italy",
+    "year": 2010,
+    "unsentenced": 15131,
+    "sentenced": 52830
+  },
+  {
+    "country_name": "Italy",
+    "year": 2011,
+    "unsentenced": 14719,
+    "sentenced": 52178
+  },
+  {
+    "country_name": "Italy",
+    "year": 2012,
+    "unsentenced": 13545,
+    "sentenced": 52156
+  },
+  {
+    "country_name": "Italy",
+    "year": 2013,
+    "unsentenced": 12060,
+    "sentenced": 50476
+  },
+  {
+    "country_name": "Italy",
+    "year": 2014,
+    "unsentenced": 10337,
+    "sentenced": 43286
+  },
+  {
+    "country_name": "Italy",
+    "year": 2015,
+    "unsentenced": 9373,
+    "sentenced": 42791
+  },
+  {
+    "country_name": "Italy",
+    "year": 2016,
+    "unsentenced": 10277,
+    "sentenced": 44376
+  },
+  {
+    "country_name": "Italy",
+    "year": 2017,
+    "unsentenced": 10680,
+    "sentenced": 46928
+  },
+  {
+    "country_name": "Italy",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 59655
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 1182
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 1189
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 1199
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2006,
+    "unsentenced": "",
+    "sentenced": 1252
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2007,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2008,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2009,
+    "unsentenced": "",
+    "sentenced": 1325
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2010,
+    "unsentenced": "",
+    "sentenced": 1333
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2011,
+    "unsentenced": "",
+    "sentenced": 1441
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2012,
+    "unsentenced": "",
+    "sentenced": 1737
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2013,
+    "unsentenced": "",
+    "sentenced": 1776
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2014,
+    "unsentenced": "",
+    "sentenced": 1854
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2015,
+    "unsentenced": "",
+    "sentenced": 1478
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2016,
+    "unsentenced": "",
+    "sentenced": 1648
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2017,
+    "unsentenced": "",
+    "sentenced": 1609
+  },
+  {
+    "country_name": "Kosovo under UNSCR 1244",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 1567
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2003,
+    "unsentenced": 229,
+    "sentenced": 512
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2004,
+    "unsentenced": 300,
+    "sentenced": 499
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2005,
+    "unsentenced": 352,
+    "sentenced": 542
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2006,
+    "unsentenced": 411,
+    "sentenced": 440
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2007,
+    "unsentenced": 431,
+    "sentenced": 526
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2008,
+    "unsentenced": 568,
+    "sentenced": 648
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2009,
+    "unsentenced": 685,
+    "sentenced": 814
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2010,
+    "unsentenced": 405,
+    "sentenced": 1052
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2011,
+    "unsentenced": 338,
+    "sentenced": 990
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2012,
+    "unsentenced": 360,
+    "sentenced": 971
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2013,
+    "unsentenced": 304,
+    "sentenced": 760
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2014,
+    "unsentenced": 239,
+    "sentenced": 884
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2015,
+    "unsentenced": 298,
+    "sentenced": 833
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2016,
+    "unsentenced": 311,
+    "sentenced": 812
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2017,
+    "unsentenced": 309,
+    "sentenced": 810
+  },
+  {
+    "country_name": "Montenegro",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 1125
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2003,
+    "unsentenced": 217,
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2004,
+    "unsentenced": 204,
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2005,
+    "unsentenced": 136,
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2006,
+    "unsentenced": 208,
+    "sentenced": 1959
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2007,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2008,
+    "unsentenced": 673,
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2009,
+    "unsentenced": 955,
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2010,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2011,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2012,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2013,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2014,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2015,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2016,
+    "unsentenced": 254,
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2017,
+    "unsentenced": 253,
+    "sentenced": 0
+  },
+  {
+    "country_name": "North Macedonia",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2003,
+    "unsentenced": 3492,
+    "sentenced": 10143
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2004,
+    "unsentenced": 3000,
+    "sentenced": 10152
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2005,
+    "unsentenced": 3044,
+    "sentenced": 9845
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2006,
+    "unsentenced": 2921,
+    "sentenced": 9715
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2007,
+    "unsentenced": 2327,
+    "sentenced": 9260
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2008,
+    "unsentenced": 2108,
+    "sentenced": 8699
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2009,
+    "unsentenced": 2141,
+    "sentenced": 8958
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2010,
+    "unsentenced": 2307,
+    "sentenced": 9306
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2011,
+    "unsentenced": 2470,
+    "sentenced": 10211
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2012,
+    "unsentenced": 2661,
+    "sentenced": 10953
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2013,
+    "unsentenced": 2592,
+    "sentenced": 11692
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2014,
+    "unsentenced": 2330,
+    "sentenced": 11673
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2015,
+    "unsentenced": 2303,
+    "sentenced": 11919
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2016,
+    "unsentenced": 2117,
+    "sentenced": 11662
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2017,
+    "unsentenced": 2105,
+    "sentenced": 11335
+  },
+  {
+    "country_name": "Portugal",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 12867
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 8071
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2006,
+    "unsentenced": "",
+    "sentenced": 7893
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2007,
+    "unsentenced": 2235,
+    "sentenced": 6735
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2008,
+    "unsentenced": 2436,
+    "sentenced": 7265
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2009,
+    "unsentenced": 2693,
+    "sentenced": 8282
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2010,
+    "unsentenced": 3332,
+    "sentenced": 7879
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2011,
+    "unsentenced": 3160,
+    "sentenced": 7910
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2012,
+    "unsentenced": 2532,
+    "sentenced": 7694
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2013,
+    "unsentenced": 1894,
+    "sentenced": 8137
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2014,
+    "unsentenced": 1593,
+    "sentenced": 8695
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2015,
+    "unsentenced": 1538,
+    "sentenced": 8526
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2016,
+    "unsentenced": 1732,
+    "sentenced": 8940
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2017,
+    "unsentenced": 1616,
+    "sentenced": 9191
+  },
+  {
+    "country_name": "Serbia",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 10871
+  },
+  {
+    "country_name": "Spain",
+    "year": 2003,
+    "unsentenced": 12276,
+    "sentenced": 43820
+  },
+  {
+    "country_name": "Spain",
+    "year": 2004,
+    "unsentenced": 13112,
+    "sentenced": 46263
+  },
+  {
+    "country_name": "Spain",
+    "year": 2005,
+    "unsentenced": 13720,
+    "sentenced": 47334
+  },
+  {
+    "country_name": "Spain",
+    "year": 2006,
+    "unsentenced": 15065,
+    "sentenced": 48956
+  },
+  {
+    "country_name": "Spain",
+    "year": 2007,
+    "unsentenced": 16137,
+    "sentenced": 50963
+  },
+  {
+    "country_name": "Spain",
+    "year": 2008,
+    "unsentenced": 17849,
+    "sentenced": 55709
+  },
+  {
+    "country_name": "Spain",
+    "year": 2009,
+    "unsentenced": 15580,
+    "sentenced": 60499
+  },
+  {
+    "country_name": "Spain",
+    "year": 2010,
+    "unsentenced": 13837,
+    "sentenced": 60092
+  },
+  {
+    "country_name": "Spain",
+    "year": 2011,
+    "unsentenced": 12148,
+    "sentenced": 58324
+  },
+  {
+    "country_name": "Spain",
+    "year": 2012,
+    "unsentenced": 10938,
+    "sentenced": 57659
+  },
+  {
+    "country_name": "Spain",
+    "year": 2013,
+    "unsentenced": 9292,
+    "sentenced": 57473
+  },
+  {
+    "country_name": "Spain",
+    "year": 2014,
+    "unsentenced": 8595,
+    "sentenced": 56422
+  },
+  {
+    "country_name": "Spain",
+    "year": 2015,
+    "unsentenced": 7684,
+    "sentenced": 53930
+  },
+  {
+    "country_name": "Spain",
+    "year": 2016,
+    "unsentenced": 7996,
+    "sentenced": 51593
+  },
+  {
+    "country_name": "Spain",
+    "year": 2017,
+    "unsentenced": 8362,
+    "sentenced": 50452
+  },
+  {
+    "country_name": "Spain",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 58883
+  },
+  {
+    "country_name": "Austria",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 7921
+  },
+  {
+    "country_name": "Austria",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 8642
+  },
+  {
+    "country_name": "Austria",
+    "year": 2005,
+    "unsentenced": 2082,
+    "sentenced": 6744
+  },
+  {
+    "country_name": "Austria",
+    "year": 2006,
+    "unsentenced": 2116,
+    "sentenced": 6635
+  },
+  {
+    "country_name": "Austria",
+    "year": 2007,
+    "unsentenced": 1964,
+    "sentenced": 6897
+  },
+  {
+    "country_name": "Austria",
+    "year": 2008,
+    "unsentenced": 1883,
+    "sentenced": 6003
+  },
+  {
+    "country_name": "Austria",
+    "year": 2009,
+    "unsentenced": 1994,
+    "sentenced": 6473
+  },
+  {
+    "country_name": "Austria",
+    "year": 2010,
+    "unsentenced": 1909,
+    "sentenced": 6660
+  },
+  {
+    "country_name": "Austria",
+    "year": 2011,
+    "unsentenced": 1826,
+    "sentenced": 6967
+  },
+  {
+    "country_name": "Austria",
+    "year": 2012,
+    "unsentenced": 1791,
+    "sentenced": 6947
+  },
+  {
+    "country_name": "Austria",
+    "year": 2013,
+    "unsentenced": 1809,
+    "sentenced": 7069
+  },
+  {
+    "country_name": "Austria",
+    "year": 2014,
+    "unsentenced": 1834,
+    "sentenced": 6975
+  },
+  {
+    "country_name": "Austria",
+    "year": 2015,
+    "unsentenced": "",
+    "sentenced": 9036
+  },
+  {
+    "country_name": "Austria",
+    "year": 2016,
+    "unsentenced": 1766,
+    "sentenced": 6853
+  },
+  {
+    "country_name": "Austria",
+    "year": 2017,
+    "unsentenced": 1938,
+    "sentenced": 6914
+  },
+  {
+    "country_name": "Austria",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 9099
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 9646
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 9896
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 9974
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2006,
+    "unsentenced": "",
+    "sentenced": 10437
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2007,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2008,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2009,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2010,
+    "unsentenced": "",
+    "sentenced": 10535
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2011,
+    "unsentenced": "",
+    "sentenced": 10973
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2012,
+    "unsentenced": "",
+    "sentenced": 11330
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2013,
+    "unsentenced": "",
+    "sentenced": 11644
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2014,
+    "unsentenced": "",
+    "sentenced": 11578
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2015,
+    "unsentenced": "",
+    "sentenced": 11040
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2016,
+    "unsentenced": "",
+    "sentenced": 10619
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2017,
+    "unsentenced": "",
+    "sentenced": 10471
+  },
+  {
+    "country_name": "Belgium",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "France",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 59246
+  },
+  {
+    "country_name": "France",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 59197
+  },
+  {
+    "country_name": "France",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 59522
+  },
+  {
+    "country_name": "France",
+    "year": 2006,
+    "unsentenced": 18483,
+    "sentenced": 41920
+  },
+  {
+    "country_name": "France",
+    "year": 2007,
+    "unsentenced": 16797,
+    "sentenced": 47206
+  },
+  {
+    "country_name": "France",
+    "year": 2008,
+    "unsentenced": 15933,
+    "sentenced": 50245
+  },
+  {
+    "country_name": "France",
+    "year": 2009,
+    "unsentenced": 15395,
+    "sentenced": 50694
+  },
+  {
+    "country_name": "France",
+    "year": 2010,
+    "unsentenced": 15702,
+    "sentenced": 51273
+  },
+  {
+    "country_name": "France",
+    "year": 2011,
+    "unsentenced": 16279,
+    "sentenced": 57501
+  },
+  {
+    "country_name": "France",
+    "year": 2012,
+    "unsentenced": 16454,
+    "sentenced": 60344
+  },
+  {
+    "country_name": "France",
+    "year": 2013,
+    "unsentenced": 16622,
+    "sentenced": 61261
+  },
+  {
+    "country_name": "France",
+    "year": 2014,
+    "unsentenced": 16549,
+    "sentenced": 60742
+  },
+  {
+    "country_name": "France",
+    "year": 2015,
+    "unsentenced": 18158,
+    "sentenced": 48520
+  },
+  {
+    "country_name": "France",
+    "year": 2016,
+    "unsentenced": 19498,
+    "sentenced": 48934
+  },
+  {
+    "country_name": "France",
+    "year": 2017,
+    "unsentenced": 19815,
+    "sentenced": 49159
+  },
+  {
+    "country_name": "France",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 70059
+  },
+  {
+    "country_name": "Germany",
+    "year": 2003,
+    "unsentenced": 20149,
+    "sentenced": 59004
+  },
+  {
+    "country_name": "Germany",
+    "year": 2004,
+    "unsentenced": 19060,
+    "sentenced": 60392
+  },
+  {
+    "country_name": "Germany",
+    "year": 2005,
+    "unsentenced": 18151,
+    "sentenced": 60513
+  },
+  {
+    "country_name": "Germany",
+    "year": 2006,
+    "unsentenced": 15837,
+    "sentenced": 60792
+  },
+  {
+    "country_name": "Germany",
+    "year": 2007,
+    "unsentenced": 14552,
+    "sentenced": 58104
+  },
+  {
+    "country_name": "Germany",
+    "year": 2008,
+    "unsentenced": 13713,
+    "sentenced": 58546
+  },
+  {
+    "country_name": "Germany",
+    "year": 2009,
+    "unsentenced": 13601,
+    "sentenced": 57216
+  },
+  {
+    "country_name": "Germany",
+    "year": 2010,
+    "unsentenced": 12911,
+    "sentenced": 56474
+  },
+  {
+    "country_name": "Germany",
+    "year": 2011,
+    "unsentenced": 12899,
+    "sentenced": 55200
+  },
+  {
+    "country_name": "Germany",
+    "year": 2012,
+    "unsentenced": 12903,
+    "sentenced": 52999
+  },
+  {
+    "country_name": "Germany",
+    "year": 2013,
+    "unsentenced": 12943,
+    "sentenced": 49689
+  },
+  {
+    "country_name": "Germany",
+    "year": 2014,
+    "unsentenced": 12981,
+    "sentenced": 48891
+  },
+  {
+    "country_name": "Germany",
+    "year": 2015,
+    "unsentenced": 13713,
+    "sentenced": 48024
+  },
+  {
+    "country_name": "Germany",
+    "year": 2016,
+    "unsentenced": 14671,
+    "sentenced": 48194
+  },
+  {
+    "country_name": "Germany",
+    "year": 2017,
+    "unsentenced": 15786,
+    "sentenced": 48565
+  },
+  {
+    "country_name": "Germany",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 63643
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2003,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2004,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2005,
+    "unsentenced": "",
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2006,
+    "unsentenced": 352,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2007,
+    "unsentenced": 329,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2008,
+    "unsentenced": 335,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2009,
+    "unsentenced": 308,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2010,
+    "unsentenced": 318,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2011,
+    "unsentenced": 264,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2012,
+    "unsentenced": 286,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2013,
+    "unsentenced": 267,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2014,
+    "unsentenced": 304,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2015,
+    "unsentenced": 314,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2016,
+    "unsentenced": 343,
+    "sentenced": 0
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2017,
+    "unsentenced": 304,
+    "sentenced": 380
+  },
+  {
+    "country_name": "Luxembourg",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 656
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2003,
+    "unsentenced": 6400,
+    "sentenced": 7581
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2004,
+    "unsentenced": 6900,
+    "sentenced": 9554
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2005,
+    "unsentenced": 6670,
+    "sentenced": 10929
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2006,
+    "unsentenced": 6198,
+    "sentenced": 10032
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2007,
+    "unsentenced": 6093,
+    "sentenced": 8358
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2008,
+    "unsentenced": 5730,
+    "sentenced": 7800
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2009,
+    "unsentenced": 3942,
+    "sentenced": 9320
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2010,
+    "unsentenced": 4054,
+    "sentenced": 9239
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2011,
+    "unsentenced": 4143,
+    "sentenced": 8594
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2012,
+    "unsentenced": 3840,
+    "sentenced": 8272
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2013,
+    "unsentenced": 3434,
+    "sentenced": 7733
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2014,
+    "unsentenced": 2888,
+    "sentenced": 7473
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2015,
+    "unsentenced": 2736,
+    "sentenced": 6407
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2016,
+    "unsentenced": 2748,
+    "sentenced": 6375
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2017,
+    "unsentenced": 2791,
+    "sentenced": 6758
+  },
+  {
+    "country_name": "Netherlands",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 9972
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2003,
+    "unsentenced": 2214,
+    "sentenced": 2602
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2004,
+    "unsentenced": 2441,
+    "sentenced": 3028
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2005,
+    "unsentenced": 1879,
+    "sentenced": 3794
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2006,
+    "unsentenced": 2341,
+    "sentenced": 3185
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2007,
+    "unsentenced": 2195,
+    "sentenced": 3056
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2008,
+    "unsentenced": 2350,
+    "sentenced": 2849
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2009,
+    "unsentenced": 2521,
+    "sentenced": 2970
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2010,
+    "unsentenced": 2566,
+    "sentenced": 3099
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2011,
+    "unsentenced": 2406,
+    "sentenced": 3105
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2012,
+    "unsentenced": 2753,
+    "sentenced": 3248
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2013,
+    "unsentenced": 2915,
+    "sentenced": 3622
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2014,
+    "unsentenced": 2770,
+    "sentenced": 3644
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2015,
+    "unsentenced": 2756,
+    "sentenced": 3642
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2016,
+    "unsentenced": 2804,
+    "sentenced": 3643
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2017,
+    "unsentenced": 2756,
+    "sentenced": 3693
+  },
+  {
+    "country_name": "Switzerland",
+    "year": 2018,
+    "unsentenced": "",
+    "sentenced": 6507
+  }
+]

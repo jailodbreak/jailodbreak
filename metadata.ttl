@@ -9,7 +9,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix prov: <http://www.w3.org/ns/prov#>.
 
-<data>
+<data/zip>
     a dcat:Catalog;    
     dct:title "Jailodbreak catalogue";
     dct:description "The catalogue of the Jailodbreak datasets.";
@@ -32,9 +32,9 @@
     dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
     dct:rights "Under this licence you may copy, distribute, display and perform the work and make derivative works and remixes based on it, even for commercial purposes, only if you give the author or licensor the credits (attribution) in the manner specified by the license, and indicating if changes were made.You may distribute derivative works only under a licence identical to the licence that governs the original work.".
 
-    <mash_up/mash_up.zip>
+    <data/zip/mash_up.zip>
         a dcat:Dataset;
-        dct:identifier <mash_up.zip>;
+        dct:identifier <data/zip/mash_up.zip>;
         dct:title "Jailodbreak - Final mash up";
         dct:description "This dataset contains data from UNECE (United Nations Economic Commission for Europe), Eurostat, UNODC (United Nations Office on Drugs and Crime) and WHO (World Health Organization). It represents the result of the mash-up of all data relevant for our research, belonging to the original datasets of the aforementioned organizations. Therefore, the dataset contains information regarding the European prison population (total number, sex, age, legal status, citizenship), data about overcrowding conditions (total persons held and prison capacity), mortality rates, prison staff availability and health services issues. The spatial coverage of the dataset are the European Union member States while the temporage coverage goes from 2003 to 2018.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -75,22 +75,22 @@
         dcat:startDate "2003"^^xsd:year;
         dcat:endDate "2018"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <mash_up/mash_up.csv>;
-        dcat:distribution <mash_up/mash_up.json>;
-        dcat:distribution <mash_up/mash_up.xml>;
+        dcat:distribution <data/csv/mash_up.csv>;
+        dcat:distribution <data/json/mash_up.json>;
+        dcat:distribution <data/xml/mash_up.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec>, <https://dataunodc.un.org/data/Prison/Mortality%20in%20prison>, <https://dataunodc.un.org/data/prison/total%20persons%20held%20unsentenced>, <https://dataunodc.un.org/data/Prision/Prison%20staff>, <https://apps.who.int/gho/data/node.prisons.Responsibilities_Health_Authority?lang=en>, <https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en>, <https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_age&lang=en>;
-        dcat:downloadURL <mash_up/mash_up.zip>;
+        dcat:downloadURL <data/zip/mash_up.zip>;
         dcat:byteSize "66 KB";
         adms:status <http://purl.org/adms/status/Completed>.
     
-    <prisoners_overview/prisoners_overview.zip>
+    <data/zip/prisoners_overview.zip>
         a dcat:Dataset;
-        dct:identifier <prisoners_overview.zip>;
+        dct:identifier <data/zip/prisoners_overview.zip>;
         dct:title "Jailodbreak prisoners_overview";
         dct:description "This dataset contains data from three organizations: Eurostat, UNECE (United Nations Economic Commission for Europe) and UNODC (United Nations Office on Drugs and Crime). The dataset collects information relating to the characteristics of the prison population in Europe. Specifically, it provides information on: gender, age (adult / juvenile), legal status, citizenship (citizen / foreigner). All source datasets are divided by country covering almost all of the European states. The temporal coverage differs. As regards the dataset from UNECE, 'Prisoners by Citizenship, Sex, Measurement, Country and Year', it covers the years 1980 to 2019; 'Prisoners by Age and Sex - number and rate for the relevant sex and age groups', by Eurostat instead covers the years from 2008 to 2019. Concerning the 'Persons held by status' dataset from UNODC (United Nations Office on Drugs and Crime), the time coverage is from 2010 to 2019.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -114,22 +114,22 @@
         dcat:startDate "2003"^^xsd:year;
         dcat:endDate "2018"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <prisoners_overview/prisoners_overview.csv>;
-        dcat:distribution <prisoners_overview/prisoners_overview.json>;
-        dcat:distribution <prisoners_overview/prisoners_overview.xml>;
+        dcat:distribution <data/csv/prisoners_overview.csv>;
+        dcat:distribution <data/json/prisoners_overview.json>;
+        dcat:distribution <data/xml/prisoners_overview.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://dataunodc.un.org/data/prison/total%20persons%20held%20unsentenced>, <https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en>, <https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec>;
-        dcat:downloadURL <prisoners_overview/prisoners_overview.zip>;
+        dcat:downloadURL <data/zip/prisoners_overview.zip>;
         dcat:byteSize "55 KB";
         adms:status <http://purl.org/adms/status/Completed>.
 
-    <Prison_population/Prison_population.zip>
+    <data/zip//Prison_population.zip>
         a dcat:Dataset;
-        dct:identifier <Prison_population.zip>;
+        dct:identifier <data/zip/Prison_population.zip>;
         dct:title "Jailodbreak - Prisoners by age and gender per country";
         dct:description "This dataset contains data from two organizations: Eurostat and UNECE (United Nations Economic Commission for Europe) and UNODC. The dataset collects information relating to the numbers of juvenile, adult, male and female prisoners in Europe. n population in Europe. juvenile), by adding data of the abovementioned organizations. All source datasets are divided by country covering almost all of the European states. The temporal coverage differs. As regards the dataset from UNECE, 'Prisoners by Citizenship, Sex, Measurement, Country and Year', it covers the years 1980 to 2019 and 'Prisoners by Age and Sex - number and rate for the relevant sex and age groups', by Eurostat instead covers the years from 2008 to 2019.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -153,22 +153,22 @@
         dcat:startDate "2003"^^xsd:year;
         dcat:endDate "2017"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <Prison_population/Prison_population.csv>;
-        dcat:distribution <Prison_population/Prison_population.json>;
-        dcat:distribution <Prison_population/Prison_population.xml>;
+        dcat:distribution <data/csv/Prison_population.csv>;
+        dcat:distribution <data/json/Prison_population.json>;
+        dcat:distribution <data/xml/Prison_population.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en>, <https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/table/tableViewLayout1/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec> ;
-        dcat:downloadURL <Prison_population/Prison_population.zip>;
+        dcat:downloadURL <data/zip/Prison_population.zip>;
         dcat:byteSize "36 KB";
         adms:status <http://purl.org/adms/status/Completed>.
     
-    <Evolution_of_the_prison_population/Evolution_of_the_prison_population.zip>
+    <data/zip/Evolution_of_the_prison_population.zip>
         a dcat:Dataset;
-        dct:identifier <Evolution_of_the_prison_population.zip>;
+        dct:identifier <data/zip/Evolution_of_the_prison_population.zip>;
         dct:title "Jailodbreak - Trend prisoners over the years";
         dct:description "This dataset contains data from UNECE (United Nations Economic Commission for Europe). The dataset collects information relating to the prison population growth over time. The original dataset is divided by countries covering almost all of the European states. The temporal coverage goes from 1980 to 2019.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -190,22 +190,22 @@
         dcat:startDate "2010"^^xsd:year;
         dcat:endDate "2018"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <Evolution_of_the_prison_population/Evolution_of_the_prison_population.csv>;
-        dcat:distribution <Evolution_of_the_prison_population/Evolution_of_the_prison_population.json>;
-        dcat:distribution <Evolution_of_the_prison_population/Evolution_of_the_prison_population.xml>;
+        dcat:distribution <data/csv/Evolution_of_the_prison_population.csv>;
+        dcat:distribution <data/json/Evolution_of_the_prison_population.json>;
+        dcat:distribution <data/xml/Evolution_of_the_prison_population.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec>;
-        dcat:downloadURL <Evolution_of_the_prison_population/Evolution_of_the_prison_population.zip>;
+        dcat:downloadURL <data/zip/Evolution_of_the_prison_population.zip>;
         dcat:byteSize "6 KB";
         adms:status <http://purl.org/adms/status/Completed>.
 
-    <sentenced_unsentenced/sentenced_unsentenced.zip>
+    <data/zip/sentenced_unsentenced.zip>
         a dcat:Dataset;
-        dct:identifier <sentenced_unsentenced.zip>;
+        dct:identifier <data/zip/sentenced_unsentenced.zip>;
         dct:title "Jailodbreak - Sentenced and Unsentenced Prisoners";
         dct:description "This dataset contains data from two organizations: UNECE (United Nations Economic Commission for Europe) and UNODC. The dataset collects information relating to the legal status of European prisoners, by subtracting data (toatal_prisoner - unsentenced) of the abovementioned organizations. All source datasets are divided by country covering almost all of the European states. The temporal coverage differs. As regards the dataset from UNECE, 'Prisoners by Citizenship, Sex, Measurement, Country and Year', it covers the years 1980 to 2019, 'Persons held by status', from UNODC, covers the years from 2010 to 2019.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -232,22 +232,22 @@
         dcat:startDate "2003"^^xsd:year;
         dcat:endDate "2017"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <sentenced_unsentenced/sentenced_unsentenced.csv>;
-        dcat:distribution <sentenced_unsentenced/sentenced_unsentenced.json>;
-        dcat:distribution <sentenced_unsentenced/sentenced_unsentenced.xml>;
+        dcat:distribution <data/csv/sentenced_unsentenced.csv>;
+        dcat:distribution <data/json/sentenced_unsentenced.json>;
+        dcat:distribution <data/xml/sentenced_unsentenced.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__07-CV/ZZZ_en_GECV_PrisCitizenship_r.px/?rxid=280b4a3f-7a19-4f99-baf8-f740afa242ec>,  <https://dataunodc.un.org/data/prison/total%20persons%20held%20unsentenced>;
-        dcat:downloadURL <sentenced_unsentenced/sentenced_unsentenced.zip>;
+        dcat:downloadURL <data/zip/sentenced_unsentenced.zip>;
         dcat:byteSize "17 KB";
         adms:status <http://purl.org/adms/status/Completed>.
 
-    <Overcrowding/Overcrowding.zip>
+    <data/zip/Overcrowding.zip>
         a dcat:Dataset;
-        dct:identifier <Overcrowding.zip>;
+        dct:identifier <data/zip/Overcrowding.zip>;
         dct:title "Jailodbreak - Overcrowding issue in European countries";
         dct:description "This dataset contains data from Eurostat organization. The dataset collects information related to the European prisons capacity and compared to the actual number of persons held. The Eurostat dataset is divided by countries covering almost all of the European states. The temporal coverage goes from 2008 to 2019.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -271,22 +271,22 @@
         dcat:startDate "2008"^^xsd:year;
         dcat:endDate "2018"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <Overcrowding/Overcrowding.csv>;
-        dcat:distribution <Overcrowding/Overcrowding.json>;
-        dcat:distribution <Overcrowding/Overcrowding.xml>;
+        dcat:distribution <data/csv/Overcrowding.csv>;
+        dcat:distribution <data/json/Overcrowding.json>;
+        dcat:distribution <data/xml/Overcrowding.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=crim_pris_cap&lang=en>;
-        dcat:downloadURL <Overcrowding/Overcrowding.zip>;
+        dcat:downloadURL <data/zip/Overcrowding.zip>;
         dcat:byteSize "15 KB";
         adms:status <http://purl.org/adms/status/Completed>.
 
-    <Mortality_inspections/Mortality_inspections.zip>
+    <data/zip/Mortality_inspections.zip>
         a dcat:Dataset;
-        dct:identifier <Mortality_inspections.zip>;
+        dct:identifier <data/zip/Mortality_inspections.zip>;
         dct:title "Jailodbreak - Mortality vs. prison conditions and health service system (medical documents inspections)";
         dct:description "This dataset contains data from two organizations: UNODC (United Nations Office on Drugs and Crime) and WHO (World Health Organization). The dataset collects information about mortality rates the European prisons related and compared to countries that make or not (YES / NO) medical documents inspections. Both datasets have a temporal coverage that goes from 2010 to 2019.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -312,22 +312,22 @@
         dcat:startDate "2010"^^xsd:year;
         dcat:endDate "2018"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <Mortality_inspections/Mortality_inspections.csv>;
-        dcat:distribution <Mortality_inspections/Mortality_inspections.json>;
-        dcat:distribution <Mortality_inspections/Mortality_inspections.xml>;
+        dcat:distribution <data/csv/Mortality_inspections.csv>;
+        dcat:distribution <data/json/Mortality_inspections.json>;
+        dcat:distribution <data/xml/Mortality_inspections.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://dataunodc.un.org/data/Prison/Mortality%20in%20prison>, <https://apps.who.int/gho/data/node.prisons.Responsibilities_Health_Authority?lang=en>;
-        dcat:downloadURL <Mortality_inspections/Mortality_inspections.zip>;
+        dcat:downloadURL <data/zip/Mortality_inspections.zip>;
         dcat:byteSize "2 KB";
         adms:status <http://purl.org/adms/status/Completed>.
 
-    <Mortality_health_services/Mortality_health_services.zip>
+    <data/zip/Mortality_health_services.zip>
         a dcat:Dataset;
-        dct:identifier <Mortality_health_services.zip>;
+        dct:identifier <data/zip/Mortality_health_services.zip>;
         dct:title "Jailodbreak - Mortality vs. prison conditions and health service system (assessments of prison health services)";
         dct:description "This dataset contains data from two organizations: UNODC (United Nations Office on Drugs and Crime) and WHO (World Health Organization). The dataset collects information about mortality rates in the European prisons related and compared to countries that make or not (YES / NO) assessments of prison health services. Both datasets have a temporal coverage that goes from 2010 to 2019.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -353,22 +353,22 @@
         dcat:startDate "2010"^^xsd:year;
         dcat:endDate "2018"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <Mortality_health_services/Mortality_health_services.csv>;
-        dcat:distribution <Mortality_health_services/Mortality_health_services.json>;
-        dcat:distribution <Mortality_health_services/Mortality_health_services.xml>;
+        dcat:distribution <data/csv/Mortality_health_services.csv>;
+        dcat:distribution <data/json/Mortality_health_services.json>;
+        dcat:distribution <data/xml/Mortality_health_services.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://dataunodc.un.org/data/Prison/Mortality%20in%20prison>, <https://apps.who.int/gho/data/node.prisons.Responsibilities_Health_Authority?lang=en>;
-        dcat:downloadURL <Mortality_health_services/Mortality_health_services.zip>;
+        dcat:downloadURL <data/zip/Mortality_health_services.zip>;
         dcat:byteSize "2 KB";
         adms:status <http://purl.org/adms/status/Completed>.
 
-    <suicides_staff_available/suicides_staff_available.zip>
+    <data/zip/suicides_staff_available.zip>
         a dcat:Dataset;
-        dct:identifier <suicides_staff_available.zip>;
+        dct:identifier <data/zip/suicides_staff_available.zip>;
         dct:title "Jailodbreak - Number of Suicides vs. Staff Available (2016)";
         dct:description "This dataset contains data from UNODC (United Nations Office on Drugs and Crime). The dataset collects information about suicide rates in the European prisons for the year 2016 related and compared to the available prison staff. The datasets have a temporal coverage that goes from 2010 to 2019.";
         dct:modified "2021/12/12"^^xsd:date;
@@ -394,15 +394,15 @@
         dcat:startDate "2016"^^xsd:year;
         dcat:endDate "2016"^^xsd:year;
         dct:spatial "Europe";
-        dcat:distribution <suicides_staff_available/suicides_staff_available.csv>;
-        dcat:distribution <suicides_staff_available/suicides_staff_available.json>;
-        dcat:distribution <suicides_staff_available/suicides_staff_available.xml>;
+        dcat:distribution <data/csv/suicides_staff_available.csv>;
+        dcat:distribution <data/json/suicides_staff_available.json>;
+        dcat:distribution <data/xml/suicides_staff_available.xml>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/XML>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/CSV>;
         dct:format <http://publications.europa.eu/resource/authority/file-type/JSON>;
         dcat:accessURL <metadata.html>;
         dct:license <https://creativecommons.org/licenses/by-sa/4.0/>;
         prov:wasDerivedFrom <https://dataunodc.un.org/data/Prison/Mortality%20in%20prison>, <https://dataunodc.un.org/data/Prision/Prison%20staff>;
-        dcat:downloadURL <suicides_staff_available/suicides_staff_available.zip>;
+        dcat:downloadURL <data/zip/suicides_staff_available.zip>;
         dcat:byteSize "3 KB";
         adms:status <http://purl.org/adms/status/Completed>.

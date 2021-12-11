@@ -1,0 +1,3812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:jb="https://jailodbreak.github.io/jailodbreak/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<root>
+   <element>
+      <jb:actual />
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>652</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>322</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>578</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>360</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>636</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>351</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>622</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>370</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>678</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>370</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>553</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>370</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>532</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <jb:official />
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>547</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>480</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>586</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <jb:official />
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>592</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>528</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>619</jb:actual>
+      <jb:country_code>CYP</jb:country_code>
+      <jb:country_name>Cyprus</jb:country_name>
+      <official>566</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>9408</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>9408</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>9006</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>9006</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>9379</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>9379</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>9885</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>9885</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>9493</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>9493</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>8834</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>8834</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>7870</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>7870</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>7408</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>7408</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>7345</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>8491</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>6988</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>8491</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>6651</jb:actual>
+      <jb:country_code>BGR</jb:country_code>
+      <jb:country_name>Bulgaria</jb:country_name>
+      <official>8241</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>14743</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>12556</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>15432</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>12042</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>16328</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>12335</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>17210</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>12604</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>17179</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>12573</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>17841</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>12584</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>17890</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>12584</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>17449</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>13209</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>17658</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>13774</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>17343</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>14011</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>16303</jb:actual>
+      <jb:country_code>HUN</jb:country_code>
+      <jb:country_name>Hungary</jb:country_name>
+      <official>14469</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>84978</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>85049</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>85749</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>86019</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>82372</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>86755</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>82832</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>87961</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>85459</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>88498</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>80165</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>88662</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>79345</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>87742</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>72695</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>89164</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>72209</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>89178</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>74480</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>88637</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>72818</jb:actual>
+      <jb:country_code>POL</jb:country_code>
+      <jb:country_name>Poland</jb:country_name>
+      <official>85940</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>26212</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>34299</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>26716</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>33960</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>28244</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>34165</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>30694</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>26618</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>31817</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>27125</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>33434</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>29389</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>30156</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>28901</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>28334</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>27479</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>27455</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>27889</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>23450</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>20408</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>20792</jb:actual>
+      <jb:country_code>ROU</jb:country_code>
+      <jb:country_name>Romania</jb:country_name>
+      <official>19414</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>8166</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>10818</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>9316</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>10876</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>10031</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>11085</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>10525</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>11201</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>10850</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>11304</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>9753</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>11812</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>10020</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>11828</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>9913</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>11184</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>9995</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>11033</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>10028</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>10941</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>10294</jb:actual>
+      <jb:country_code>SVK</jb:country_code>
+      <jb:country_name>Slovakia</jb:country_name>
+      <official>11499</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>3451</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>3721</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>3944</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>3947</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>3829</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>4091</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>3583</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <official>4153</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>3203</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <official>3761</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>3408</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <official>3522</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>3418</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <official>3592</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>3635</jb:actual>
+      <jb:country_code>DNK</jb:country_code>
+      <jb:country_name>Denmark</jb:country_name>
+      <official>3795</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>3656</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>3880</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>3555</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>3621</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>3393</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>3637</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>3400</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>3662</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>3286</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>3023</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>3420</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>3034</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>2962</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>2823</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <jb:official />
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>2864</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>2915</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>2723</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>2915</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>2584</jb:actual>
+      <jb:country_code>EST</jb:country_code>
+      <jb:country_name>Estonia</jb:country_name>
+      <official>3334</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>3530</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>3589</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>3364</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>3268</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>3306</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>3295</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>3148</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <official>3083</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>3135</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <official>3079</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>3156</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <official>2959</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>3082</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <official>2922</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>2956</jb:actual>
+      <jb:country_code>FIN</jb:country_code>
+      <jb:country_name>Finland</jb:country_name>
+      <official>2975</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>140</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <official>145</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>148</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <official>145</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>167</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>150</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>153</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <official>141</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>147</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <official>164</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>154</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <official>155</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>139</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <official>148</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>116</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <official>140</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>137</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>136</jb:actual>
+      <jb:country_code>ISL</jb:country_code>
+      <jb:country_name>Iceland</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>3484</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <official>3827</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>3868</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <official>4323</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>4318</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <official>4480</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>4216</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <official>4480</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>4287</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <official>4622</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>4088</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <official>4244</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>3777</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <official>4145</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>3755</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <official>4695</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>3718</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <jb:official />
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>3680</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <jb:official />
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>3962</jb:actual>
+      <jb:country_code>IRL</jb:country_code>
+      <jb:country_name>Ireland</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>6548</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>8042</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>7055</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>8015</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>6780</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>8333</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>6561</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>6117</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>7970</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>5136</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>8144</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>4745</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>5852</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>4409</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>5871</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>4243</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>4409</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>3765</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>3783</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>3522</jb:actual>
+      <jb:country_code>LVA</jb:country_code>
+      <jb:country_name>Latvia</jb:country_name>
+      <official>3522</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>8000</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>9062</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>8655</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>9062</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>9139</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>9399</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>9920</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>9399</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>9729</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>9399</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>9261</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>9399</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>8636</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>9399</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>7355</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>9399</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>6815</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>8011</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>6599</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>8011</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>6485</jb:actual>
+      <jb:country_code>LTU</jb:country_code>
+      <jb:country_name>Lithuania</jb:country_name>
+      <official>8011</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>3477</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>3340</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>3564</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>3866</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>4052</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>3869</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>4103</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <official>3916</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>4056</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <official>3850</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>4192</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <official>3880</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>4164</jb:actual>
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NOR</jb:country_code>
+      <jb:country_name>Norway</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>7073</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>7175</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>7286</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6981</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>6846</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6805</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>6669</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>7045</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>6296</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6963</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>5723</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6675</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>5807</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6475</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>5691</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6262</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>5658</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6252</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>5713</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6147</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>6114</jb:actual>
+      <jb:country_code>SWE</jb:country_code>
+      <jb:country_name>Sweden</jb:country_name>
+      <official>6539</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>91044</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>1722</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>91325</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>1842</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>93322</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>92291</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>94279</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>93976</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>94625</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>94698</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>91574</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>90349</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>93118</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>91653</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>93635</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>90909</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>92590</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>89170</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>93288</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>88849</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>83311</jb:actual>
+      <jb:country_code>GBR</jb:country_code>
+      <jb:country_name>United Kingdom (England and Wales)</jb:country_name>
+      <official>90346</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>4916</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>4166</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>4667</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>4425</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>4657</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>4381</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>4659</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>4417</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>4618</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>4577</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>4998</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>4577</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>5689</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>4577</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>5981</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>5484</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>6031</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>5455</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>5674</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>5455</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>5316</jb:actual>
+      <jb:country_code>ALB</jb:country_code>
+      <jb:country_name>Albania</jb:country_name>
+      <official>6236</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>2743</jb:actual>
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <official>3080</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>2757</jb:actual>
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <official>3199</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>2898</jb:actual>
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <official>3297</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>2825</jb:actual>
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <official>3358</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>2730</jb:actual>
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <official>3510</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>2832</jb:actual>
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <official>3407</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>2820</jb:actual>
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <official>3587</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>4377</jb:actual>
+      <jb:country_code>BIH</jb:country_code>
+      <jb:country_name>Bosnia and Herzegovina</jb:country_name>
+      <official>3480</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>4734</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>3501</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>4891</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>3501</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>5165</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>3501</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>5084</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>3921</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>4741</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>3921</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>4352</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>3921</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>3763</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>4022</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>3341</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>4022</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>3108</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <jb:official />
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>3190</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <jb:official />
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>3217</jb:actual>
+      <jb:country_code>HRV</jb:country_code>
+      <jb:country_name>Croatia</jb:country_name>
+      <official>3558</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>11736</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>9664</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>11364</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>9723</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>12349</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>10326</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>12479</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>10376</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>12475</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>9886</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>12693</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>9909</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>11798</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>9886</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>9611</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>9886</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>9560</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>9815</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>10011</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <official>10260</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>10654</jb:actual>
+      <jb:country_code>GRC</jb:country_code>
+      <jb:country_name>Greece</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>59284</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>43843</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>65598</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>44838</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>69263</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>45791</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>68325</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>46452</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>67102</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>47864</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>63848</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>48559</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>54745</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>50282</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>53410</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>50239</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>55978</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>50806</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>59038</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>51078</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>61131</jb:actual>
+      <jb:country_code>ITA</jb:country_code>
+      <jb:country_name>Italy</jb:country_name>
+      <official>51141</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>OSA</jb:country_code>
+      <jb:country_name>Kosovo under UNSCR 1244</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>1216</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1280</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>1499</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1022</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>1457</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1066</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>1328</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1116</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>1331</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1116</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>1064</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1116</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>1123</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <jb:official />
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>1131</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <jb:official />
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>1123</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1375</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>1119</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1345</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>1125</jb:actual>
+      <jb:country_code>MNE</jb:country_code>
+      <jb:country_name>Montenegro</jb:country_name>
+      <official>1345</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <official>1681</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <official>1941</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <official>2041</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <official>1941</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>3231</jb:actual>
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>3031</jb:actual>
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <official>2519</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>MKD</jb:country_code>
+      <jb:country_name>North Macedonia</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>10807</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12464</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>11287</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12102</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>11839</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12174</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>12955</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12330</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>13875</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12342</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>14535</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12400</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>14198</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12591</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>14373</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12591</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>13917</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12600</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>13587</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12694</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>13021</jb:actual>
+      <jb:country_code>PRT</jb:country_code>
+      <jb:country_name>Portugal</jb:country_name>
+      <official>12934</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>9701</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>10975</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>11211</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>11070</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <official>6924</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>10226</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <official>9000</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>10031</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <official>9200</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>10288</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <official>9340</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>10064</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <official>9459</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>10672</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <official>9802</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>10807</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <official>9892</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>10871</jb:actual>
+      <jb:country_code>SRB</jb:country_code>
+      <jb:country_name>Serbia</jb:country_name>
+      <official>10307</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>73558</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>76079</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>73929</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>70472</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>68597</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>66765</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>65017</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>61614</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <jb:official />
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>59589</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <official>64144</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>58814</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <official>64109</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>58883</jb:actual>
+      <jb:country_code>ESP</jb:country_code>
+      <jb:country_name>Spain</jb:country_name>
+      <official>64323</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>8248</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>8682</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>8708</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>8678</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>8540</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>8565</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>8770</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>8773</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>8805</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>8651</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>8862</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>8636</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>8692</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>8666</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>8665</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>4191</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>8619</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>4182</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>8852</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <official>8884</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>9163</jb:actual>
+      <jb:country_code>AUT</jb:country_code>
+      <jb:country_name>Austria</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>9811</jb:actual>
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <official>8445</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>10126</jb:actual>
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <official>8546</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>10526</jb:actual>
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <official>9129</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>11040</jb:actual>
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <official>9212</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>11183</jb:actual>
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <official>9401</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>11818</jb:actual>
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <official>9715</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>10994</jb:actual>
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <official>9952</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>BEL</jb:country_code>
+      <jb:country_name>Belgium</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>62252</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>51997</official>
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>60978</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>54988</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>60544</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>56358</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>64787</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>57236</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>66572</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>56992</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>67075</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>57516</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>66270</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>57841</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>66678</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>58561</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>68432</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>58681</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>68974</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <official>59765</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>70059</jb:actual>
+      <jb:country_code>FRA</jb:country_code>
+      <jb:country_name>France</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>73793</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>72295</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>70827</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>69543</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>68533</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>66221</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>63228</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <official>75793</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>63020</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <official>73916</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>64291</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <official>73627</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>65841</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <official>73603</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>65762</jb:actual>
+      <jb:country_code>DEU</jb:country_code>
+      <jb:country_name>Germany</jb:country_name>
+      <official>74386</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>762</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>702</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>681</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>637</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>666</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>656</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>626</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <official>711</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>691</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <official>711</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>724</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <official>711</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>684</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <official>711</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>656</jb:actual>
+      <jb:country_code>LUX</jb:country_code>
+      <jb:country_name>Luxembourg</jb:country_name>
+      <official>711</official>
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>14610</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>14364</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <official>17668</official>
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>14368</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <official>16033</official>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>13969</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <official>15509</official>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>13473</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <official>15731</official>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>12721</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <official>15283</official>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>11934</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <official>14665</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>10850</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <official>14299</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>10601</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>10874</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>11251</jb:actual>
+      <jb:country_code>NLD</jb:country_code>
+      <jb:country_name>Netherlands</jb:country_name>
+      <jb:official />
+      <jb:year>2018</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2003</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2004</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2005</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2006</jb:year>
+   </element>
+   <element>
+      <jb:actual />
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2007</jb:year>
+   </element>
+   <element>
+      <jb:actual>5303</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2008</jb:year>
+   </element>
+   <element>
+      <jb:actual>5605</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2009</jb:year>
+   </element>
+   <element>
+      <jb:actual>5765</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:actual>5626</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:actual>6102</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:actual>6652</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <jb:official />
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:actual>6519</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <official>7235</official>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:actual>6498</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <official>7324</official>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:actual>6507</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <official>7483</official>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:actual>6564</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <official>7489</official>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:actual>6602</jb:actual>
+      <jb:country_code>CHE</jb:country_code>
+      <jb:country_name>Switzerland</jb:country_name>
+      <official>7518</official>
+      <jb:year>2018</jb:year>
+   </element>
+</root>

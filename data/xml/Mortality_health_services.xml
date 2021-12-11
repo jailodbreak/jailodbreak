@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:jb="https://jailodbreak.github.io/jailodbreak/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<root>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>42.285713</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>35.22222</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>40.285713</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>37.77778</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>40.75</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>37.555557</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>34.5</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>51.81818</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>40.583332</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>46.727272</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>46.81818</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>48</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>43.545456</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>49.272728</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>43.5</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>40.272728</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_assessment_of_prison_healt_services>57.4</jb:Tot_dead_no_assessment_of_prison_healt_services>
+      <jb:Tot_dead_yes_assessment_of_prison_healt_services>46.727272</jb:Tot_dead_yes_assessment_of_prison_healt_services>
+      <jb:year>2018</jb:year>
+   </element>
+</root>

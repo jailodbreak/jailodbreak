@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:jb="https://jailodbreak.github.io/jailodbreak/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<root>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>77</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>20.727272</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2010</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>76.666664</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>22.727272</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2011</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>79.166664</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>25.333334</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2012</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>65.71429</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>37.53846</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2013</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>65.2</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>33.642857</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2014</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>70.77778</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>37.07143</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2015</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>66.55556</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>37.142857</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2016</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>79</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>29.142857</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2017</jb:year>
+   </element>
+   <element>
+      <jb:Tot_dead_no_medical_document_inspections>92.125</jb:Tot_dead_no_medical_document_inspections>
+      <jb:Tot_dead_yes_medical_document_inspections>32.42857</jb:Tot_dead_yes_medical_document_inspections>
+      <jb:year>2018</jb:year>
+   </element>
+</root>
