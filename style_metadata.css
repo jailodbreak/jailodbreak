@@ -257,6 +257,22 @@ li {
     width: 60%;
   }
 
+  a:link{
+    text-decoration: none;
+    color: black;
+  }
+
+  a:visited{
+    text-decoration: none;
+    color: black;
+  }
+
+  a:hover {
+    /*transform: scale(1.1);*/
+    color: #e25c02;
+  
+  }
+
 
 @media screen and (max-width: 600px) {
   .topnav{
